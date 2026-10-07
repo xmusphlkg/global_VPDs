@@ -1,0 +1,391 @@
+country,country_name,dose,target_age_months,target_age_years,schedule_source
+AFG,Afghanistan,DTP1,2,0.16666666666666666,WHO_standard
+AFG,Afghanistan,DTP3,6,0.5,WHO_standard
+AGO,Angola,DTP1,2,0.16666666666666666,WHO_standard
+AGO,Angola,DTP3,6,0.5,WHO_standard
+ALB,Albania,DTP1,2,0.16666666666666666,WHO_standard
+ALB,Albania,DTP3,6,0.5,WHO_standard
+AND,Andorra,DTP1,2,0.16666666666666666,WHO_standard
+AND,Andorra,DTP3,6,0.5,WHO_standard
+ARE,United Arab Emirates,DTP1,2,0.16666666666666666,WHO_standard
+ARE,United Arab Emirates,DTP3,6,0.5,WHO_standard
+ARG,Argentina,DTP1,2,0.16666666666666666,WHO_standard
+ARG,Argentina,DTP3,6,0.5,WHO_standard
+ARM,Armenia,DTP1,2,0.16666666666666666,WHO_standard
+ARM,Armenia,DTP3,6,0.5,WHO_standard
+ATG,Antigua and Barbuda,DTP1,2,0.16666666666666666,WHO_standard
+ATG,Antigua and Barbuda,DTP3,6,0.5,WHO_standard
+AUS,Australia,DTP1,2,0.16666666666666666,WHO_standard
+AUS,Australia,DTP3,6,0.5,WHO_standard
+AUT,Austria,DTP1,2,0.16666666666666666,WHO_standard
+AUT,Austria,DTP3,6,0.5,WHO_standard
+AZE,Azerbaijan,DTP1,2,0.16666666666666666,WHO_standard
+AZE,Azerbaijan,DTP3,6,0.5,WHO_standard
+BDI,Burundi,DTP1,2,0.16666666666666666,WHO_standard
+BDI,Burundi,DTP3,6,0.5,WHO_standard
+BEL,Belgium,DTP1,2,0.16666666666666666,WHO_standard
+BEL,Belgium,DTP3,6,0.5,WHO_standard
+BEN,Benin,DTP1,2,0.16666666666666666,WHO_standard
+BEN,Benin,DTP3,6,0.5,WHO_standard
+BFA,Burkina Faso,DTP1,2,0.16666666666666666,WHO_standard
+BFA,Burkina Faso,DTP3,6,0.5,WHO_standard
+BGD,Bangladesh,DTP1,2,0.16666666666666666,WHO_standard
+BGD,Bangladesh,DTP3,6,0.5,WHO_standard
+BGR,Bulgaria,DTP1,2,0.16666666666666666,WHO_standard
+BGR,Bulgaria,DTP3,6,0.5,WHO_standard
+BHR,Bahrain,DTP1,2,0.16666666666666666,WHO_standard
+BHR,Bahrain,DTP3,6,0.5,WHO_standard
+BHS,Bahamas,DTP1,2,0.16666666666666666,WHO_standard
+BHS,Bahamas,DTP3,6,0.5,WHO_standard
+BIH,Bosnia and Herzegovina,DTP1,2,0.16666666666666666,WHO_standard
+BIH,Bosnia and Herzegovina,DTP3,6,0.5,WHO_standard
+BLR,Belarus,DTP1,2,0.16666666666666666,WHO_standard
+BLR,Belarus,DTP3,6,0.5,WHO_standard
+BLZ,Belize,DTP1,2,0.16666666666666666,WHO_standard
+BLZ,Belize,DTP3,6,0.5,WHO_standard
+BOL,Bolivia (Plurinational State of),DTP1,2,0.16666666666666666,WHO_standard
+BOL,Bolivia (Plurinational State of),DTP3,6,0.5,WHO_standard
+BRA,Brazil,DTP1,2,0.16666666666666666,WHO_standard
+BRA,Brazil,DTP3,6,0.5,WHO_standard
+BRB,Barbados,DTP1,2,0.16666666666666666,WHO_standard
+BRB,Barbados,DTP3,6,0.5,WHO_standard
+BRN,Brunei Darussalam,DTP1,2,0.16666666666666666,WHO_standard
+BRN,Brunei Darussalam,DTP3,6,0.5,WHO_standard
+BTN,Bhutan,DTP1,2,0.16666666666666666,WHO_standard
+BTN,Bhutan,DTP3,6,0.5,WHO_standard
+BWA,Botswana,DTP1,2,0.16666666666666666,WHO_standard
+BWA,Botswana,DTP3,6,0.5,WHO_standard
+CAF,Central African Republic,DTP1,2,0.16666666666666666,WHO_standard
+CAF,Central African Republic,DTP3,6,0.5,WHO_standard
+CAN,Canada,DTP1,2,0.16666666666666666,WHO_standard
+CAN,Canada,DTP3,6,0.5,WHO_standard
+CHE,Switzerland,DTP1,2,0.16666666666666666,WHO_standard
+CHE,Switzerland,DTP3,6,0.5,WHO_standard
+CHL,Chile,DTP1,2,0.16666666666666666,WHO_standard
+CHL,Chile,DTP3,6,0.5,WHO_standard
+CHN,China,DTP1,2,0.16666666666666666,WHO_standard
+CHN,China,DTP3,6,0.5,WHO_standard
+CIV,Côte d'Ivoire,DTP1,2,0.16666666666666666,WHO_standard
+CIV,Côte d'Ivoire,DTP3,6,0.5,WHO_standard
+CMR,Cameroon,DTP1,2,0.16666666666666666,WHO_standard
+CMR,Cameroon,DTP3,6,0.5,WHO_standard
+COD,Democratic Republic of the Congo,DTP1,2,0.16666666666666666,WHO_standard
+COD,Democratic Republic of the Congo,DTP3,6,0.5,WHO_standard
+COG,Congo,DTP1,2,0.16666666666666666,WHO_standard
+COG,Congo,DTP3,6,0.5,WHO_standard
+COK,Cook Islands,DTP1,2,0.16666666666666666,WHO_standard
+COK,Cook Islands,DTP3,6,0.5,WHO_standard
+COL,Colombia,DTP1,2,0.16666666666666666,WHO_standard
+COL,Colombia,DTP3,6,0.5,WHO_standard
+COM,Comoros,DTP1,2,0.16666666666666666,WHO_standard
+COM,Comoros,DTP3,6,0.5,WHO_standard
+CPV,Cabo Verde,DTP1,2,0.16666666666666666,WHO_standard
+CPV,Cabo Verde,DTP3,6,0.5,WHO_standard
+CRI,Costa Rica,DTP1,2,0.16666666666666666,WHO_standard
+CRI,Costa Rica,DTP3,6,0.5,WHO_standard
+CUB,Cuba,DTP1,2,0.16666666666666666,WHO_standard
+CUB,Cuba,DTP3,6,0.5,WHO_standard
+CYP,Cyprus,DTP1,2,0.16666666666666666,WHO_standard
+CYP,Cyprus,DTP3,6,0.5,WHO_standard
+CZE,Czechia,DTP1,2,0.16666666666666666,WHO_standard
+CZE,Czechia,DTP3,6,0.5,WHO_standard
+DEU,Germany,DTP1,2,0.16666666666666666,WHO_standard
+DEU,Germany,DTP3,6,0.5,WHO_standard
+DJI,Djibouti,DTP1,2,0.16666666666666666,WHO_standard
+DJI,Djibouti,DTP3,6,0.5,WHO_standard
+DMA,Dominica,DTP1,2,0.16666666666666666,WHO_standard
+DMA,Dominica,DTP3,6,0.5,WHO_standard
+DNK,Denmark,DTP1,2,0.16666666666666666,WHO_standard
+DNK,Denmark,DTP3,6,0.5,WHO_standard
+DOM,Dominican Republic,DTP1,2,0.16666666666666666,WHO_standard
+DOM,Dominican Republic,DTP3,6,0.5,WHO_standard
+DZA,Algeria,DTP1,2,0.16666666666666666,WHO_standard
+DZA,Algeria,DTP3,6,0.5,WHO_standard
+ECU,Ecuador,DTP1,2,0.16666666666666666,WHO_standard
+ECU,Ecuador,DTP3,6,0.5,WHO_standard
+EGY,Egypt,DTP1,2,0.16666666666666666,WHO_standard
+EGY,Egypt,DTP3,6,0.5,WHO_standard
+ERI,Eritrea,DTP1,2,0.16666666666666666,WHO_standard
+ERI,Eritrea,DTP3,6,0.5,WHO_standard
+ESP,Spain,DTP1,2,0.16666666666666666,WHO_standard
+ESP,Spain,DTP3,6,0.5,WHO_standard
+EST,Estonia,DTP1,2,0.16666666666666666,WHO_standard
+EST,Estonia,DTP3,6,0.5,WHO_standard
+ETH,Ethiopia,DTP1,2,0.16666666666666666,WHO_standard
+ETH,Ethiopia,DTP3,6,0.5,WHO_standard
+FIN,Finland,DTP1,2,0.16666666666666666,WHO_standard
+FIN,Finland,DTP3,6,0.5,WHO_standard
+FJI,Fiji,DTP1,2,0.16666666666666666,WHO_standard
+FJI,Fiji,DTP3,6,0.5,WHO_standard
+FRA,France,DTP1,2,0.16666666666666666,WHO_standard
+FRA,France,DTP3,6,0.5,WHO_standard
+FSM,Micronesia (Federated States of),DTP1,2,0.16666666666666666,WHO_standard
+FSM,Micronesia (Federated States of),DTP3,6,0.5,WHO_standard
+GAB,Gabon,DTP1,2,0.16666666666666666,WHO_standard
+GAB,Gabon,DTP3,6,0.5,WHO_standard
+GBR,United Kingdom of Great Britain and Northern Ireland,DTP1,2,0.16666666666666666,WHO_standard
+GBR,United Kingdom of Great Britain and Northern Ireland,DTP3,6,0.5,WHO_standard
+GEO,Georgia,DTP1,2,0.16666666666666666,WHO_standard
+GEO,Georgia,DTP3,6,0.5,WHO_standard
+GHA,Ghana,DTP1,2,0.16666666666666666,WHO_standard
+GHA,Ghana,DTP3,6,0.5,WHO_standard
+GIN,Guinea,DTP1,2,0.16666666666666666,WHO_standard
+GIN,Guinea,DTP3,6,0.5,WHO_standard
+GMB,Gambia,DTP1,2,0.16666666666666666,WHO_standard
+GMB,Gambia,DTP3,6,0.5,WHO_standard
+GNB,Guinea-Bissau,DTP1,2,0.16666666666666666,WHO_standard
+GNB,Guinea-Bissau,DTP3,6,0.5,WHO_standard
+GNQ,Equatorial Guinea,DTP1,2,0.16666666666666666,WHO_standard
+GNQ,Equatorial Guinea,DTP3,6,0.5,WHO_standard
+GRC,Greece,DTP1,2,0.16666666666666666,WHO_standard
+GRC,Greece,DTP3,6,0.5,WHO_standard
+GRD,Grenada,DTP1,2,0.16666666666666666,WHO_standard
+GRD,Grenada,DTP3,6,0.5,WHO_standard
+GTM,Guatemala,DTP1,2,0.16666666666666666,WHO_standard
+GTM,Guatemala,DTP3,6,0.5,WHO_standard
+GUY,Guyana,DTP1,2,0.16666666666666666,WHO_standard
+GUY,Guyana,DTP3,6,0.5,WHO_standard
+HND,Honduras,DTP1,2,0.16666666666666666,WHO_standard
+HND,Honduras,DTP3,6,0.5,WHO_standard
+HRV,Croatia,DTP1,2,0.16666666666666666,WHO_standard
+HRV,Croatia,DTP3,6,0.5,WHO_standard
+HTI,Haiti,DTP1,2,0.16666666666666666,WHO_standard
+HTI,Haiti,DTP3,6,0.5,WHO_standard
+HUN,Hungary,DTP1,2,0.16666666666666666,WHO_standard
+HUN,Hungary,DTP3,6,0.5,WHO_standard
+IDN,Indonesia,DTP1,2,0.16666666666666666,WHO_standard
+IDN,Indonesia,DTP3,6,0.5,WHO_standard
+IND,India,DTP1,2,0.16666666666666666,WHO_standard
+IND,India,DTP3,6,0.5,WHO_standard
+IRL,Ireland,DTP1,2,0.16666666666666666,WHO_standard
+IRL,Ireland,DTP3,6,0.5,WHO_standard
+IRN,Iran (Islamic Republic of),DTP1,2,0.16666666666666666,WHO_standard
+IRN,Iran (Islamic Republic of),DTP3,6,0.5,WHO_standard
+IRQ,Iraq,DTP1,2,0.16666666666666666,WHO_standard
+IRQ,Iraq,DTP3,6,0.5,WHO_standard
+ISL,Iceland,DTP1,2,0.16666666666666666,WHO_standard
+ISL,Iceland,DTP3,6,0.5,WHO_standard
+ISR,Israel,DTP1,2,0.16666666666666666,WHO_standard
+ISR,Israel,DTP3,6,0.5,WHO_standard
+ITA,Italy,DTP1,2,0.16666666666666666,WHO_standard
+ITA,Italy,DTP3,6,0.5,WHO_standard
+JAM,Jamaica,DTP1,2,0.16666666666666666,WHO_standard
+JAM,Jamaica,DTP3,6,0.5,WHO_standard
+JOR,Jordan,DTP1,2,0.16666666666666666,WHO_standard
+JOR,Jordan,DTP3,6,0.5,WHO_standard
+JPN,Japan,DTP1,2,0.16666666666666666,WHO_standard
+JPN,Japan,DTP3,6,0.5,WHO_standard
+KAZ,Kazakhstan,DTP1,2,0.16666666666666666,WHO_standard
+KAZ,Kazakhstan,DTP3,6,0.5,WHO_standard
+KEN,Kenya,DTP1,2,0.16666666666666666,WHO_standard
+KEN,Kenya,DTP3,6,0.5,WHO_standard
+KGZ,Kyrgyzstan,DTP1,2,0.16666666666666666,WHO_standard
+KGZ,Kyrgyzstan,DTP3,6,0.5,WHO_standard
+KHM,Cambodia,DTP1,2,0.16666666666666666,WHO_standard
+KHM,Cambodia,DTP3,6,0.5,WHO_standard
+KIR,Kiribati,DTP1,2,0.16666666666666666,WHO_standard
+KIR,Kiribati,DTP3,6,0.5,WHO_standard
+KNA,Saint Kitts and Nevis,DTP1,2,0.16666666666666666,WHO_standard
+KNA,Saint Kitts and Nevis,DTP3,6,0.5,WHO_standard
+KOR,Republic of Korea,DTP1,2,0.16666666666666666,WHO_standard
+KOR,Republic of Korea,DTP3,6,0.5,WHO_standard
+KWT,Kuwait,DTP1,2,0.16666666666666666,WHO_standard
+KWT,Kuwait,DTP3,6,0.5,WHO_standard
+LAO,Lao People's Democratic Republic,DTP1,2,0.16666666666666666,WHO_standard
+LAO,Lao People's Democratic Republic,DTP3,6,0.5,WHO_standard
+LBN,Lebanon,DTP1,2,0.16666666666666666,WHO_standard
+LBN,Lebanon,DTP3,6,0.5,WHO_standard
+LBR,Liberia,DTP1,2,0.16666666666666666,WHO_standard
+LBR,Liberia,DTP3,6,0.5,WHO_standard
+LBY,Libya,DTP1,2,0.16666666666666666,WHO_standard
+LBY,Libya,DTP3,6,0.5,WHO_standard
+LCA,Saint Lucia,DTP1,2,0.16666666666666666,WHO_standard
+LCA,Saint Lucia,DTP3,6,0.5,WHO_standard
+LKA,Sri Lanka,DTP1,2,0.16666666666666666,WHO_standard
+LKA,Sri Lanka,DTP3,6,0.5,WHO_standard
+LSO,Lesotho,DTP1,2,0.16666666666666666,WHO_standard
+LSO,Lesotho,DTP3,6,0.5,WHO_standard
+LTU,Lithuania,DTP1,2,0.16666666666666666,WHO_standard
+LTU,Lithuania,DTP3,6,0.5,WHO_standard
+LUX,Luxembourg,DTP1,2,0.16666666666666666,WHO_standard
+LUX,Luxembourg,DTP3,6,0.5,WHO_standard
+LVA,Latvia,DTP1,2,0.16666666666666666,WHO_standard
+LVA,Latvia,DTP3,6,0.5,WHO_standard
+MAR,Morocco,DTP1,2,0.16666666666666666,WHO_standard
+MAR,Morocco,DTP3,6,0.5,WHO_standard
+MCO,Monaco,DTP1,2,0.16666666666666666,WHO_standard
+MCO,Monaco,DTP3,6,0.5,WHO_standard
+MDA,Republic of Moldova,DTP1,2,0.16666666666666666,WHO_standard
+MDA,Republic of Moldova,DTP3,6,0.5,WHO_standard
+MDG,Madagascar,DTP1,2,0.16666666666666666,WHO_standard
+MDG,Madagascar,DTP3,6,0.5,WHO_standard
+MDV,Maldives,DTP1,2,0.16666666666666666,WHO_standard
+MDV,Maldives,DTP3,6,0.5,WHO_standard
+MEX,Mexico,DTP1,2,0.16666666666666666,WHO_standard
+MEX,Mexico,DTP3,6,0.5,WHO_standard
+MHL,Marshall Islands,DTP1,2,0.16666666666666666,WHO_standard
+MHL,Marshall Islands,DTP3,6,0.5,WHO_standard
+MKD,North Macedonia,DTP1,2,0.16666666666666666,WHO_standard
+MKD,North Macedonia,DTP3,6,0.5,WHO_standard
+MLI,Mali,DTP1,2,0.16666666666666666,WHO_standard
+MLI,Mali,DTP3,6,0.5,WHO_standard
+MLT,Malta,DTP1,2,0.16666666666666666,WHO_standard
+MLT,Malta,DTP3,6,0.5,WHO_standard
+MMR,Myanmar,DTP1,2,0.16666666666666666,WHO_standard
+MMR,Myanmar,DTP3,6,0.5,WHO_standard
+MNE,Montenegro,DTP1,2,0.16666666666666666,WHO_standard
+MNE,Montenegro,DTP3,6,0.5,WHO_standard
+MNG,Mongolia,DTP1,2,0.16666666666666666,WHO_standard
+MNG,Mongolia,DTP3,6,0.5,WHO_standard
+MOZ,Mozambique,DTP1,2,0.16666666666666666,WHO_standard
+MOZ,Mozambique,DTP3,6,0.5,WHO_standard
+MRT,Mauritania,DTP1,2,0.16666666666666666,WHO_standard
+MRT,Mauritania,DTP3,6,0.5,WHO_standard
+MUS,Mauritius,DTP1,2,0.16666666666666666,WHO_standard
+MUS,Mauritius,DTP3,6,0.5,WHO_standard
+MWI,Malawi,DTP1,2,0.16666666666666666,WHO_standard
+MWI,Malawi,DTP3,6,0.5,WHO_standard
+MYS,Malaysia,DTP1,2,0.16666666666666666,WHO_standard
+MYS,Malaysia,DTP3,6,0.5,WHO_standard
+NAM,Namibia,DTP1,2,0.16666666666666666,WHO_standard
+NAM,Namibia,DTP3,6,0.5,WHO_standard
+NER,Niger,DTP1,2,0.16666666666666666,WHO_standard
+NER,Niger,DTP3,6,0.5,WHO_standard
+NGA,Nigeria,DTP1,2,0.16666666666666666,WHO_standard
+NGA,Nigeria,DTP3,6,0.5,WHO_standard
+NIC,Nicaragua,DTP1,2,0.16666666666666666,WHO_standard
+NIC,Nicaragua,DTP3,6,0.5,WHO_standard
+NIU,Niue,DTP1,2,0.16666666666666666,WHO_standard
+NIU,Niue,DTP3,6,0.5,WHO_standard
+NLD,Netherlands (Kingdom of the),DTP1,2,0.16666666666666666,WHO_standard
+NLD,Netherlands (Kingdom of the),DTP3,6,0.5,WHO_standard
+NOR,Norway,DTP1,2,0.16666666666666666,WHO_standard
+NOR,Norway,DTP3,6,0.5,WHO_standard
+NPL,Nepal,DTP1,2,0.16666666666666666,WHO_standard
+NPL,Nepal,DTP3,6,0.5,WHO_standard
+NRU,Naoero,DTP1,2,0.16666666666666666,WHO_standard
+NRU,Naoero,DTP3,6,0.5,WHO_standard
+NZL,New Zealand,DTP1,2,0.16666666666666666,WHO_standard
+NZL,New Zealand,DTP3,6,0.5,WHO_standard
+OMN,Oman,DTP1,2,0.16666666666666666,WHO_standard
+OMN,Oman,DTP3,6,0.5,WHO_standard
+PAK,Pakistan,DTP1,2,0.16666666666666666,WHO_standard
+PAK,Pakistan,DTP3,6,0.5,WHO_standard
+PAN,Panama,DTP1,2,0.16666666666666666,WHO_standard
+PAN,Panama,DTP3,6,0.5,WHO_standard
+PER,Peru,DTP1,2,0.16666666666666666,WHO_standard
+PER,Peru,DTP3,6,0.5,WHO_standard
+PHL,Philippines,DTP1,2,0.16666666666666666,WHO_standard
+PHL,Philippines,DTP3,6,0.5,WHO_standard
+PLW,Palau,DTP1,2,0.16666666666666666,WHO_standard
+PLW,Palau,DTP3,6,0.5,WHO_standard
+PNG,Papua New Guinea,DTP1,2,0.16666666666666666,WHO_standard
+PNG,Papua New Guinea,DTP3,6,0.5,WHO_standard
+POL,Poland,DTP1,2,0.16666666666666666,WHO_standard
+POL,Poland,DTP3,6,0.5,WHO_standard
+PRK,Democratic People's Republic of Korea,DTP1,2,0.16666666666666666,WHO_standard
+PRK,Democratic People's Republic of Korea,DTP3,6,0.5,WHO_standard
+PRT,Portugal,DTP1,2,0.16666666666666666,WHO_standard
+PRT,Portugal,DTP3,6,0.5,WHO_standard
+PRY,Paraguay,DTP1,2,0.16666666666666666,WHO_standard
+PRY,Paraguay,DTP3,6,0.5,WHO_standard
+PSE,"occupied Palestinian territory, including east Jerusalem",DTP1,2,0.16666666666666666,WHO_standard
+PSE,"occupied Palestinian territory, including east Jerusalem",DTP3,6,0.5,WHO_standard
+QAT,Qatar,DTP1,2,0.16666666666666666,WHO_standard
+QAT,Qatar,DTP3,6,0.5,WHO_standard
+ROU,Romania,DTP1,2,0.16666666666666666,WHO_standard
+ROU,Romania,DTP3,6,0.5,WHO_standard
+RUS,Russian Federation,DTP1,2,0.16666666666666666,WHO_standard
+RUS,Russian Federation,DTP3,6,0.5,WHO_standard
+RWA,Rwanda,DTP1,2,0.16666666666666666,WHO_standard
+RWA,Rwanda,DTP3,6,0.5,WHO_standard
+SAU,Saudi Arabia,DTP1,2,0.16666666666666666,WHO_standard
+SAU,Saudi Arabia,DTP3,6,0.5,WHO_standard
+SDN,Sudan,DTP1,2,0.16666666666666666,WHO_standard
+SDN,Sudan,DTP3,6,0.5,WHO_standard
+SEN,Senegal,DTP1,2,0.16666666666666666,WHO_standard
+SEN,Senegal,DTP3,6,0.5,WHO_standard
+SGP,Singapore,DTP1,2,0.16666666666666666,WHO_standard
+SGP,Singapore,DTP3,6,0.5,WHO_standard
+SLB,Solomon Islands,DTP1,2,0.16666666666666666,WHO_standard
+SLB,Solomon Islands,DTP3,6,0.5,WHO_standard
+SLE,Sierra Leone,DTP1,2,0.16666666666666666,WHO_standard
+SLE,Sierra Leone,DTP3,6,0.5,WHO_standard
+SLV,El Salvador,DTP1,2,0.16666666666666666,WHO_standard
+SLV,El Salvador,DTP3,6,0.5,WHO_standard
+SMR,San Marino,DTP1,2,0.16666666666666666,WHO_standard
+SMR,San Marino,DTP3,6,0.5,WHO_standard
+SOM,Somalia,DTP1,2,0.16666666666666666,WHO_standard
+SOM,Somalia,DTP3,6,0.5,WHO_standard
+SRB,Serbia,DTP1,2,0.16666666666666666,WHO_standard
+SRB,Serbia,DTP3,6,0.5,WHO_standard
+SSD,South Sudan,DTP1,2,0.16666666666666666,WHO_standard
+SSD,South Sudan,DTP3,6,0.5,WHO_standard
+STP,Sao Tome and Principe,DTP1,2,0.16666666666666666,WHO_standard
+STP,Sao Tome and Principe,DTP3,6,0.5,WHO_standard
+SUR,Suriname,DTP1,2,0.16666666666666666,WHO_standard
+SUR,Suriname,DTP3,6,0.5,WHO_standard
+SVK,Slovakia,DTP1,2,0.16666666666666666,WHO_standard
+SVK,Slovakia,DTP3,6,0.5,WHO_standard
+SVN,Slovenia,DTP1,2,0.16666666666666666,WHO_standard
+SVN,Slovenia,DTP3,6,0.5,WHO_standard
+SWE,Sweden,DTP1,2,0.16666666666666666,WHO_standard
+SWE,Sweden,DTP3,6,0.5,WHO_standard
+SWZ,Eswatini,DTP1,2,0.16666666666666666,WHO_standard
+SWZ,Eswatini,DTP3,6,0.5,WHO_standard
+SYC,Seychelles,DTP1,2,0.16666666666666666,WHO_standard
+SYC,Seychelles,DTP3,6,0.5,WHO_standard
+SYR,Syrian Arab Republic,DTP1,2,0.16666666666666666,WHO_standard
+SYR,Syrian Arab Republic,DTP3,6,0.5,WHO_standard
+TCD,Chad,DTP1,2,0.16666666666666666,WHO_standard
+TCD,Chad,DTP3,6,0.5,WHO_standard
+TGO,Togo,DTP1,2,0.16666666666666666,WHO_standard
+TGO,Togo,DTP3,6,0.5,WHO_standard
+THA,Thailand,DTP1,2,0.16666666666666666,WHO_standard
+THA,Thailand,DTP3,6,0.5,WHO_standard
+TJK,Tajikistan,DTP1,2,0.16666666666666666,WHO_standard
+TJK,Tajikistan,DTP3,6,0.5,WHO_standard
+TKM,Turkmenistan,DTP1,2,0.16666666666666666,WHO_standard
+TKM,Turkmenistan,DTP3,6,0.5,WHO_standard
+TLS,Timor-Leste,DTP1,2,0.16666666666666666,WHO_standard
+TLS,Timor-Leste,DTP3,6,0.5,WHO_standard
+TON,Tonga,DTP1,2,0.16666666666666666,WHO_standard
+TON,Tonga,DTP3,6,0.5,WHO_standard
+TTO,Trinidad and Tobago,DTP1,2,0.16666666666666666,WHO_standard
+TTO,Trinidad and Tobago,DTP3,6,0.5,WHO_standard
+TUN,Tunisia,DTP1,2,0.16666666666666666,WHO_standard
+TUN,Tunisia,DTP3,6,0.5,WHO_standard
+TUR,Türkiye,DTP1,2,0.16666666666666666,WHO_standard
+TUR,Türkiye,DTP3,6,0.5,WHO_standard
+TUV,Tuvalu,DTP1,2,0.16666666666666666,WHO_standard
+TUV,Tuvalu,DTP3,6,0.5,WHO_standard
+TZA,United Republic of Tanzania,DTP1,2,0.16666666666666666,WHO_standard
+TZA,United Republic of Tanzania,DTP3,6,0.5,WHO_standard
+UGA,Uganda,DTP1,2,0.16666666666666666,WHO_standard
+UGA,Uganda,DTP3,6,0.5,WHO_standard
+UKR,Ukraine,DTP1,2,0.16666666666666666,WHO_standard
+UKR,Ukraine,DTP3,6,0.5,WHO_standard
+URY,Uruguay,DTP1,2,0.16666666666666666,WHO_standard
+URY,Uruguay,DTP3,6,0.5,WHO_standard
+USA,United States of America,DTP1,2,0.16666666666666666,WHO_standard
+USA,United States of America,DTP3,6,0.5,WHO_standard
+UZB,Uzbekistan,DTP1,2,0.16666666666666666,WHO_standard
+UZB,Uzbekistan,DTP3,6,0.5,WHO_standard
+VCT,Saint Vincent and the Grenadines,DTP1,2,0.16666666666666666,WHO_standard
+VCT,Saint Vincent and the Grenadines,DTP3,6,0.5,WHO_standard
+VEN,Venezuela (Bolivarian Republic of),DTP1,2,0.16666666666666666,WHO_standard
+VEN,Venezuela (Bolivarian Republic of),DTP3,6,0.5,WHO_standard
+VNM,Viet Nam,DTP1,2,0.16666666666666666,WHO_standard
+VNM,Viet Nam,DTP3,6,0.5,WHO_standard
+VUT,Vanuatu,DTP1,2,0.16666666666666666,WHO_standard
+VUT,Vanuatu,DTP3,6,0.5,WHO_standard
+WSM,Samoa,DTP1,2,0.16666666666666666,WHO_standard
+WSM,Samoa,DTP3,6,0.5,WHO_standard
+YEM,Yemen,DTP1,2,0.16666666666666666,WHO_standard
+YEM,Yemen,DTP3,6,0.5,WHO_standard
+ZAF,South Africa,DTP1,2,0.16666666666666666,WHO_standard
+ZAF,South Africa,DTP3,6,0.5,WHO_standard
+ZMB,Zambia,DTP1,2,0.16666666666666666,WHO_standard
+ZMB,Zambia,DTP3,6,0.5,WHO_standard
+ZWE,Zimbabwe,DTP1,2,0.16666666666666666,WHO_standard
+ZWE,Zimbabwe,DTP3,6,0.5,WHO_standard

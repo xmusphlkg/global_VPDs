@@ -1,0 +1,12 @@
+disease,priority,countries_included,records,gap_availability,mean_gap,notes
+Measles,1,217,7511,82.0%,17.5%,核心病种，全球分析
+Rubella,1,157,2310,63.5%,12.2%,核心病种，部分国家
+Pertussis,1,216,9360,91.9%,10.7%,核心病种，疾病复兴
+Diphtheria,1,216,8355,82.1%,10.5%,核心病种，病例激增
+Mumps,1,216,7449,82.0%,17.6%,核心病种，与麻疹共疫苗
+CRS,1,157,2300,63.5%,12.2%,核心病种，风疹结局
+Neonatal Tetanus,2,114,5232,91.8%,25.1%,母体免疫，单独设计
+Japanese Encephalitis,3,9,109,57.4%,12.1%,亚洲地区专题
+Yellow Fever,3,41,694,65.3%,40.6%,热带地区专题
+Poliomyelitis,4,110,1590,48.4%,11.6%,全球消除计划
+Typhoid,4,0,0,NA,NA,数据不足排除

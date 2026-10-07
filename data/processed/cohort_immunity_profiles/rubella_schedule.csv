@@ -1,0 +1,413 @@
+country,dose,country_name,who_region,year,target_age_months,vaccine
+ABW,RCV1,Aruba,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ABW,RCV2,Aruba,AMRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+AGO,RCV1,Angola,AFRO,2025,9,MR (Measles and rubella) vaccine
+AGO,RCV2,Angola,AFRO,2025,15,MR (Measles and rubella) vaccine
+AIA,RCV1,Anguilla,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+AIA,RCV2,Anguilla,AMRO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+ALB,RCV1,Albania,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ALB,RCV2,Albania,EURO,2025,60,"MMR (Measles, mumps and rubella) vaccine"
+AND,RCV1,Andorra,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+AND,RCV2,Andorra,EURO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+ARE,RCV1,United Arab Emirates,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ARE,RCV2,United Arab Emirates,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+ARG,RCV1,Argentina,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ARG,RCV2,Argentina,AMRO,2025,60,"MMR (Measles, mumps and rubella) vaccine"
+ARM,RCV1,Armenia,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ARM,RCV2,Armenia,EURO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+ARM,RCV3,Armenia,EURO,2025,180,"MMR (Measles, mumps and rubella) vaccine"
+ATG,RCV1,Antigua and Barbuda,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ATG,RCV2,Antigua and Barbuda,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+AUS,RCV1,Australia,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+AUS,RCV2,Australia,WPRO,2025,18,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+AUT,RCV1,Austria,EURO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+AUT,RCV2,Austria,EURO,2025,18,"MMR (Measles, mumps and rubella) vaccine (2nd dose, estimated)"
+AZE,RCV1,Azerbaijan,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+AZE,RCV2,Azerbaijan,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+BDI,RCV1,Burundi,AFRO,2025,9,MR (Measles and rubella) vaccine
+BDI,RCV2,Burundi,AFRO,2025,18,MR (Measles and rubella) vaccine
+BEL,RCV1,Belgium,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BEL,RCV2,Belgium,EURO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+BEN,RCV1,Benin,AFRO,2025,9,MR (Measles and rubella) vaccine
+BEN,RCV2,Benin,AFRO,2025,18,MR (Measles and rubella) vaccine
+BFA,RCV1,Burkina Faso,AFRO,2025,9,MR (Measles and rubella) vaccine
+BFA,RCV2,Burkina Faso,AFRO,2025,15,MR (Measles and rubella) vaccine
+BGD,RCV1,Bangladesh,SEARO,2025,8.775981524249422,MR (Measles and rubella) vaccine
+BGD,RCV2,Bangladesh,SEARO,2025,15,MR (Measles and rubella) vaccine
+BGR,RCV1,Bulgaria,EURO,2025,13,"MMR (Measles, mumps and rubella) vaccine"
+BGR,RCV2,Bulgaria,EURO,2025,144,"MMR (Measles, mumps and rubella) vaccine"
+BHR,RCV1,Bahrain,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BHR,RCV2,Bahrain,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+BHS,RCV1,Bahamas,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BHS,RCV2,Bahamas,AMRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+BIH,RCV1,Bosnia and Herzegovina,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BIH,RCV2,Bosnia and Herzegovina,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+BLR,RCV1,Belarus,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BLR,RCV2,Belarus,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+BLZ,RCV1,Belize,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BLZ,RCV2,Belize,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+BMU,RCV1,Bermuda,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BMU,RCV2,Bermuda,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+BOL,RCV1,Bolivia (Plurinational State of),AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BOL,RCV2,Bolivia (Plurinational State of),AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+BON,RCV1,Bonaire,AMRO,2025,14,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+BON,RCV2,Bonaire,AMRO,2025,18,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+BRA,RCV1,Brazil,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BRA,RCV2,Brazil,AMRO,2025,15,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+BRB,RCV1,Barbados,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BRB,RCV2,Barbados,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+BRN,RCV1,Brunei Darussalam,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+BRN,RCV2,Brunei Darussalam,WPRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+BTN,RCV1,Bhutan,SEARO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+BTN,RCV2,Bhutan,SEARO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+BWA,RCV1,Botswana,AFRO,2025,9,MR (Measles and rubella) vaccine
+BWA,RCV2,Botswana,AFRO,2025,18,MR (Measles and rubella) vaccine
+CAN,RCV1,Canada,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+CAN,RCV2,Canada,AMRO,2025,18,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+CHE,RCV1,Switzerland,EURO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+CHE,RCV2,Switzerland,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+CHL,RCV1,Chile,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+CHL,RCV2,Chile,AMRO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+CHN,RCV1,China,WPRO,2025,8,"MMR (Measles, mumps and rubella) vaccine"
+CHN,RCV2,China,WPRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+CIV,RCV1,Côte d'Ivoire,AFRO,2025,9,MR (Measles and rubella) vaccine
+CIV,RCV2,Côte d'Ivoire,AFRO,2025,15,MR (Measles and rubella) vaccine
+CMR,RCV1,Cameroon,AFRO,2025,9,MR (Measles and rubella) vaccine
+CMR,RCV2,Cameroon,AFRO,2025,15,MR (Measles and rubella) vaccine
+COG,RCV1,Congo,AFRO,2025,8.314087759815243,MR (Measles and rubella) vaccine
+COG,RCV2,Congo,AFRO,2025,13.856812933025404,MR (Measles and rubella) vaccine
+COK,RCV1,Cook Islands,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+COK,RCV2,Cook Islands,WPRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+COL,RCV1,Colombia,AMRO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+COL,RCV2,Colombia,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+COM,RCV1,Comoros,AFRO,2025,9,MR (Measles and rubella) vaccine
+COM,RCV2,Comoros,AFRO,2025,18,MR (Measles and rubella) vaccine
+CPV,RCV1,Cabo Verde,AFRO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+CPV,RCV2,Cabo Verde,AFRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+CRI,RCV1,Costa Rica,AMRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+CRI,RCV2,Costa Rica,AMRO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+CUB,RCV1,Cuba,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+CUB,RCV2,Cuba,AMRO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+CUW,RCV1,Curaçao,AMRO,2019,12,"MMR (Measles, mumps and rubella) vaccine"
+CUW,RCV2,Curaçao,AMRO,2019,15,"MMR (Measles, mumps and rubella) vaccine"
+CYM,RCV1,Cayman Islands,AMRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+CYM,RCV2,Cayman Islands,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+CYP,RCV1,Cyprus,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+CYP,RCV2,Cyprus,EURO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+CZE,RCV1,Czechia,EURO,2025,13,"MMR (Measles, mumps and rubella) vaccine"
+CZE,RCV2,Czechia,EURO,2025,60,"MMR (Measles, mumps and rubella) vaccine"
+DEU,RCV1,Germany,EURO,2025,11,"MMR (Measles, mumps and rubella) vaccine"
+DEU,RCV2,Germany,EURO,2025,15,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+DMA,RCV1,Dominica,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+DMA,RCV2,Dominica,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+DNK,RCV1,Denmark,EURO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+DNK,RCV2,Denmark,EURO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+DOM,RCV1,Dominican Republic,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+DOM,RCV2,Dominican Republic,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+DZA,RCV1,Algeria,AFRO,2025,11,"MMR (Measles, mumps and rubella) vaccine"
+DZA,RCV2,Algeria,AFRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+ECU,RCV1,Ecuador,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ECU,RCV2,Ecuador,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+EGY,RCV1,Egypt,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+EGY,RCV2,Egypt,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+ERI,RCV1,Eritrea,AFRO,2025,9,MR (Measles and rubella) vaccine
+ERI,RCV2,Eritrea,AFRO,2025,18,MR (Measles and rubella) vaccine
+ESP,RCV1,Spain,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ESP,RCV2,Spain,EURO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+EST,RCV1,Estonia,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+EST,RCV2,Estonia,EURO,2025,156,"MMR (Measles, mumps and rubella) vaccine"
+FIN,RCV1,Finland,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+FIN,RCV2,Finland,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+FJI,RCV1,Fiji,WPRO,2025,12,MR (Measles and rubella) vaccine
+FJI,RCV2,Fiji,WPRO,2025,18,MR (Measles and rubella) vaccine
+FJI,RCV3,Fiji,WPRO,2025,72,MR (Measles and rubella) vaccine
+FRA,RCV1,France,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+FRA,RCV2,France,EURO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+FSM,RCV1,Micronesia (Federated States of),WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+FSM,RCV2,Micronesia (Federated States of),WPRO,2025,18,"MMR (Measles, mumps and rubella) vaccine (2nd dose, estimated)"
+GBR,RCV1,United Kingdom of Great Britain and Northern Ireland,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+GBR,RCV2,United Kingdom of Great Britain and Northern Ireland,EURO,2025,40,"MMR (Measles, mumps and rubella) vaccine"
+GEO,RCV1,Georgia,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+GEO,RCV2,Georgia,EURO,2025,60,"MMR (Measles, mumps and rubella) vaccine"
+GHA,RCV1,Ghana,AFRO,2025,9,MR (Measles and rubella) vaccine
+GHA,RCV2,Ghana,AFRO,2025,18,MR (Measles and rubella) vaccine
+GMB,RCV1,Gambia,AFRO,2025,9,MR (Measles and rubella) vaccine
+GMB,RCV2,Gambia,AFRO,2025,18,MR (Measles and rubella) vaccine
+GRC,RCV1,Greece,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+GRC,RCV2,Greece,EURO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+GRD,RCV1,Grenada,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+GRD,RCV2,Grenada,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+GTM,RCV1,Guatemala,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+GTM,RCV2,Guatemala,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+GUM,RCV1,Guam,WPRO,2024,12,"MMR (Measles, mumps and rubella) vaccine"
+GUM,RCV2,Guam,WPRO,2024,48,"MMR (Measles, mumps and rubella) vaccine"
+GUY,RCV1,Guyana,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+GUY,RCV2,Guyana,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+HKG,RCV1,"China, Hong Kong SAR",WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+HKG,RCV2,"China, Hong Kong SAR",WPRO,2025,18,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+HND,RCV1,Honduras,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+HND,RCV2,Honduras,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+HRV,RCV1,Croatia,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+HRV,RCV2,Croatia,EURO,2025,84,"MMR (Measles, mumps and rubella) vaccine"
+HTI,RCV1,Haiti,AMRO,2025,9,MR (Measles and rubella) vaccine
+HTI,RCV2,Haiti,AMRO,2025,12,MR (Measles and rubella) vaccine
+HUN,RCV1,Hungary,EURO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+HUN,RCV2,Hungary,EURO,2025,132,"MMR (Measles, mumps and rubella) vaccine"
+IDN,RCV1,Indonesia,WPRO,2025,9,MR (Measles and rubella) vaccine
+IDN,RCV2,Indonesia,WPRO,2025,18,MR (Measles and rubella) vaccine
+IDN,RCV3,Indonesia,WPRO,2025,84,MR (Measles and rubella) vaccine
+IND,RCV1,India,SEARO,2025,9,MR (Measles and rubella) vaccine
+IND,RCV2,India,SEARO,2025,16,MR (Measles and rubella) vaccine
+IRL,RCV1,Ireland,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+IRL,RCV2,Ireland,EURO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+IRN,RCV1,Iran (Islamic Republic of),EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+IRN,RCV2,Iran (Islamic Republic of),EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+IRQ,RCV1,Iraq,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+IRQ,RCV2,Iraq,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+ISL,RCV1,Iceland,EURO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+ISL,RCV2,Iceland,EURO,2025,144,"MMR (Measles, mumps and rubella) vaccine"
+ISR,RCV1,Israel,EURO,2022,12,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+ISR,RCV2,Israel,EURO,2022,72,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+ITA,RCV1,Italy,EURO,2025,13,"MMR (Measles, mumps and rubella) vaccine"
+ITA,RCV2,Italy,EURO,2025,60,"MMR (Measles, mumps and rubella) vaccine"
+JAM,RCV1,Jamaica,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+JAM,RCV2,Jamaica,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+JOR,RCV1,Jordan,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+JOR,RCV2,Jordan,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+JPN,RCV1,Japan,WPRO,2025,12,MR (Measles and rubella) vaccine
+JPN,RCV2,Japan,WPRO,2025,60,MR (Measles and rubella) vaccine
+KAZ,RCV1,Kazakhstan,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+KAZ,RCV2,Kazakhstan,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+KEN,RCV1,Kenya,AFRO,2025,9,MR (Measles and rubella) vaccine
+KEN,RCV2,Kenya,AFRO,2025,18,MR (Measles and rubella) vaccine
+KGZ,RCV1,Kyrgyzstan,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+KGZ,RCV2,Kyrgyzstan,EURO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+KHM,RCV1,Cambodia,WPRO,2025,6,MR (Measles and rubella) vaccine
+KHM,RCV2,Cambodia,WPRO,2025,9,MR (Measles and rubella) vaccine
+KHM,RCV3,Cambodia,WPRO,2025,18,MR (Measles and rubella) vaccine
+KIR,RCV1,Kiribati,WPRO,2025,9,MR (Measles and rubella) vaccine
+KIR,RCV2,Kiribati,WPRO,2025,18,MR (Measles and rubella) vaccine
+KNA,RCV1,Saint Kitts and Nevis,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+KNA,RCV2,Saint Kitts and Nevis,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+KOR,RCV1,Republic of Korea,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+KOR,RCV2,Republic of Korea,WPRO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+KWT,RCV1,Kuwait,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+KWT,RCV2,Kuwait,EMRO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+LAO,RCV1,Lao People's Democratic Republic,WPRO,2025,9,MR (Measles and rubella) vaccine
+LAO,RCV2,Lao People's Democratic Republic,WPRO,2025,12,MR (Measles and rubella) vaccine
+LBN,RCV1,Lebanon,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+LBN,RCV2,Lebanon,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+LBY,RCV1,Libya,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+LBY,RCV2,Libya,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+LCA,RCV1,Saint Lucia,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+LCA,RCV2,Saint Lucia,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+LKA,RCV1,Sri Lanka,SEARO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+LKA,RCV2,Sri Lanka,SEARO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+LSO,RCV1,Lesotho,AFRO,2025,9,MR (Measles and rubella) vaccine
+LSO,RCV2,Lesotho,AFRO,2025,18,MR (Measles and rubella) vaccine
+LTU,RCV1,Lithuania,EURO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+LTU,RCV2,Lithuania,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+LUX,RCV1,Luxembourg,EURO,2025,12,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+LUX,RCV2,Luxembourg,EURO,2025,15,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+LVA,RCV1,Latvia,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+LVA,RCV2,Latvia,EURO,2025,84,"MMR (Measles, mumps and rubella) vaccine"
+MAC,RCV1,"China, Macao SAR",WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+MAC,RCV2,"China, Macao SAR",WPRO,2025,18,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+MAR,RCV1,Morocco,EMRO,2025,9,MR (Measles and rubella) vaccine
+MAR,RCV2,Morocco,EMRO,2025,18,MR (Measles and rubella) vaccine
+MCO,RCV1,Monaco,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+MCO,RCV2,Monaco,EURO,2025,16,"MMR (Measles, mumps and rubella) vaccine"
+MDA,RCV1,Republic of Moldova,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+MDA,RCV2,Republic of Moldova,EURO,2025,84,"MMR (Measles, mumps and rubella) vaccine"
+MDA,RCV3,Republic of Moldova,EURO,2025,180,"MMR (Measles, mumps and rubella) vaccine"
+MDV,RCV1,Maldives,SEARO,2025,9,MR (Measles and rubella) vaccine
+MDV,RCV2,Maldives,SEARO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+MEX,RCV1,Mexico,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+MEX,RCV2,Mexico,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+MHL,RCV1,Marshall Islands,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+MHL,RCV2,Marshall Islands,WPRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+MKD,RCV1,North Macedonia,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+MKD,RCV2,North Macedonia,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+MLI,RCV1,Mali,AFRO,2025,9,MR (Measles and rubella) vaccine
+MLI,RCV2,Mali,AFRO,2025,15,MR (Measles and rubella) vaccine
+MLT,RCV1,Malta,EURO,2025,13,"MMR (Measles, mumps and rubella) vaccine"
+MLT,RCV2,Malta,EURO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+MMR,RCV1,Myanmar,SEARO,2025,9,MR (Measles and rubella) vaccine
+MMR,RCV2,Myanmar,SEARO,2025,18,MR (Measles and rubella) vaccine
+MNE,RCV1,Montenegro,EURO,2025,13,"MMR (Measles, mumps and rubella) vaccine"
+MNE,RCV2,Montenegro,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+MNG,RCV1,Mongolia,WPRO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+MNG,RCV2,Mongolia,WPRO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+MNP,RCV1,Northern Mariana Islands,WPRO,2024,12,"MMR (Measles, mumps and rubella) vaccine"
+MNP,RCV2,Northern Mariana Islands,WPRO,2024,48,"MMR (Measles, mumps and rubella) vaccine"
+MOZ,RCV1,Mozambique,AFRO,2025,9,MR (Measles and rubella) vaccine
+MOZ,RCV2,Mozambique,AFRO,2025,18,MR (Measles and rubella) vaccine
+MRT,RCV1,Mauritania,AFRO,2025,9,MR (Measles and rubella) vaccine
+MRT,RCV2,Mauritania,AFRO,2025,15,MR (Measles and rubella) vaccine
+MSR,RCV1,Montserrat,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+MSR,RCV2,Montserrat,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+MUS,RCV1,Mauritius,AFRO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+MUS,RCV2,Mauritius,AFRO,2025,17,"MMR (Measles, mumps and rubella) vaccine"
+MWI,RCV1,Malawi,AFRO,2025,9,MR (Measles and rubella) vaccine
+MWI,RCV2,Malawi,AFRO,2025,15,MR (Measles and rubella) vaccine
+MYS,RCV1,Malaysia,WPRO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+MYS,RCV2,Malaysia,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+NAM,RCV1,Namibia,AFRO,2025,9,MR (Measles and rubella) vaccine
+NAM,RCV2,Namibia,AFRO,2025,15,MR (Measles and rubella) vaccine
+NCL,RCV1,New Caledonia,WPRO,2024,12,"MMR (Measles, mumps and rubella) vaccine"
+NCL,RCV2,New Caledonia,WPRO,2024,16,"MMR (Measles, mumps and rubella) vaccine"
+NGA,RCV1,Nigeria,AFRO,2025,9,MR (Measles and rubella) vaccine
+NGA,RCV2,Nigeria,AFRO,2025,15,MR (Measles and rubella) vaccine
+NIC,RCV1,Nicaragua,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+NIC,RCV2,Nicaragua,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+NIU,RCV1,Niue,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+NIU,RCV2,Niue,WPRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+NLD,RCV1,Netherlands (Kingdom of the),EURO,2025,14,"MMR (Measles, mumps and rubella) vaccine"
+NLD,RCV2,Netherlands (Kingdom of the),EURO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+NOR,RCV1,Norway,EURO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+NOR,RCV2,Norway,EURO,2025,132,"MMR (Measles, mumps and rubella) vaccine"
+NPL,RCV1,Nepal,SEARO,2025,9,MR (Measles and rubella) vaccine
+NPL,RCV2,Nepal,SEARO,2025,15,MR (Measles and rubella) vaccine
+NRU,RCV1,Naoero,WPRO,2025,12,MR (Measles and rubella) vaccine
+NRU,RCV2,Naoero,WPRO,2025,15,MR (Measles and rubella) vaccine
+NZL,RCV1,New Zealand,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+NZL,RCV2,New Zealand,WPRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+OMN,RCV1,Oman,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+OMN,RCV2,Oman,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+PAK,RCV1,Pakistan,EMRO,2025,9,MR (Measles and rubella) vaccine
+PAK,RCV2,Pakistan,EMRO,2025,15,MR (Measles and rubella) vaccine
+PAN,RCV1,Panama,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PAN,RCV2,Panama,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+PER,RCV1,Peru,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PER,RCV2,Peru,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+PHL,RCV1,Philippines,WPRO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+PHL,RCV2,Philippines,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PHL,RCV3,Philippines,WPRO,2025,72,MR (Measles and rubella) vaccine
+PHL,RCV4,Philippines,WPRO,2025,144,MR (Measles and rubella) vaccine
+PLW,RCV1,Palau,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PLW,RCV2,Palau,WPRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+PNG,RCV1,Papua New Guinea,WPRO,2025,9,MR (Measles and rubella) vaccine
+PNG,RCV2,Papua New Guinea,WPRO,2025,18,MR (Measles and rubella) vaccine
+PNG,RCV3,Papua New Guinea,WPRO,2025,84,MR (Measles and rubella) vaccine
+PNG,RCV4,Papua New Guinea,WPRO,2025,156,MR (Measles and rubella) vaccine
+POL,RCV1,Poland,EURO,2025,13,"MMR (Measles, mumps and rubella) vaccine"
+POL,RCV2,Poland,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+PRK,RCV1,Democratic People's Republic of Korea,SEARO,2025,9,MR (Measles and rubella) vaccine
+PRK,RCV2,Democratic People's Republic of Korea,SEARO,2025,15,MR (Measles and rubella) vaccine
+PRT,RCV1,Portugal,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PRT,RCV2,Portugal,EURO,2025,60,"MMR (Measles, mumps and rubella) vaccine"
+PRY,RCV1,Paraguay,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PRY,RCV2,Paraguay,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+PSE,RCV1,"occupied Palestinian territory, including east Jerusalem",EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PSE,RCV2,"occupied Palestinian territory, including east Jerusalem",EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+PYF,RCV1,French Polynesia,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+PYF,RCV2,French Polynesia,WPRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+QAT,RCV1,Qatar,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+QAT,RCV2,Qatar,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+ROU,RCV1,Romania,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+ROU,RCV2,Romania,EURO,2025,60,"MMR (Measles, mumps and rubella) vaccine"
+RUS,RCV1,Russian Federation,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+RUS,RCV2,Russian Federation,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+RWA,RCV1,Rwanda,AFRO,2025,9,MR (Measles and rubella) vaccine
+RWA,RCV2,Rwanda,AFRO,2025,15,MR (Measles and rubella) vaccine
+SAB,RCV1,Saba,AMRO,2024,14,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+SAB,RCV2,Saba,AMRO,2024,36,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+SAU,RCV1,Saudi Arabia,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+SAU,RCV2,Saudi Arabia,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+SAU,RCV3,Saudi Arabia,EMRO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+SDN,RCV1,Sudan,EMRO,2025,9,MR (Measles and rubella) vaccine
+SDN,RCV2,Sudan,EMRO,2025,18,MR (Measles and rubella) vaccine
+SEN,RCV1,Senegal,AFRO,2025,9,MR (Measles and rubella) vaccine
+SEN,RCV2,Senegal,AFRO,2025,15,MR (Measles and rubella) vaccine
+SGP,RCV1,Singapore,WPRO,2024,12,"MMR (Measles, mumps and rubella) vaccine"
+SGP,RCV2,Singapore,WPRO,2024,15,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+SLB,RCV1,Solomon Islands,WPRO,2025,12,MR (Measles and rubella) vaccine
+SLB,RCV2,Solomon Islands,WPRO,2025,18,MR (Measles and rubella) vaccine
+SLE,RCV1,Sierra Leone,AFRO,2025,9,MR (Measles and rubella) vaccine
+SLE,RCV2,Sierra Leone,AFRO,2025,15,MR (Measles and rubella) vaccine
+SLV,RCV1,El Salvador,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+SLV,RCV2,El Salvador,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+SMR,RCV1,San Marino,EURO,2025,15,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+SMR,RCV2,San Marino,EURO,2025,72,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+SRB,RCV1,Serbia,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+SRB,RCV2,Serbia,EURO,2025,84,"MMR (Measles, mumps and rubella) vaccine"
+STA,RCV1,Sint Eustatius,AMRO,2024,12,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+STA,RCV2,Sint Eustatius,AMRO,2024,45,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+STP,RCV1,Sao Tome and Principe,AFRO,2025,9,MR (Measles and rubella) vaccine
+STP,RCV2,Sao Tome and Principe,AFRO,2025,18,MR (Measles and rubella) vaccine
+SUR,RCV1,Suriname,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+SUR,RCV2,Suriname,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+SVK,RCV1,Slovakia,EURO,2025,14,"MMR (Measles, mumps and rubella) vaccine"
+SVK,RCV2,Slovakia,EURO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+SVN,RCV1,Slovenia,EURO,2025,11,"MMR (Measles, mumps and rubella) vaccine"
+SVN,RCV2,Slovenia,EURO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+SWE,RCV1,Sweden,EURO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+SWE,RCV2,Sweden,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+SWZ,RCV1,Eswatini,AFRO,2025,9,MR (Measles and rubella) vaccine
+SWZ,RCV2,Eswatini,AFRO,2025,18,MR (Measles and rubella) vaccine
+SXM,RCV1,Sint Maarten (Dutch part),AMRO,2019,12,"MMR (Measles, mumps and rubella) vaccine"
+SXM,RCV2,Sint Maarten (Dutch part),AMRO,2019,48,"MMR (Measles, mumps and rubella) vaccine"
+SYC,RCV1,Seychelles,AFRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+SYC,RCV2,Seychelles,AFRO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+SYR,RCV1,Syrian Arab Republic,EMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+SYR,RCV2,Syrian Arab Republic,EMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+TCA,RCV1,Turks and Caicos Islands,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+TCA,RCV2,Turks and Caicos Islands,AMRO,2025,36,"MMR (Measles, mumps and rubella) vaccine"
+TGO,RCV1,Togo,AFRO,2025,9,MR (Measles and rubella) vaccine
+TGO,RCV2,Togo,AFRO,2025,15,MR (Measles and rubella) vaccine
+THA,RCV1,Thailand,SEARO,2025,9,"MMR (Measles, mumps and rubella) vaccine"
+THA,RCV2,Thailand,SEARO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+TJK,RCV1,Tajikistan,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+TJK,RCV2,Tajikistan,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+TKL,RCV1,Tokelau,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+TKL,RCV2,Tokelau,WPRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+TKM,RCV1,Turkmenistan,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+TKM,RCV2,Turkmenistan,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+TLS,RCV1,Timor-Leste,SEARO,2025,9,MR (Measles and rubella) vaccine
+TLS,RCV2,Timor-Leste,SEARO,2025,18,MR (Measles and rubella) vaccine
+TON,RCV1,Tonga,WPRO,2025,12,MR (Measles and rubella) vaccine
+TON,RCV2,Tonga,WPRO,2025,18,MR (Measles and rubella) vaccine
+TTO,RCV1,Trinidad and Tobago,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+TTO,RCV2,Trinidad and Tobago,AMRO,2025,24,"MMR (Measles, mumps and rubella) vaccine"
+TUN,RCV1,Tunisia,EMRO,2025,12,MR (Measles and rubella) vaccine
+TUN,RCV2,Tunisia,EMRO,2025,18,MR (Measles and rubella) vaccine
+TUR,RCV1,Türkiye,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+TUR,RCV2,Türkiye,EURO,2025,48,"MMR (Measles, mumps and rubella) vaccine"
+TUV,RCV1,Tuvalu,WPRO,2025,12,MR (Measles and rubella) vaccine
+TUV,RCV2,Tuvalu,WPRO,2025,18,MR (Measles and rubella) vaccine
+TZA,RCV1,United Republic of Tanzania,AFRO,2025,9,MR (Measles and rubella) vaccine
+TZA,RCV2,United Republic of Tanzania,AFRO,2025,18,MR (Measles and rubella) vaccine
+UGA,RCV1,Uganda,AFRO,2025,9,MR (Measles and rubella) vaccine
+UGA,RCV2,Uganda,AFRO,2025,18,MR (Measles and rubella) vaccine
+UKR,RCV1,Ukraine,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+UKR,RCV2,Ukraine,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+URY,RCV1,Uruguay,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+URY,RCV2,Uruguay,AMRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+USA,RCV1,United States of America,AMRO,2023,12,"MMR (Measles, mumps and rubella) vaccine"
+USA,RCV2,United States of America,AMRO,2023,48,"MMR (Measles, mumps and rubella) vaccine"
+UZB,RCV1,Uzbekistan,EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+UZB,RCV2,Uzbekistan,EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+VCT,RCV1,Saint Vincent and the Grenadines,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+VCT,RCV2,Saint Vincent and the Grenadines,AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+VEN,RCV1,Venezuela (Bolivarian Republic of),AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+VEN,RCV2,Venezuela (Bolivarian Republic of),AMRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+VGB,RCV1,British Virgin Islands,AMRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+VGB,RCV2,British Virgin Islands,AMRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+VNM,RCV2,Viet Nam,WPRO,2025,18,MR (Measles and rubella) vaccine
+VUT,RCV1,Vanuatu,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+VUT,RCV2,Vanuatu,WPRO,2025,18,"MMR (Measles, mumps and rubella) vaccine"
+WLF,RCV1,Wallis and Futuna,WPRO,2019,12,"MMR (Measles, mumps and rubella) vaccine"
+WLF,RCV2,Wallis and Futuna,WPRO,2019,16,"MMR (Measles, mumps and rubella) vaccine"
+WSM,RCV1,Samoa,WPRO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+WSM,RCV2,Samoa,WPRO,2025,15,"MMR (Measles, mumps and rubella) vaccine"
+XKX,RCV1,Kosovo (in accordance with UN Security Council resolution 1244 (1999)),EURO,2025,12,"MMR (Measles, mumps and rubella) vaccine"
+XKX,RCV2,Kosovo (in accordance with UN Security Council resolution 1244 (1999)),EURO,2025,72,"MMR (Measles, mumps and rubella) vaccine"
+YEM,RCV1,Yemen,EMRO,2025,9,MR (Measles and rubella) vaccine
+YEM,RCV2,Yemen,EMRO,2025,18,MR (Measles and rubella) vaccine
+YEM,RCV3,Yemen,EMRO,2025,60,MR (Measles and rubella) vaccine
+ZAF,RCV1,South Africa,AFRO,2025,6,MR (Measles and rubella) vaccine
+ZAF,RCV2,South Africa,AFRO,2025,12,MR (Measles and rubella) vaccine
+ZMB,RCV1,Zambia,AFRO,2025,9,MR (Measles and rubella) vaccine
+ZMB,RCV2,Zambia,AFRO,2025,18,MR (Measles and rubella) vaccine
+ZWE,RCV1,Zimbabwe,AFRO,2025,9,MR (Measles and rubella) vaccine
+ZWE,RCV2,Zimbabwe,AFRO,2025,18,MR (Measles and rubella) vaccine

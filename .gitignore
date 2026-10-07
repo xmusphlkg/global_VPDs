@@ -1,0 +1,17 @@
+# Keep internal working material out of the public repository.
+manuscripts/
+tests/
+**/__pycache__/
+.venv*/
+*.log
+*audit*
+*diagnostic*
+*manifest*
+output/revised/parameter_audit/
+output/revised/methods_audit/
+output/revised/measles_diagnostics/
+output/revised/transmission_input_audit/
+output/revised/history_matching/
+data/raw/other_indicators_data.csv
+data/raw/WPP2024_PopulationBySingleAgeSex_Medium_1950-2023.csv.gz
+data/raw/WPP2024_PopulationBySingleAgeSex_Medium_2024-2100.csv.gz

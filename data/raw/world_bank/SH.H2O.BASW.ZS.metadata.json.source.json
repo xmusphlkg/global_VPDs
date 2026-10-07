@@ -1,0 +1,8 @@
+{
+  "url": "https://api.worldbank.org/v2/indicator/SH.H2O.BASW.ZS?format=json&source=2",
+  "resolved_url": "https://api.worldbank.org/v2/indicator/SH.H2O.BASW.ZS?format=json&source=2",
+  "downloaded_at_utc": "2026-09-19T13:58:33.371014+00:00",
+  "last_modified": "Sat, 19 Sep 2026 13:58:33 GMT",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1267
+}

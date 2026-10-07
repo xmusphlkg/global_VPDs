@@ -1,0 +1,19 @@
+disease,disease_code,vaccine,vaccine_code,priority,note
+Measles,MEASLES,MCV1,MCV1,1,核心病种
+Measles,MEASLES,MCV2,MCV2,1,核心病种
+Rubella,RUBELLA,RCV1,RCV1,1,核心病种
+Pertussis,PERTUSSIS,DTPCV3,DTPCV3,1,核心病种
+Pertussis,PERTUSSIS,DTPCV1,DTPCV1,1,核心病种
+Diphtheria,DIPHTHERIA,DTPCV3,DTPCV3,1,核心病种
+Diphtheria,DIPHTHERIA,DTPCV1,DTPCV1,1,核心病种
+Mumps,MUMPS,MCV1,MCV1,1,核心病种，需核实MMR vs MR
+Mumps,MUMPS,MCV2,MCV2,1,核心病种，需核实MMR vs MR
+CRS,CRS,RCV1,RCV1,1,风疹核心结局
+Neonatal Tetanus,NTETANUS,TT2PLUS,TT2PLUS,2,孕妇接种，母体免疫
+Neonatal Tetanus,NTETANUS,PAB,PAB,2,分娩时保护
+Japanese Encephalitis,JAPENC,JAPENC,JAPENC,3,亚洲地区专题
+Yellow Fever,YFEVER,YFV,YFV,3,热带地区专题
+Poliomyelitis,POLIO,IPV1,IPV1,4,灭活疫苗
+Poliomyelitis,POLIO,IPVC,IPVC,4,灭活疫苗完整程序
+Typhoid,TYPHOID,TYPHOID,TYPHOID,4,多糖疫苗
+Typhoid,TYPHOID,TYPHOID_CONJ,TYPHOID_CONJ,4,结合疫苗

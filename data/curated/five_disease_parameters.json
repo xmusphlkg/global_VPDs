@@ -1,0 +1,126 @@
+{
+  "analysis_observation_years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "analysis_ages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "disease_parameters": {
+    "Measles": {
+      "coverage_file": "measles_dose_coverage_wide.csv",
+      "doses": [
+        [
+          "MCV1",
+          12.0,
+          0.93
+        ],
+        [
+          "MCV2",
+          48.0,
+          0.97
+        ]
+      ],
+      "waning_years": null
+    },
+    "Rubella": {
+      "coverage_file": "rubella_dose_coverage_wide.csv",
+      "doses": [
+        [
+          "RCV1",
+          12.0,
+          0.95
+        ]
+      ],
+      "waning_years": null
+    },
+    "Pertussis": {
+      "coverage_file": "pertussis_dose_coverage_wide.csv",
+      "doses": [
+        [
+          "DTP1",
+          2.0,
+          0.5
+        ],
+        [
+          "DTP3",
+          6.0,
+          0.85
+        ]
+      ],
+      "waning_years": 5.0
+    },
+    "Diphtheria": {
+      "coverage_file": "diphtheria_dose_coverage_wide.csv",
+      "doses": [
+        [
+          "DTP1",
+          2.0,
+          0.71
+        ],
+        [
+          "DTP3",
+          6.0,
+          0.87
+        ]
+      ],
+      "waning_years": 30.0,
+      "waning_sensitivity_years": [
+        10.0,
+        30.0,
+        100.0
+      ]
+    },
+    "Mumps": {
+      "coverage_file": "mumps_dose_coverage_wide.csv",
+      "doses": [
+        [
+          "MCV1",
+          12.0,
+          0.964
+        ],
+        [
+          "MCV2",
+          48.0,
+          0.964
+        ]
+      ],
+      "waning_years": 27.4,
+      "waning_sensitivity_years": [
+        16.0,
+        51.0
+      ]
+    }
+  },
+  "parameter_status": "literature-informed clinical protection index; unidentified mappings and durations are explicit sensitivity assumptions",
+  "timing_status": "fixed_standardized_schedule_for_global_scenarios; curated_timing_for_mumps_component_subset",
+  "coverage_status": "annual_WUENIC_marginals_mapped_to_cohorts; individual_joint_dose_history_unobserved",
+  "mumps_scale_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5899613/",
+  "mumps_scale_definition": "Initial response probability 0.964 (95% CI 0.940\u20130.978), not pooled follow-up effectiveness. Shared dose intercept and reset at latest dose are model assumptions.",
+  "mumps_tau_source": "https://pubmed.ncbi.nlm.nih.gov/29563321/",
+  "mumps_tau_definition": "Mean exponential protection duration 27.4 y (95% CI 16.7\u201351.1); sensitivity grid retains rounded 16/27/51 for legacy compatibility.",
+  "other_parameters": "Measles .93/.97, rubella .95, pertussis .50/.85 with tau5 remain endpoint-specific clinical-index scenarios. Diphtheria .71/.87 are pooled partial/full clinical VE; tau30 is a structural reference evaluated at 10/30/100/infinite.",
+  "weight_definition": "birth-cohort-size weights from the existing cohort input; survival and migration excluded",
+  "diphtheria_definition": "Symptomatic VE 0.71 for pooled 1\u20132 doses and 0.87 for >=3 doses; DTP1 represents incomplete-series proxy. Thirty-year duration is an explicit review scenario, not antibody half-life or booster interval."
+}

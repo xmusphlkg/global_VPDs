@@ -1,0 +1,196 @@
+canonical_iso3,iso2,un_location_id,country_name,analysis_country,analysis_start_year,analysis_end_year,scope_definition
+BDI,BI,108,Burundi,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+COM,KM,174,Comoros,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+DJI,DJ,262,Djibouti,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ERI,ER,232,Eritrea,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ETH,ET,231,Ethiopia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KEN,KE,404,Kenya,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MDG,MG,450,Madagascar,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MWI,MW,454,Malawi,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MUS,MU,480,Mauritius,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MOZ,MZ,508,Mozambique,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+RWA,RW,646,Rwanda,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SYC,SC,690,Seychelles,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SOM,SO,706,Somalia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SSD,SS,728,South Sudan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+UGA,UG,800,Uganda,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TZA,TZ,834,United Republic of Tanzania,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ZMB,ZM,894,Zambia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ZWE,ZW,716,Zimbabwe,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+AGO,AO,24,Angola,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CMR,CM,120,Cameroon,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CAF,CF,140,Central African Republic,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TCD,TD,148,Chad,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+COG,CG,178,Congo,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+COD,CD,180,Democratic Republic of the Congo,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GNQ,GQ,226,Equatorial Guinea,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GAB,GA,266,Gabon,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+STP,ST,678,Sao Tome and Principe,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+DZA,DZ,12,Algeria,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+EGY,EG,818,Egypt,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LBY,LY,434,Libya,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MAR,MA,504,Morocco,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SDN,SD,729,Sudan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TUN,TN,788,Tunisia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BWA,BW,72,Botswana,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SWZ,SZ,748,Eswatini,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LSO,LS,426,Lesotho,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NAM,,516,Namibia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ZAF,ZA,710,South Africa,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BEN,BJ,204,Benin,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BFA,BF,854,Burkina Faso,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CPV,CV,132,Cabo Verde,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CIV,CI,384,Côte d'Ivoire,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GMB,GM,270,Gambia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GHA,GH,288,Ghana,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GIN,GN,324,Guinea,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GNB,GW,624,Guinea-Bissau,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LBR,LR,430,Liberia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MLI,ML,466,Mali,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MRT,MR,478,Mauritania,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NER,NE,562,Niger,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NGA,NG,566,Nigeria,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SEN,SN,686,Senegal,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SLE,SL,694,Sierra Leone,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TGO,TG,768,Togo,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KAZ,KZ,398,Kazakhstan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KGZ,KG,417,Kyrgyzstan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TJK,TJ,762,Tajikistan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TKM,TM,795,Turkmenistan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+UZB,UZ,860,Uzbekistan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CHN,CN,156,China,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PRK,KP,408,Dem. People's Republic of Korea,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+JPN,JP,392,Japan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MNG,MN,496,Mongolia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KOR,KR,410,Republic of Korea,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+AFG,AF,4,Afghanistan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BGD,BD,50,Bangladesh,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BTN,BT,64,Bhutan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+IND,IN,356,India,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+IRN,IR,364,Iran (Islamic Republic of),True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MDV,MV,462,Maldives,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NPL,NP,524,Nepal,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PAK,PK,586,Pakistan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LKA,LK,144,Sri Lanka,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BRN,BN,96,Brunei Darussalam,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KHM,KH,116,Cambodia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+IDN,ID,360,Indonesia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LAO,LA,418,Lao People's Democratic Republic,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MYS,MY,458,Malaysia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MMR,MM,104,Myanmar,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PHL,PH,608,Philippines,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SGP,SG,702,Singapore,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+THA,TH,764,Thailand,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TLS,TL,626,Timor-Leste,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+VNM,VN,704,Viet Nam,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ARM,AM,51,Armenia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+AZE,AZ,31,Azerbaijan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BHR,BH,48,Bahrain,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CYP,CY,196,Cyprus,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GEO,GE,268,Georgia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+IRQ,IQ,368,Iraq,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ISR,IL,376,Israel,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+JOR,JO,400,Jordan,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KWT,KW,414,Kuwait,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LBN,LB,422,Lebanon,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+OMN,OM,512,Oman,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+QAT,QA,634,Qatar,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SAU,SA,682,Saudi Arabia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PSE,PS,275,State of Palestine,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SYR,SY,760,Syrian Arab Republic,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TUR,TR,792,Türkiye,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ARE,AE,784,United Arab Emirates,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+YEM,YE,887,Yemen,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BLR,BY,112,Belarus,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BGR,BG,100,Bulgaria,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CZE,CZ,203,Czechia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+HUN,HU,348,Hungary,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+POL,PL,616,Poland,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MDA,MD,498,Republic of Moldova,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ROU,RO,642,Romania,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+RUS,RU,643,Russian Federation,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SVK,SK,703,Slovakia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+UKR,UA,804,Ukraine,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+DNK,DK,208,Denmark,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+EST,EE,233,Estonia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+FIN,FI,246,Finland,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ISL,IS,352,Iceland,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+IRL,IE,372,Ireland,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LVA,LV,428,Latvia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LTU,LT,440,Lithuania,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NOR,NO,578,Norway,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SWE,SE,752,Sweden,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GBR,GB,826,United Kingdom,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ALB,AL,8,Albania,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+AND,AD,20,Andorra,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BIH,BA,70,Bosnia and Herzegovina,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+HRV,HR,191,Croatia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GRC,GR,300,Greece,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ITA,IT,380,Italy,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MLT,MT,470,Malta,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MNE,ME,499,Montenegro,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MKD,MK,807,North Macedonia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PRT,PT,620,Portugal,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SMR,SM,674,San Marino,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SRB,RS,688,Serbia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SVN,SI,705,Slovenia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ESP,ES,724,Spain,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+AUT,AT,40,Austria,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BEL,BE,56,Belgium,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+FRA,FR,250,France,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+DEU,DE,276,Germany,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LUX,LU,442,Luxembourg,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MCO,MC,492,Monaco,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NLD,NL,528,Netherlands,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CHE,CH,756,Switzerland,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ATG,AG,28,Antigua and Barbuda,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BHS,BS,44,Bahamas,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BRB,BB,52,Barbados,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CUB,CU,192,Cuba,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+DMA,DM,212,Dominica,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+DOM,DO,214,Dominican Republic,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GRD,GD,308,Grenada,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+HTI,HT,332,Haiti,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+JAM,JM,388,Jamaica,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KNA,KN,659,Saint Kitts and Nevis,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+LCA,LC,662,Saint Lucia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+VCT,VC,670,Saint Vincent and the Grenadines,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TTO,TT,780,Trinidad and Tobago,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BLZ,BZ,84,Belize,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CRI,CR,188,Costa Rica,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SLV,SV,222,El Salvador,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GTM,GT,320,Guatemala,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+HND,HN,340,Honduras,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MEX,MX,484,Mexico,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NIC,NI,558,Nicaragua,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PAN,PA,591,Panama,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ARG,AR,32,Argentina,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BOL,BO,68,Bolivia (Plurinational State of),True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+BRA,BR,76,Brazil,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CHL,CL,152,Chile,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+COL,CO,170,Colombia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+ECU,EC,218,Ecuador,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+GUY,GY,328,Guyana,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PRY,PY,600,Paraguay,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PER,PE,604,Peru,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SUR,SR,740,Suriname,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+URY,UY,858,Uruguay,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+VEN,VE,862,Venezuela (Bolivarian Republic of),True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+CAN,CA,124,Canada,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+USA,US,840,United States of America,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+AUS,AU,36,Australia,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NZL,NZ,554,New Zealand,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+FJI,FJ,242,Fiji,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PNG,PG,598,Papua New Guinea,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+SLB,SB,90,Solomon Islands,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+VUT,VU,548,Vanuatu,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+KIR,KI,296,Kiribati,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+MHL,MH,584,Marshall Islands,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+FSM,FM,583,Micronesia (Fed. States of),True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NRU,NR,520,Nauru,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+PLW,PW,585,Palau,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+COK,CK,184,Cook Islands,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+NIU,NU,570,Niue,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+WSM,WS,882,Samoa,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TON,TO,776,Tonga,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population
+TUV,TV,798,Tuvalu,True,2000,2025,WPP Country/Area ∩ WHO WUENIC coverage ∩ WHO four-disease cases ∩ WPP population

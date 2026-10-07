@@ -1,0 +1,8 @@
+field,value
+canonical_code,WPP 2024 ISO3_code
+period_start,2000
+period_end,2025
+geography,Country/Area only; no WHO regions or aggregates
+country_count,195
+excluded_codes,BON;CHI;SAB;STA
+created_at_utc,2026-09-19T14:06:53.454389+00:00

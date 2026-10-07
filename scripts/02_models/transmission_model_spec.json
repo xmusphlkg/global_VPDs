@@ -1,0 +1,167 @@
+{
+  "schema_version": "2.0.0",
+  "time": {
+    "unit": "day",
+    "dt_days": 1.0,
+    "analysis_years": [
+      2014,
+      2023
+    ],
+    "calibration_end": 2019,
+    "validation_start": 2020
+  },
+  "age": {
+    "bands": [
+      "0_4",
+      "5_9",
+      "10_14",
+      "15_19",
+      "20_24",
+      "25_29",
+      "30_34",
+      "35_39",
+      "40_44",
+      "45_49",
+      "50_54",
+      "55_59",
+      "60_64",
+      "65_69",
+      "70_74",
+      "75_plus"
+    ],
+    "infant_gap": 1.0,
+    "adult_gap": 0.3,
+    "missing_gap": 0.3,
+    "high_history_cap": 0.1,
+    "childhood_ranges": [
+      [
+        1,
+        4
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        10,
+        14
+      ]
+    ]
+  },
+  "demography": {
+    "source": "WPP2024",
+    "burn_in_start": 2000,
+    "population_anchor": "annual_wpp_age_bands",
+    "open_terminal_band": true
+  },
+  "contacts": {
+    "source": "Prem2017_all_location",
+    "unit": "contacts_per_person_day",
+    "reciprocity": "year_specific_wpp_population"
+  },
+  "observation": {
+    "likelihood": "negative_binomial",
+    "zeros": "observed",
+    "absent_rows": "excluded",
+    "reporting": "fixed_disease_centre"
+  },
+  "diseases": {
+    "Measles": {
+      "R0": 15.0,
+      "latent_days": 10.0,
+      "infectious_days": 8.0,
+      "clinical_fraction": 0.9,
+      "reporting": 0.2,
+      "source_reduction": 0.0,
+      "acquisition_ratio": 1.0,
+      "acquisition_ratio_grid": [
+        0.75,
+        1.0,
+        1.0
+      ]
+    },
+    "Rubella": {
+      "R0": 6.0,
+      "latent_days": 7.0,
+      "infectious_days": 14.0,
+      "clinical_fraction": 0.5,
+      "reporting": 0.2,
+      "source_reduction": 0.0,
+      "acquisition_ratio": 1.0,
+      "acquisition_ratio_grid": [
+        0.75,
+        1.0,
+        1.0
+      ]
+    },
+    "Pertussis": {
+      "R0": 12.0,
+      "latent_days": 8.0,
+      "infectious_days": 21.0,
+      "clinical_fraction": 0.25,
+      "reporting": 0.1,
+      "source_reduction": 0.0,
+      "acquisition_ratio": 0.29411764705882354,
+      "acquisition_ratio_grid": [
+        0.04411764705882354,
+        0.29411764705882354,
+        1.0
+      ]
+    },
+    "Diphtheria": {
+      "R0": 2.6,
+      "latent_days": 4.0,
+      "infectious_days": 18.5,
+      "clinical_fraction": 0.25,
+      "reporting": 0.3,
+      "source_reduction": 0.689655172413793,
+      "acquisition_ratio": 0.0,
+      "acquisition_ratio_grid": [
+        0,
+        0.0,
+        1.0
+      ],
+      "source_reduction_grid": [
+        0.5862068965517242,
+        0.689655172413793,
+        0.7816091954022989
+      ]
+    },
+    "Mumps": {
+      "R0": 4.79,
+      "latent_days": 15.0,
+      "infectious_days": 7.0,
+      "clinical_fraction": 0.8,
+      "reporting": 0.15,
+      "source_reduction": 0.0,
+      "acquisition_ratio": 1.0,
+      "acquisition_ratio_grid": [
+        0.75,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "scenarios": {
+    "adult_gap": [
+      0.05,
+      0.3,
+      0.6
+    ],
+    "high_history_cap": [
+      0.0,
+      0.1,
+      0.2
+    ],
+    "mumps_duration_years": [
+      16,
+      27,
+      51
+    ],
+    "history_recovery_start": 2018,
+    "history_recovery_years": 5
+  },
+  "protection_mapping": "clinical_protection_mass_v2",
+  "audit_note": "Active revised specification. See Supplementary Table S47. National reports do not identify every nuisance parameter; time-holdout mean prediction fails.",
+  "field_note": "acquisition_ratio is applied to clinical protection mass already present in cohort input. Conditional clinical risk is derived as gap/s, with no independent clinical VE. Source ratio is applied to protected mass among infections."
+}

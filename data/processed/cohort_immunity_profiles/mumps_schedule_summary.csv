@@ -1,0 +1,4 @@
+dose,schedule_source,n_countries,mean_age_months,sd_age_months,min_age_months,max_age_months
+MCV1,country_reported,195,11.431231124533666,5.937343867769412,6,84
+MCV2,WHO_default,4,15,0,15,15
+MCV2,country_reported,191,31.030663942057725,27.251142831645453,9,156

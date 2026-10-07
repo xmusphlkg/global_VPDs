@@ -1,0 +1,8 @@
+{
+  "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.KD?format=json&source=2",
+  "resolved_url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.KD?format=json&source=2",
+  "downloaded_at_utc": "2026-09-19T13:58:13.682172+00:00",
+  "last_modified": "Sat, 19 Sep 2026 13:56:41 GMT",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1100
+}

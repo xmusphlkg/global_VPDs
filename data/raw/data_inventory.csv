@@ -1,0 +1,22 @@
+dataset,filename,source,required,downloaded
+WUENIC 覆盖率（原始）,who_immunization_portal_coverage.xlsx,WHO Immunization Data Portal,是,TRUE
+报告病例（原始）,who_immunization_portal_reported_cases.xlsx,WHO Immunization Data Portal,是,TRUE
+人口（原始）,WPP2024_TotalPopulationBySex.csv.gz,UN WPP 2024,是,TRUE
+疫苗覆盖率（规范化）,coverage_data.csv,由 WHO 原始导出筛选,是,TRUE
+病例报告（规范化）,case_data.csv,由 WHO 原始导出筛选,是,TRUE
+人口（规范化）,population_data.csv,由 UN WPP 2024 筛选,是,TRUE
+所有抗原 WUENIC 覆盖率,coverage_wuenic_all.csv,由 WHO 覆盖率导出筛选,是,TRUE
+核心抗原 WUENIC 覆盖率,coverage_core_data.csv,由 WHO 覆盖率导出筛选,是,TRUE
+国家报告覆盖率,coverage_reported_all.csv,由 WHO 覆盖率导出筛选,是,TRUE
+WHO 发病率,incidence_rate_data.csv,由 WHO 发病率导出筛选,是,TRUE
+疫苗引入,vaccine_introduction_data.csv,WHO Immunization Data Portal,是,TRUE
+国家免疫程序,vaccine_schedule_data.csv,WHO Immunization Data Portal,是,TRUE
+监测和系统指标,monitoring_system_indicators.csv,由 WHO 其他指标导出筛选,是,TRUE
+覆盖率调查,coverage_survey_data.csv,WHO/UNICEF WUENIC 调查数据库,否,TRUE
+麻疹风疹月度监测,measles_rubella_epi_curve_data.csv,WHO 麻疹和风疹监测,否,TRUE
+WPP 出生人数,births_data.csv,UN WPP 2024（由 scripts/01_supplementary_data.py 下载整理）,是,TRUE
+WPP 单岁年龄人口,population_by_single_age.csv,UN WPP 2024（由 scripts/01_supplementary_data.py 下载整理）,是,TRUE
+WPP 年龄组人口,population_age_groups.csv,由 WPP 单岁人口聚合,是,TRUE
+国家—年份人口和出生队列,country_year_demography.csv,WPP 出生人数与年龄组人口整合,是,TRUE
+国家层面协变量,country_covariates.csv,World Bank WDI/WHO UHC,否,TRUE
+统一国家范围,analysis_country_universe.csv,WPP 与 WHO 数据交集,是,TRUE

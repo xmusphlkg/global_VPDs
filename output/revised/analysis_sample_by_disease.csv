@@ -1,0 +1,6 @@
+disease,scenario,n
+Diphtheria,component_strict,1347
+Measles,component_strict,306
+Mumps,all_mcv_proxy,254
+Pertussis,component_strict,1378
+Rubella,component_strict,920

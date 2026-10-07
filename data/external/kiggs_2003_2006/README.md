@@ -1,0 +1,5 @@
+# KiGGS MMR serology age bands
+
+This file transcribes Table 2 from Poethko-Müller and Mankertz, the German KiGGS Basiserhebung serosurvey ([PMC3412821](https://pmc.ncbi.nlm.nih.gov/articles/PMC3412821/)). The national survey enrolled 17,641 children and adolescents aged 0–17 years in 2003–2006; serum was tested for measles (n=13,977), mumps (n=13,930), and rubella (n=13,968) IgG. The published age bands are 1–2, 3–6, 7–10, 11–13, and 14–17 years. Positive values combine assay-positive results only; borderline values remain separate in the source table.
+
+The source analysis applies survey weights and the stratified/clustered sampling design. The paper reports age-band percentages and confidence intervals without age-band denominators, so `sample_n` is blank. Individual records and vaccination-card variables require an application to the Robert Koch Institute Research Data Centre (FDZ RKI). These aggregate values are suitable for descriptive calibration and sensitivity figures; they should be kept separate from the NHANES estimand and from programme-derived vaccine protection.

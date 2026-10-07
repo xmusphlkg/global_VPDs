@@ -1,0 +1,52 @@
+country,collection_year,collection_method,assay,age_lower,age_upper,seronegative_pct,n_age_band_reported,n_young_source,source_table,source_url
+Australia,2002,residual,Enzygnost,2,4,5.0,,2694,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Australia,2002,residual,Enzygnost,5,9,4.5,,2694,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Australia,2002,residual,Enzygnost,10,14,4.5,,2694,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Belgium,2002/2003,residual,DiaSorin,2,4,11.0,,1960,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Belgium,2002/2003,residual,DiaSorin,5,9,13.2,,1960,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Belgium,2002/2003,residual,DiaSorin,10,14,8.5,,1960,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Bulgaria,2001-2004,residual,Platelia,2,4,28.9,,969,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Bulgaria,2001-2004,residual,Platelia,5,9,28.8,,969,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Bulgaria,2001-2004,residual,Platelia,10,14,27.8,,969,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Cyprus,2003,residual/population,RADM,2,4,13.3,,1929,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Cyprus,2003,residual/population,RADM,5,9,7.7,,1929,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Cyprus,2003,residual/population,RADM,10,14,6.5,,1929,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Czech Republic,2001,population,DiaSorin,2,4,0.0,,1692,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Czech Republic,2001,population,DiaSorin,5,9,0.9,,1692,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Czech Republic,2001,population,DiaSorin,10,14,1.4,,1692,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+England and Wales,2000,residual,Microgen,2,4,24.0,,1704,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+England and Wales,2000,residual,Microgen,5,9,14.4,,1704,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+England and Wales,2000,residual,Microgen,10,14,12.7,,1704,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Hungary,2003,residual,DiaSorin,2,4,2.0,,1914,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Hungary,2003,residual,DiaSorin,5,9,2.2,,1914,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Hungary,2003,residual,DiaSorin,10,14,2.4,,1914,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Ireland,2003,residual,BioTech,2,4,15.5,,1208,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Ireland,2003,residual,BioTech,5,9,13.8,,1208,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Ireland,2003,residual,BioTech,10,14,10.2,,1208,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Israel,1998,residual,Enzygnost,2,4,7.6,,1846,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Israel,1998,residual,Enzygnost,5,9,4.5,,1846,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Israel,1998,residual,Enzygnost,10,14,8.6,,1846,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Latvia,2003,population,BioRad,2,4,8.3,,1592,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Latvia,2003,population,BioRad,5,9,5.3,,1592,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Latvia,2003,population,BioRad,10,14,12.3,,1592,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Lithuania,2003,residual,Enzygnost,2,4,3.6,,1782,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Lithuania,2003,residual,Enzygnost,5,9,3.9,,1782,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Lithuania,2003,residual,Enzygnost,10,14,8.1,,1782,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Luxembourg,2000/2001,population,Enzygnost,2,4,,,1381,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Luxembourg,2000/2001,population,Enzygnost,5,9,5.2,,1381,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Luxembourg,2000/2001,population,Enzygnost,10,14,5.5,,1381,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Malta,2003,residual,Abbott,2,4,9.6,,825,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Malta,2003,residual,Abbott,5,9,6.3,,825,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Malta,2003,residual,Abbott,10,14,6.2,,825,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Romania,2002,residual,Enzygnost,2,4,82.2,,1485,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Romania,2002,residual,Enzygnost,5,9,62.6,,1485,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Romania,2002,residual,Enzygnost,10,14,36.7,,1485,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Slovakia,2002,population,DiaSorin,2,4,1.1,,2065,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Slovakia,2002,population,DiaSorin,5,9,2.5,,2065,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Slovakia,2002,population,DiaSorin,10,14,3.4,,2065,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Slovenia,1999/2000,residual,Enzygnost,2,4,2.5,,1918,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Slovenia,1999/2000,residual,Enzygnost,5,9,3.6,,1918,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Slovenia,1999/2000,residual,Enzygnost,10,14,2.7,,1918,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Sweden,1996/1997,population,Enzygnost,2,4,,,709,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Sweden,1996/1997,population,Enzygnost,5,9,,,709,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/
+Sweden,1996/1997,population,Enzygnost,10,14,,,709,Table 3,https://pmc.ncbi.nlm.nih.gov/articles/PMC2647372/

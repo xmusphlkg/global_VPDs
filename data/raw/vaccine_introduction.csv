@@ -1,0 +1,2435 @@
+country,vaccine_description,intro_year,vaccine_code
+AFG,COVID-19 vaccine,2024.0,
+AFG,HepB birth dose,2014.0,
+AFG,Hepatitis B vaccine,2006.0,HepB
+AFG,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+AFG,IPV (Inactivated polio vaccine),2015.0,IPV
+AFG,IPV (Inactivated polio vaccine) 2nd dose,2020.0,IPV2
+AFG,Measles-containing vaccine 2nd dose,2004.0,MCV2
+AFG,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+AFG,Rotavirus vaccine,2018.0,Rotavirus
+AGO,COVID-19 vaccine,2024.0,
+AGO,HPV (Human papillomavirus) vaccine,2025.0,HPV
+AGO,HepB birth dose,2015.0,
+AGO,Hepatitis B vaccine,2006.0,HepB
+AGO,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+AGO,IPV (Inactivated polio vaccine),2017.0,IPV
+AGO,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+AGO,Measles-containing vaccine 2nd dose,2015.0,MCV2
+AGO,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+AGO,Rotavirus vaccine,2014.0,Rotavirus
+AGO,Rubella vaccine,2018.0,RCV1
+AGO,YF (Yellow fever) vaccine,1999.0,YFV
+ALB,COVID-19 vaccine,2024.0,
+ALB,HPV (Human papillomavirus) vaccine,2022.0,HPV
+ALB,HepB birth dose,1998.0,
+ALB,Hepatitis B vaccine,1994.0,HepB
+ALB,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+ALB,IPV (Inactivated polio vaccine),2014.0,IPV
+ALB,IPV (Inactivated polio vaccine) 2nd dose,2014.0,IPV2
+ALB,Measles-containing vaccine 2nd dose,2001.0,MCV2
+ALB,Mumps vaccine,2005.0,Mumps
+ALB,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+ALB,Rotavirus vaccine,2019.0,Rotavirus
+ALB,Rubella vaccine,2001.0,RCV1
+ALB,Seasonal Influenza vaccine,2016.0,
+AND,COVID-19 vaccine,2024.0,
+AND,HPV (Human papillomavirus) vaccine,2014.0,HPV
+AND,HepB birth dose,1998.0,
+AND,Hepatitis B vaccine,1997.0,HepB
+AND,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+AND,IPV (Inactivated polio vaccine),1999.0,IPV
+AND,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+AND,Measles-containing vaccine 2nd dose,1997.0,MCV2
+AND,Meningococcal meningitis vaccines (any strain),2003.0,Meningococcal
+AND,Mumps vaccine,2002.0,Mumps
+AND,PCV (Pneumococcal conjugate vaccine),2007.0,PCV
+AND,Rotavirus vaccine,2020.0,Rotavirus
+AND,Rubella vaccine,1997.0,RCV1
+AND,Seasonal Influenza vaccine,2014.0,
+AND,Varicella vaccine,2016.0,
+AND,aP (acellular pertussis) vaccine,2006.0,
+ARE,HPV (Human papillomavirus) vaccine,2018.0,HPV
+ARE,HepB birth dose,2010.0,
+ARE,Hepatitis B vaccine,1990.0,HepB
+ARE,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+ARE,IPV (Inactivated polio vaccine),2010.0,IPV
+ARE,IPV (Inactivated polio vaccine) 2nd dose,2015.0,IPV2
+ARE,Measles-containing vaccine 2nd dose,1985.0,MCV2
+ARE,Meningococcal meningitis vaccines (any strain),2019.0,Meningococcal
+ARE,Mumps vaccine,1996.0,Mumps
+ARE,PCV (Pneumococcal conjugate vaccine),2007.0,PCV
+ARE,Rotavirus vaccine,2014.0,Rotavirus
+ARE,Rubella vaccine,1985.0,RCV1
+ARE,Seasonal Influenza vaccine,2006.0,
+ARE,Varicella vaccine,2012.0,
+ARE,aP (acellular pertussis) vaccine,2015.0,
+ARG,HPV (Human papillomavirus) vaccine,2011.0,HPV
+ARG,HepB birth dose,2000.0,
+ARG,Hepatitis A vaccine,2005.0,
+ARG,Hepatitis B vaccine,2000.0,HepB
+ARG,Hib (Haemophilus influenzae type B) vaccine,1997.0,Hib
+ARG,IPV (Inactivated polio vaccine),2016.0,IPV
+ARG,IPV (Inactivated polio vaccine) 2nd dose,2018.0,IPV2
+ARG,Measles-containing vaccine 2nd dose,1998.0,MCV2
+ARG,Meningococcal meningitis vaccines (any strain),2017.0,Meningococcal
+ARG,Mumps vaccine,1997.0,Mumps
+ARG,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+ARG,PPV (Pneumococcal polysaccharide vaccine),2012.0,
+ARG,Rotavirus vaccine,2015.0,Rotavirus
+ARG,Rubella vaccine,1998.0,RCV1
+ARG,Seasonal Influenza vaccine,1993.0,
+ARG,Varicella vaccine,2015.0,
+ARG,aP (acellular pertussis) vaccine,2009.0,
+ARM,COVID-19 vaccine,2024.0,
+ARM,HPV (Human papillomavirus) vaccine,2017.0,HPV
+ARM,HepB birth dose,1999.0,
+ARM,Hepatitis A vaccine,2015.0,
+ARM,Hepatitis B vaccine,1999.0,HepB
+ARM,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+ARM,IPV (Inactivated polio vaccine),2016.0,IPV
+ARM,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+ARM,Measles-containing vaccine 2nd dose,1991.0,MCV2
+ARM,Meningococcal meningitis vaccines (any strain),2015.0,Meningococcal
+ARM,Mumps vaccine,1995.0,Mumps
+ARM,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+ARM,Rotavirus vaccine,2012.0,Rotavirus
+ARM,Rubella vaccine,2002.0,RCV1
+ARM,Seasonal Influenza vaccine,2015.0,
+ARM,Varicella vaccine,2025.0,
+ARM,aP (acellular pertussis) vaccine,2019.0,
+ATG,COVID-19 vaccine,2025.0,
+ATG,HPV (Human papillomavirus) vaccine,2018.0,HPV
+ATG,HepB birth dose,2021.0,
+ATG,Hepatitis B vaccine,1999.0,HepB
+ATG,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+ATG,IPV (Inactivated polio vaccine),2015.0,IPV
+ATG,IPV (Inactivated polio vaccine) 2nd dose,2015.0,IPV2
+ATG,Measles-containing vaccine 2nd dose,1997.0,MCV2
+ATG,Mumps vaccine,1988.0,Mumps
+ATG,PCV (Pneumococcal conjugate vaccine),2024.0,PCV
+ATG,Rubella vaccine,1988.0,RCV1
+ATG,Seasonal Influenza vaccine,2007.0,
+ATG,Varicella vaccine,2018.0,
+AUS,COVID-19 vaccine,2024.0,
+AUS,HPV (Human papillomavirus) vaccine,2007.0,HPV
+AUS,HepB birth dose,2000.0,
+AUS,Hepatitis B vaccine,2000.0,HepB
+AUS,Hib (Haemophilus influenzae type B) vaccine,1993.0,Hib
+AUS,IPV (Inactivated polio vaccine),2005.0,IPV
+AUS,IPV (Inactivated polio vaccine) 2nd dose,2005.0,IPV2
+AUS,Measles-containing vaccine 2nd dose,1994.0,MCV2
+AUS,Meningococcal meningitis vaccines (any strain),2010.0,Meningococcal
+AUS,Mumps vaccine,1994.0,Mumps
+AUS,PCV (Pneumococcal conjugate vaccine),2005.0,PCV
+AUS,PPV (Pneumococcal polysaccharide vaccine),2005.0,
+AUS,Rotavirus vaccine,2007.0,Rotavirus
+AUS,Rubella vaccine,1989.0,RCV1
+AUS,Seasonal Influenza vaccine,1999.0,
+AUS,Varicella vaccine,2006.0,
+AUS,aP (acellular pertussis) vaccine,2002.0,
+AUT,COVID-19 vaccine,2024.0,
+AUT,HPV (Human papillomavirus) vaccine,2014.0,HPV
+AUT,Hepatitis B vaccine,1997.0,HepB
+AUT,Hib (Haemophilus influenzae type B) vaccine,1994.0,Hib
+AUT,IPV (Inactivated polio vaccine),2002.0,IPV
+AUT,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+AUT,Measles-containing vaccine 2nd dose,1973.0,MCV2
+AUT,Meningococcal meningitis vaccines (any strain),2014.0,Meningococcal
+AUT,Mumps vaccine,1995.0,Mumps
+AUT,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+AUT,Rotavirus vaccine,2006.0,Rotavirus
+AUT,Rubella vaccine,1972.0,RCV1
+AUT,Seasonal Influenza vaccine,2007.0,
+AUT,aP (acellular pertussis) vaccine,2006.0,
+AZE,HepB birth dose,2001.0,
+AZE,Hepatitis B vaccine,2001.0,HepB
+AZE,Hib (Haemophilus influenzae type B) vaccine,2011.0,Hib
+AZE,IPV (Inactivated polio vaccine),2016.0,IPV
+AZE,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+AZE,Measles-containing vaccine 2nd dose,2001.0,MCV2
+AZE,Mumps vaccine,2003.0,Mumps
+AZE,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+AZE,Rubella vaccine,2003.0,RCV1
+AZE,Seasonal Influenza vaccine,2020.0,
+AZE,aP (acellular pertussis) vaccine,2024.0,
+BDI,Hepatitis B vaccine,2004.0,HepB
+BDI,Hib (Haemophilus influenzae type B) vaccine,2004.0,Hib
+BDI,IPV (Inactivated polio vaccine),2015.0,IPV
+BDI,Measles-containing vaccine 2nd dose,2013.0,MCV2
+BDI,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+BDI,Rotavirus vaccine,2013.0,Rotavirus
+BDI,Rubella vaccine,2017.0,RCV1
+BEL,COVID-19 vaccine,2024.0,
+BEL,HPV (Human papillomavirus) vaccine,2011.0,HPV
+BEL,Hepatitis B vaccine,1996.0,HepB
+BEL,Hib (Haemophilus influenzae type B) vaccine,1993.0,Hib
+BEL,IPV (Inactivated polio vaccine),2001.0,IPV
+BEL,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+BEL,Measles-containing vaccine 2nd dose,1994.0,MCV2
+BEL,Meningococcal meningitis vaccines (any strain),2002.0,Meningococcal
+BEL,Mumps vaccine,1995.0,Mumps
+BEL,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+BEL,PPV (Pneumococcal polysaccharide vaccine),2023.0,
+BEL,Rotavirus vaccine,2007.0,Rotavirus
+BEL,Rubella vaccine,1985.0,RCV1
+BEL,Seasonal Influenza vaccine,2007.0,
+BEL,aP (acellular pertussis) vaccine,2006.0,
+BEN,COVID-19 vaccine,2024.0,
+BEN,HPV (Human papillomavirus) vaccine,2025.0,HPV
+BEN,HepB birth dose,2020.0,
+BEN,Hepatitis B vaccine,2002.0,HepB
+BEN,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+BEN,IPV (Inactivated polio vaccine),2015.0,IPV
+BEN,Measles-containing vaccine 2nd dose,2024.0,MCV2
+BEN,Meningococcal meningitis vaccines (any strain),2022.0,Meningococcal
+BEN,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+BEN,Rotavirus vaccine,2019.0,Rotavirus
+BEN,Rubella vaccine,2019.0,RCV1
+BEN,YF (Yellow fever) vaccine,2002.0,YFV
+BFA,COVID-19 vaccine,2024.0,
+BFA,HPV (Human papillomavirus) vaccine,2022.0,HPV
+BFA,HepB birth dose,2022.0,
+BFA,Hepatitis B vaccine,2006.0,HepB
+BFA,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+BFA,IPV (Inactivated polio vaccine),2018.0,IPV
+BFA,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+BFA,Malaria vaccine,2025.0,
+BFA,Measles-containing vaccine 2nd dose,2014.0,MCV2
+BFA,Meningococcal meningitis vaccines (any strain),2017.0,Meningococcal
+BFA,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+BFA,Rotavirus vaccine,2013.0,Rotavirus
+BFA,Rubella vaccine,2015.0,RCV1
+BFA,Typhoid conjugate vaccine,2025.0,TYPHOID_CONJ
+BFA,YF (Yellow fever) vaccine,1985.0,YFV
+BGD,COVID-19 vaccine,2024.0,
+BGD,HPV (Human papillomavirus) vaccine,2024.0,HPV
+BGD,Hepatitis B vaccine,2005.0,HepB
+BGD,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+BGD,IPV (Inactivated polio vaccine),2015.0,IPV
+BGD,Measles-containing vaccine 2nd dose,2012.0,MCV2
+BGD,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+BGD,Rubella vaccine,2012.0,RCV1
+BGR,COVID-19 vaccine,2024.0,
+BGR,HPV (Human papillomavirus) vaccine,2017.0,HPV
+BGR,HepB birth dose,1998.0,
+BGR,Hepatitis B vaccine,1991.0,HepB
+BGR,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+BGR,IPV (Inactivated polio vaccine),2007.0,IPV
+BGR,IPV (Inactivated polio vaccine) 2nd dose,2007.0,IPV2
+BGR,Measles-containing vaccine 2nd dose,1983.0,MCV2
+BGR,Mumps vaccine,1995.0,Mumps
+BGR,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+BGR,Rotavirus vaccine,2018.0,Rotavirus
+BGR,Rubella vaccine,1992.0,RCV1
+BGR,Seasonal Influenza vaccine,2008.0,
+BGR,aP (acellular pertussis) vaccine,2007.0,
+BHR,COVID-19 vaccine,2024.0,
+BHR,HPV (Human papillomavirus) vaccine,2023.0,HPV
+BHR,HepB birth dose,2015.0,
+BHR,Hepatitis A vaccine,2004.0,
+BHR,Hepatitis B vaccine,1991.0,HepB
+BHR,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+BHR,IPV (Inactivated polio vaccine),2008.0,IPV
+BHR,IPV (Inactivated polio vaccine) 2nd dose,2015.0,IPV2
+BHR,Measles-containing vaccine 2nd dose,1995.0,MCV2
+BHR,Meningococcal meningitis vaccines (any strain),2009.0,Meningococcal
+BHR,Mumps vaccine,1996.0,Mumps
+BHR,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+BHR,PPV (Pneumococcal polysaccharide vaccine),2002.0,
+BHR,Rotavirus vaccine,2008.0,Rotavirus
+BHR,Rubella vaccine,1985.0,RCV1
+BHR,Seasonal Influenza vaccine,2008.0,
+BHR,Varicella vaccine,2015.0,
+BHR,aP (acellular pertussis) vaccine,2006.0,
+BHS,COVID-19 vaccine,2024.0,
+BHS,HPV (Human papillomavirus) vaccine,2015.0,HPV
+BHS,Hepatitis B vaccine,2001.0,HepB
+BHS,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+BHS,IPV (Inactivated polio vaccine),2015.0,IPV
+BHS,IPV (Inactivated polio vaccine) 2nd dose,2016.0,IPV2
+BHS,Measles-containing vaccine 2nd dose,2001.0,MCV2
+BHS,Meningococcal meningitis vaccines (any strain),2023.0,Meningococcal
+BHS,Mumps vaccine,1991.0,Mumps
+BHS,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+BHS,PPV (Pneumococcal polysaccharide vaccine),2025.0,
+BHS,Rotavirus vaccine,2017.0,Rotavirus
+BHS,Rubella vaccine,1991.0,RCV1
+BHS,Seasonal Influenza vaccine,2005.0,
+BHS,Varicella vaccine,2011.0,
+BHS,aP (acellular pertussis) vaccine,2012.0,
+BIH,HPV (Human papillomavirus) vaccine,2023.0,HPV
+BIH,HepB birth dose,2001.0,
+BIH,Hepatitis B vaccine,2001.0,HepB
+BIH,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+BIH,IPV (Inactivated polio vaccine),2008.0,IPV
+BIH,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+BIH,Measles-containing vaccine 2nd dose,1991.0,MCV2
+BIH,Mumps vaccine,1995.0,Mumps
+BIH,Rubella vaccine,1991.0,RCV1
+BIH,Seasonal Influenza vaccine,2015.0,
+BIH,aP (acellular pertussis) vaccine,2008.0,
+BLR,COVID-19 vaccine,2024.0,
+BLR,HPV (Human papillomavirus) vaccine,2025.0,HPV
+BLR,HepB birth dose,2002.0,
+BLR,Hepatitis B vaccine,1996.0,HepB
+BLR,Hib (Haemophilus influenzae type B) vaccine,2018.0,Hib
+BLR,IPV (Inactivated polio vaccine),1991.0,IPV
+BLR,IPV (Inactivated polio vaccine) 2nd dose,2004.0,IPV2
+BLR,Measles-containing vaccine 2nd dose,1991.0,MCV2
+BLR,Mumps vaccine,1995.0,Mumps
+BLR,PCV (Pneumococcal conjugate vaccine),2025.0,PCV
+BLR,Rubella vaccine,1996.0,RCV1
+BLR,Seasonal Influenza vaccine,1991.0,
+BLR,aP (acellular pertussis) vaccine,2025.0,
+BLZ,COVID-19 vaccine,2024.0,
+BLZ,HPV (Human papillomavirus) vaccine,2016.0,HPV
+BLZ,HepB birth dose,2018.0,
+BLZ,Hepatitis B vaccine,2000.0,HepB
+BLZ,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+BLZ,IPV (Inactivated polio vaccine),2015.0,IPV
+BLZ,IPV (Inactivated polio vaccine) 2nd dose,2020.0,IPV2
+BLZ,Measles-containing vaccine 2nd dose,2005.0,MCV2
+BLZ,Mumps vaccine,1996.0,Mumps
+BLZ,PCV (Pneumococcal conjugate vaccine),2023.0,PCV
+BLZ,Rotavirus vaccine,2025.0,Rotavirus
+BLZ,Rubella vaccine,1996.0,RCV1
+BLZ,Seasonal Influenza vaccine,2008.0,
+BOL,COVID-19 vaccine,2024.0,
+BOL,HPV (Human papillomavirus) vaccine,2017.0,HPV
+BOL,Hepatitis B vaccine,2000.0,HepB
+BOL,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+BOL,IPV (Inactivated polio vaccine),2016.0,IPV
+BOL,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+BOL,Measles-containing vaccine 2nd dose,2018.0,MCV2
+BOL,Mumps vaccine,1999.0,Mumps
+BOL,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+BOL,Rotavirus vaccine,2008.0,Rotavirus
+BOL,Rubella vaccine,2000.0,RCV1
+BOL,Seasonal Influenza vaccine,2010.0,
+BOL,YF (Yellow fever) vaccine,2003.0,YFV
+BRA,COVID-19 vaccine,2024.0,
+BRA,HPV (Human papillomavirus) vaccine,2014.0,HPV
+BRA,HepB birth dose,1998.0,
+BRA,Hepatitis A vaccine,2017.0,
+BRA,Hepatitis B vaccine,1998.0,HepB
+BRA,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+BRA,IPV (Inactivated polio vaccine),2012.0,IPV
+BRA,IPV (Inactivated polio vaccine) 2nd dose,2012.0,IPV2
+BRA,Measles-containing vaccine 2nd dose,2004.0,MCV2
+BRA,Meningococcal meningitis vaccines (any strain),2010.0,Meningococcal
+BRA,Mumps vaccine,2000.0,Mumps
+BRA,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+BRA,Rotavirus vaccine,2006.0,Rotavirus
+BRA,Rubella vaccine,2000.0,RCV1
+BRA,Seasonal Influenza vaccine,1999.0,
+BRA,Varicella vaccine,2013.0,
+BRA,YF (Yellow fever) vaccine,2017.0,YFV
+BRA,aP (acellular pertussis) vaccine,2013.0,
+BRB,COVID-19 vaccine,2024.0,
+BRB,HPV (Human papillomavirus) vaccine,2014.0,HPV
+BRB,Hepatitis B vaccine,2000.0,HepB
+BRB,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+BRB,IPV (Inactivated polio vaccine),2015.0,IPV
+BRB,IPV (Inactivated polio vaccine) 2nd dose,2019.0,IPV2
+BRB,Measles-containing vaccine 2nd dose,1997.0,MCV2
+BRB,Mumps vaccine,1982.0,Mumps
+BRB,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+BRB,Rubella vaccine,1982.0,RCV1
+BRB,Seasonal Influenza vaccine,2006.0,
+BRB,Varicella vaccine,2012.0,
+BRN,COVID-19 vaccine,2024.0,
+BRN,HPV (Human papillomavirus) vaccine,2012.0,HPV
+BRN,HepB birth dose,1998.0,
+BRN,Hepatitis B vaccine,1988.0,HepB
+BRN,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+BRN,IPV (Inactivated polio vaccine),2011.0,IPV
+BRN,IPV (Inactivated polio vaccine) 2nd dose,2012.0,IPV2
+BRN,Measles-containing vaccine 2nd dose,1988.0,MCV2
+BRN,Mumps vaccine,1998.0,Mumps
+BRN,PCV (Pneumococcal conjugate vaccine),2025.0,PCV
+BRN,Rubella vaccine,1984.0,RCV1
+BRN,Seasonal Influenza vaccine,2010.0,
+BRN,aP (acellular pertussis) vaccine,2011.0,
+BTN,COVID-19 vaccine,2024.0,
+BTN,HPV (Human papillomavirus) vaccine,2009.0,HPV
+BTN,HepB birth dose,2011.0,
+BTN,Hepatitis B vaccine,1997.0,HepB
+BTN,Hib (Haemophilus influenzae type B) vaccine,2011.0,Hib
+BTN,IPV (Inactivated polio vaccine),2015.0,IPV
+BTN,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+BTN,Measles-containing vaccine 2nd dose,2006.0,MCV2
+BTN,Mumps vaccine,2016.0,Mumps
+BTN,PCV (Pneumococcal conjugate vaccine),2019.0,PCV
+BTN,Rubella vaccine,2006.0,RCV1
+BTN,Seasonal Influenza vaccine,2019.0,
+BTN,aP (acellular pertussis) vaccine,2018.0,
+BWA,COVID-19 vaccine,2024.0,
+BWA,HPV (Human papillomavirus) vaccine,2015.0,HPV
+BWA,HepB birth dose,1998.0,
+BWA,Hepatitis B vaccine,1994.0,HepB
+BWA,Hib (Haemophilus influenzae type B) vaccine,2011.0,Hib
+BWA,IPV (Inactivated polio vaccine),2015.0,IPV
+BWA,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+BWA,Measles-containing vaccine 2nd dose,2011.0,MCV2
+BWA,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+BWA,Rotavirus vaccine,2012.0,Rotavirus
+BWA,Rubella vaccine,2016.0,RCV1
+CAF,COVID-19 vaccine,2024.0,
+CAF,Hepatitis B vaccine,2008.0,HepB
+CAF,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+CAF,IPV (Inactivated polio vaccine),2015.0,IPV
+CAF,Malaria vaccine,2024.0,
+CAF,Meningococcal meningitis vaccines (any strain),2017.0,Meningococcal
+CAF,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+CAF,YF (Yellow fever) vaccine,1979.0,YFV
+CAN,COVID-19 vaccine,2024.0,
+CAN,HPV (Human papillomavirus) vaccine,2009.0,HPV
+CAN,Hepatitis B vaccine,1998.0,HepB
+CAN,Hib (Haemophilus influenzae type B) vaccine,1986.0,Hib
+CAN,IPV (Inactivated polio vaccine),1955.0,IPV
+CAN,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+CAN,Measles-containing vaccine 2nd dose,1997.0,MCV2
+CAN,Meningococcal meningitis vaccines (any strain),2004.0,Meningococcal
+CAN,Mumps vaccine,1983.0,Mumps
+CAN,PCV (Pneumococcal conjugate vaccine),2002.0,PCV
+CAN,PPV (Pneumococcal polysaccharide vaccine),2006.0,
+CAN,Rotavirus vaccine,2017.0,Rotavirus
+CAN,Rubella vaccine,1979.0,RCV1
+CAN,Seasonal Influenza vaccine,1970.0,
+CAN,Varicella vaccine,2001.0,
+CAN,aP (acellular pertussis) vaccine,2006.0,
+CHE,COVID-19 vaccine,2024.0,
+CHE,HPV (Human papillomavirus) vaccine,2006.0,HPV
+CHE,Hepatitis B vaccine,2018.0,HepB
+CHE,Hib (Haemophilus influenzae type B) vaccine,1990.0,Hib
+CHE,IPV (Inactivated polio vaccine),1957.0,IPV
+CHE,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+CHE,Measles-containing vaccine 2nd dose,1996.0,MCV2
+CHE,Meningococcal meningitis vaccines (any strain),2005.0,Meningococcal
+CHE,Mumps vaccine,1995.0,Mumps
+CHE,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+CHE,PPV (Pneumococcal polysaccharide vaccine),2008.0,
+CHE,Rotavirus vaccine,2024.0,Rotavirus
+CHE,Rubella vaccine,1973.0,RCV1
+CHE,Seasonal Influenza vaccine,2012.0,
+CHE,Varicella vaccine,2004.0,
+CHE,aP (acellular pertussis) vaccine,2002.0,
+CHL,COVID-19 vaccine,2024.0,
+CHL,HPV (Human papillomavirus) vaccine,2014.0,HPV
+CHL,HepB birth dose,2019.0,
+CHL,Hepatitis A vaccine,2014.0,
+CHL,Hepatitis B vaccine,2005.0,HepB
+CHL,Hib (Haemophilus influenzae type B) vaccine,1996.0,Hib
+CHL,IPV (Inactivated polio vaccine),2016.0,IPV
+CHL,IPV (Inactivated polio vaccine) 2nd dose,2018.0,IPV2
+CHL,Measles-containing vaccine 2nd dose,1992.0,MCV2
+CHL,Meningococcal meningitis vaccines (any strain),2012.0,Meningococcal
+CHL,Mumps vaccine,1990.0,Mumps
+CHL,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+CHL,PPV (Pneumococcal polysaccharide vaccine),2007.0,
+CHL,Rubella vaccine,1990.0,RCV1
+CHL,Seasonal Influenza vaccine,1975.0,
+CHL,Varicella vaccine,2022.0,
+CHL,aP (acellular pertussis) vaccine,2013.0,
+CHN,HPV (Human papillomavirus) vaccine,2025.0,HPV
+CHN,HepB birth dose,2002.0,
+CHN,Hepatitis A vaccine,2007.0,
+CHN,Hepatitis B vaccine,2002.0,HepB
+CHN,IPV (Inactivated polio vaccine),2015.0,IPV
+CHN,IPV (Inactivated polio vaccine) 2nd dose,2019.0,IPV2
+CHN,Japanese Encephalitis,2008.0,JAPENC
+CHN,Measles-containing vaccine 2nd dose,1986.0,MCV2
+CHN,Meningococcal meningitis vaccines (any strain),2008.0,Meningococcal
+CHN,Mumps vaccine,2008.0,Mumps
+CHN,Rubella vaccine,2008.0,RCV1
+CHN,Seasonal Influenza vaccine,2019.0,
+CHN,aP (acellular pertussis) vaccine,2012.0,
+CIV,COVID-19 vaccine,2024.0,
+CIV,HPV (Human papillomavirus) vaccine,2019.0,HPV
+CIV,HepB birth dose,2019.0,
+CIV,Hepatitis B vaccine,2003.0,HepB
+CIV,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+CIV,IPV (Inactivated polio vaccine),2015.0,IPV
+CIV,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+CIV,Malaria vaccine,2025.0,
+CIV,Measles-containing vaccine 2nd dose,2021.0,MCV2
+CIV,Meningococcal meningitis vaccines (any strain),2018.0,Meningococcal
+CIV,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+CIV,Rotavirus vaccine,2017.0,Rotavirus
+CIV,Rubella vaccine,2018.0,RCV1
+CIV,Seasonal Influenza vaccine,2018.0,
+CIV,YF (Yellow fever) vaccine,1987.0,YFV
+CMR,COVID-19 vaccine,2024.0,
+CMR,HPV (Human papillomavirus) vaccine,2020.0,HPV
+CMR,Hepatitis B vaccine,2005.0,HepB
+CMR,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+CMR,IPV (Inactivated polio vaccine),2015.0,IPV
+CMR,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+CMR,Measles-containing vaccine 2nd dose,2019.0,MCV2
+CMR,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+CMR,Rotavirus vaccine,2014.0,Rotavirus
+CMR,Rubella vaccine,2015.0,RCV1
+CMR,YF (Yellow fever) vaccine,2004.0,YFV
+COD,Hepatitis B vaccine,2007.0,HepB
+COD,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+COD,IPV (Inactivated polio vaccine),2015.0,IPV
+COD,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+COD,Measles-containing vaccine 2nd dose,2022.0,MCV2
+COD,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+COD,Rotavirus vaccine,2019.0,Rotavirus
+COD,YF (Yellow fever) vaccine,2004.0,YFV
+COG,COVID-19 vaccine,2024.0,
+COG,Hepatitis B vaccine,2007.0,HepB
+COG,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+COG,IPV (Inactivated polio vaccine),2016.0,IPV
+COG,IPV (Inactivated polio vaccine) 2nd dose,2025.0,IPV2
+COG,Measles-containing vaccine 2nd dose,2019.0,MCV2
+COG,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+COG,Rotavirus vaccine,2014.0,Rotavirus
+COG,Rubella vaccine,2019.0,RCV1
+COG,YF (Yellow fever) vaccine,2004.0,YFV
+COK,HPV (Human papillomavirus) vaccine,2011.0,HPV
+COK,HepB birth dose,1998.0,
+COK,Hepatitis B vaccine,1989.0,HepB
+COK,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+COK,IPV (Inactivated polio vaccine),2015.0,IPV
+COK,Measles-containing vaccine 2nd dose,1982.0,MCV2
+COK,Mumps vaccine,2011.0,Mumps
+COK,PCV (Pneumococcal conjugate vaccine),2022.0,PCV
+COK,Rotavirus vaccine,2022.0,Rotavirus
+COK,Rubella vaccine,2006.0,RCV1
+COK,Seasonal Influenza vaccine,2019.0,
+COK,aP (acellular pertussis) vaccine,2017.0,
+COL,COVID-19 vaccine,2024.0,
+COL,HPV (Human papillomavirus) vaccine,2012.0,HPV
+COL,HepB birth dose,2000.0,
+COL,Hepatitis A vaccine,2013.0,
+COL,Hepatitis B vaccine,1994.0,HepB
+COL,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+COL,IPV (Inactivated polio vaccine),2015.0,IPV
+COL,IPV (Inactivated polio vaccine) 2nd dose,2018.0,IPV2
+COL,Measles-containing vaccine 2nd dose,1997.0,MCV2
+COL,Mumps vaccine,1995.0,Mumps
+COL,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+COL,Rotavirus vaccine,2009.0,Rotavirus
+COL,Rubella vaccine,1995.0,RCV1
+COL,Seasonal Influenza vaccine,2007.0,
+COL,Varicella vaccine,2015.0,
+COL,YF (Yellow fever) vaccine,2003.0,YFV
+COL,aP (acellular pertussis) vaccine,2014.0,
+COM,COVID-19 vaccine,2024.0,
+COM,HPV (Human papillomavirus) vaccine,2025.0,HPV
+COM,Hepatitis B vaccine,2003.0,HepB
+COM,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+COM,IPV (Inactivated polio vaccine),2015.0,IPV
+COM,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+COM,Measles-containing vaccine 2nd dose,2021.0,MCV2
+COM,Rubella vaccine,2022.0,RCV1
+CPV,HPV (Human papillomavirus) vaccine,2021.0,HPV
+CPV,HepB birth dose,2002.0,
+CPV,Hepatitis B vaccine,2002.0,HepB
+CPV,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+CPV,IPV (Inactivated polio vaccine),2017.0,IPV
+CPV,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+CPV,Measles-containing vaccine 2nd dose,2010.0,MCV2
+CPV,Mumps vaccine,2010.0,Mumps
+CPV,Rubella vaccine,2010.0,RCV1
+CPV,Seasonal Influenza vaccine,2024.0,
+CPV,YF (Yellow fever) vaccine,2018.0,YFV
+CRI,COVID-19 vaccine,2024.0,
+CRI,HPV (Human papillomavirus) vaccine,2019.0,HPV
+CRI,HepB birth dose,2002.0,
+CRI,Hepatitis B vaccine,2000.0,HepB
+CRI,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+CRI,IPV (Inactivated polio vaccine),2010.0,IPV
+CRI,IPV (Inactivated polio vaccine) 2nd dose,2010.0,IPV2
+CRI,Measles-containing vaccine 2nd dose,1992.0,MCV2
+CRI,Mumps vaccine,1987.0,Mumps
+CRI,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+CRI,PPV (Pneumococcal polysaccharide vaccine),2012.0,
+CRI,Rotavirus vaccine,2019.0,Rotavirus
+CRI,Rubella vaccine,1972.0,RCV1
+CRI,Seasonal Influenza vaccine,2004.0,
+CRI,Varicella vaccine,2007.0,
+CRI,aP (acellular pertussis) vaccine,2007.0,
+CUB,COVID-19 vaccine,2025.0,
+CUB,HPV (Human papillomavirus) vaccine,2025.0,HPV
+CUB,HepB birth dose,1998.0,
+CUB,Hepatitis B vaccine,1990.0,HepB
+CUB,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+CUB,IPV (Inactivated polio vaccine),2016.0,IPV
+CUB,IPV (Inactivated polio vaccine) 2nd dose,2018.0,IPV2
+CUB,Measles-containing vaccine 2nd dose,2004.0,MCV2
+CUB,Meningococcal meningitis vaccines (any strain),2006.0,Meningococcal
+CUB,Mumps vaccine,1986.0,Mumps
+CUB,PCV (Pneumococcal conjugate vaccine),2024.0,PCV
+CUB,Rubella vaccine,1986.0,RCV1
+CUB,Seasonal Influenza vaccine,1998.0,
+CYP,COVID-19 vaccine,2024.0,
+CYP,HPV (Human papillomavirus) vaccine,2016.0,HPV
+CYP,Hepatitis A vaccine,2020.0,
+CYP,Hepatitis B vaccine,1989.0,HepB
+CYP,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+CYP,IPV (Inactivated polio vaccine),2003.0,IPV
+CYP,IPV (Inactivated polio vaccine) 2nd dose,2003.0,IPV2
+CYP,Measles-containing vaccine 2nd dose,1989.0,MCV2
+CYP,Meningococcal meningitis vaccines (any strain),2008.0,Meningococcal
+CYP,Mumps vaccine,1998.0,Mumps
+CYP,PCV (Pneumococcal conjugate vaccine),2007.0,PCV
+CYP,Rubella vaccine,1974.0,RCV1
+CYP,Seasonal Influenza vaccine,1989.0,
+CYP,Varicella vaccine,2006.0,
+CYP,aP (acellular pertussis) vaccine,2002.0,
+CZE,COVID-19 vaccine,2024.0,
+CZE,HPV (Human papillomavirus) vaccine,2012.0,HPV
+CZE,Hepatitis B vaccine,2001.0,HepB
+CZE,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+CZE,IPV (Inactivated polio vaccine),2007.0,IPV
+CZE,IPV (Inactivated polio vaccine) 2nd dose,2007.0,IPV2
+CZE,Measles-containing vaccine 2nd dose,1993.0,MCV2
+CZE,Mumps vaccine,1993.0,Mumps
+CZE,Rubella vaccine,1993.0,RCV1
+CZE,Seasonal Influenza vaccine,2010.0,
+CZE,aP (acellular pertussis) vaccine,2007.0,
+DEU,COVID-19 vaccine,2024.0,
+DEU,HPV (Human papillomavirus) vaccine,2007.0,HPV
+DEU,Hepatitis B vaccine,1995.0,HepB
+DEU,Hib (Haemophilus influenzae type B) vaccine,1990.0,Hib
+DEU,IPV (Inactivated polio vaccine),1962.0,IPV
+DEU,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+DEU,Measles-containing vaccine 2nd dose,1991.0,MCV2
+DEU,Meningococcal meningitis vaccines (any strain),2005.0,Meningococcal
+DEU,Mumps vaccine,1995.0,Mumps
+DEU,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+DEU,PPV (Pneumococcal polysaccharide vaccine),2004.0,
+DEU,Rotavirus vaccine,2013.0,Rotavirus
+DEU,Rubella vaccine,1991.0,RCV1
+DEU,Seasonal Influenza vaccine,1988.0,
+DEU,Varicella vaccine,2003.0,
+DEU,aP (acellular pertussis) vaccine,2006.0,
+DJI,HPV (Human papillomavirus) vaccine,2025.0,HPV
+DJI,HepB birth dose,2011.0,
+DJI,Hepatitis B vaccine,2007.0,HepB
+DJI,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+DJI,IPV (Inactivated polio vaccine),2016.0,IPV
+DJI,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+DJI,Measles-containing vaccine 2nd dose,2011.0,MCV2
+DJI,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+DJI,Rotavirus vaccine,2014.0,Rotavirus
+DMA,COVID-19 vaccine,2024.0,
+DMA,HPV (Human papillomavirus) vaccine,2019.0,HPV
+DMA,HepB birth dose,2017.0,
+DMA,Hepatitis B vaccine,2006.0,HepB
+DMA,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+DMA,IPV (Inactivated polio vaccine),2015.0,IPV
+DMA,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+DMA,Measles-containing vaccine 2nd dose,2001.0,MCV2
+DMA,Mumps vaccine,1989.0,Mumps
+DMA,Rubella vaccine,1989.0,RCV1
+DMA,Seasonal Influenza vaccine,2011.0,
+DNK,COVID-19 vaccine,2024.0,
+DNK,HPV (Human papillomavirus) vaccine,2007.0,HPV
+DNK,Hib (Haemophilus influenzae type B) vaccine,1993.0,Hib
+DNK,IPV (Inactivated polio vaccine),1955.0,IPV
+DNK,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+DNK,Measles-containing vaccine 2nd dose,1987.0,MCV2
+DNK,Mumps vaccine,1995.0,Mumps
+DNK,PCV (Pneumococcal conjugate vaccine),2007.0,PCV
+DNK,PPV (Pneumococcal polysaccharide vaccine),2020.0,
+DNK,Rubella vaccine,1987.0,RCV1
+DNK,Seasonal Influenza vaccine,2007.0,
+DNK,aP (acellular pertussis) vaccine,2006.0,
+DOM,COVID-19 vaccine,2024.0,
+DOM,HPV (Human papillomavirus) vaccine,2017.0,HPV
+DOM,HepB birth dose,1997.0,
+DOM,Hepatitis B vaccine,1994.0,HepB
+DOM,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+DOM,IPV (Inactivated polio vaccine),2015.0,IPV
+DOM,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+DOM,Measles-containing vaccine 2nd dose,2018.0,MCV2
+DOM,Mumps vaccine,2003.0,Mumps
+DOM,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+DOM,PPV (Pneumococcal polysaccharide vaccine),2007.0,
+DOM,Rotavirus vaccine,2012.0,Rotavirus
+DOM,Rubella vaccine,2004.0,RCV1
+DOM,Seasonal Influenza vaccine,2006.0,
+DOM,aP (acellular pertussis) vaccine,2022.0,
+DZA,HepB birth dose,2001.0,
+DZA,Hepatitis B vaccine,2001.0,HepB
+DZA,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+DZA,IPV (Inactivated polio vaccine),2015.0,IPV
+DZA,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+DZA,Measles-containing vaccine 2nd dose,1997.0,MCV2
+DZA,Mumps vaccine,2017.0,Mumps
+DZA,PCV (Pneumococcal conjugate vaccine),2016.0,PCV
+DZA,Rubella vaccine,2014.0,RCV1
+DZA,Seasonal Influenza vaccine,2009.0,
+DZA,aP (acellular pertussis) vaccine,2023.0,
+ECU,COVID-19 vaccine,2024.0,
+ECU,HPV (Human papillomavirus) vaccine,2014.0,HPV
+ECU,HepB birth dose,2012.0,
+ECU,Hepatitis B vaccine,1999.0,HepB
+ECU,Hib (Haemophilus influenzae type B) vaccine,2003.0,Hib
+ECU,IPV (Inactivated polio vaccine),2015.0,IPV
+ECU,IPV (Inactivated polio vaccine) 2nd dose,2018.0,IPV2
+ECU,Measles-containing vaccine 2nd dose,2009.0,MCV2
+ECU,Mumps vaccine,1997.0,Mumps
+ECU,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+ECU,PPV (Pneumococcal polysaccharide vaccine),2008.0,
+ECU,Rotavirus vaccine,2007.0,Rotavirus
+ECU,Rubella vaccine,1997.0,RCV1
+ECU,Seasonal Influenza vaccine,2006.0,
+ECU,Varicella vaccine,2009.0,
+ECU,YF (Yellow fever) vaccine,2009.0,YFV
+ECU,aP (acellular pertussis) vaccine,2025.0,
+EGY,COVID-19 vaccine,2024.0,
+EGY,HepB birth dose,2015.0,
+EGY,Hepatitis B vaccine,1992.0,HepB
+EGY,Hib (Haemophilus influenzae type B) vaccine,2014.0,Hib
+EGY,IPV (Inactivated polio vaccine),2018.0,IPV
+EGY,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+EGY,Measles-containing vaccine 2nd dose,1999.0,MCV2
+EGY,Meningococcal meningitis vaccines (any strain),2006.0,Meningococcal
+EGY,Mumps vaccine,1999.0,Mumps
+EGY,Rubella vaccine,1999.0,RCV1
+EGY,Seasonal Influenza vaccine,1999.0,
+ERI,HPV (Human papillomavirus) vaccine,2022.0,HPV
+ERI,HepB birth dose,2025.0,
+ERI,Hepatitis B vaccine,2002.0,HepB
+ERI,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+ERI,IPV (Inactivated polio vaccine),2018.0,IPV
+ERI,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+ERI,Measles-containing vaccine 2nd dose,2012.0,MCV2
+ERI,Meningococcal meningitis vaccines (any strain),2019.0,Meningococcal
+ERI,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+ERI,Rotavirus vaccine,2014.0,Rotavirus
+ERI,Rubella vaccine,2018.0,RCV1
+ESP,COVID-19 vaccine,2024.0,
+ESP,HPV (Human papillomavirus) vaccine,2007.0,HPV
+ESP,HepB birth dose,2003.0,
+ESP,Hepatitis B vaccine,1996.0,HepB
+ESP,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+ESP,IPV (Inactivated polio vaccine),1963.0,IPV
+ESP,IPV (Inactivated polio vaccine) 2nd dose,2005.0,IPV2
+ESP,Measles-containing vaccine 2nd dose,1996.0,MCV2
+ESP,Meningococcal meningitis vaccines (any strain),2002.0,Meningococcal
+ESP,Mumps vaccine,1995.0,Mumps
+ESP,PCV (Pneumococcal conjugate vaccine),2016.0,PCV
+ESP,PPV (Pneumococcal polysaccharide vaccine),2013.0,
+ESP,Rotavirus vaccine,2024.0,Rotavirus
+ESP,Rubella vaccine,1978.0,RCV1
+ESP,Seasonal Influenza vaccine,1992.0,
+ESP,Varicella vaccine,2016.0,
+ESP,aP (acellular pertussis) vaccine,2006.0,
+EST,COVID-19 vaccine,2024.0,
+EST,HPV (Human papillomavirus) vaccine,2018.0,HPV
+EST,Hepatitis B vaccine,2003.0,HepB
+EST,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+EST,IPV (Inactivated polio vaccine),2008.0,IPV
+EST,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+EST,Measles-containing vaccine 2nd dose,1994.0,MCV2
+EST,Mumps vaccine,1995.0,Mumps
+EST,Rotavirus vaccine,2014.0,Rotavirus
+EST,Rubella vaccine,1993.0,RCV1
+EST,Seasonal Influenza vaccine,2007.0,
+EST,aP (acellular pertussis) vaccine,2008.0,
+ETH,COVID-19 vaccine,2024.0,
+ETH,HPV (Human papillomavirus) vaccine,2018.0,HPV
+ETH,HepB birth dose,2025.0,
+ETH,Hepatitis B vaccine,2007.0,HepB
+ETH,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+ETH,IPV (Inactivated polio vaccine),2015.0,IPV
+ETH,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+ETH,Measles-containing vaccine 2nd dose,2019.0,MCV2
+ETH,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+ETH,Rotavirus vaccine,2014.0,Rotavirus
+FIN,COVID-19 vaccine,2024.0,
+FIN,HPV (Human papillomavirus) vaccine,2013.0,HPV
+FIN,Hib (Haemophilus influenzae type B) vaccine,1986.0,Hib
+FIN,IPV (Inactivated polio vaccine),1957.0,IPV
+FIN,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+FIN,Measles-containing vaccine 2nd dose,1982.0,MCV2
+FIN,Mumps vaccine,1995.0,Mumps
+FIN,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+FIN,Rotavirus vaccine,2009.0,Rotavirus
+FIN,Rubella vaccine,1975.0,RCV1
+FIN,Seasonal Influenza vaccine,2008.0,
+FIN,Varicella vaccine,2017.0,
+FIN,aP (acellular pertussis) vaccine,2006.0,
+FJI,COVID-19 vaccine,2024.0,
+FJI,HPV (Human papillomavirus) vaccine,2013.0,HPV
+FJI,HepB birth dose,1998.0,
+FJI,Hepatitis B vaccine,1995.0,HepB
+FJI,Hib (Haemophilus influenzae type B) vaccine,1997.0,Hib
+FJI,IPV (Inactivated polio vaccine),2015.0,IPV
+FJI,Measles-containing vaccine 2nd dose,2003.0,MCV2
+FJI,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+FJI,Rotavirus vaccine,2012.0,Rotavirus
+FJI,Rubella vaccine,2003.0,RCV1
+FJI,Seasonal Influenza vaccine,2020.0,
+FRA,HPV (Human papillomavirus) vaccine,2006.0,HPV
+FRA,Hepatitis B vaccine,1994.0,HepB
+FRA,Hib (Haemophilus influenzae type B) vaccine,1992.0,Hib
+FRA,IPV (Inactivated polio vaccine),1964.0,IPV
+FRA,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+FRA,Measles-containing vaccine 2nd dose,1996.0,MCV2
+FRA,Meningococcal meningitis vaccines (any strain),2010.0,Meningococcal
+FRA,Mumps vaccine,1995.0,Mumps
+FRA,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+FRA,PPV (Pneumococcal polysaccharide vaccine),2020.0,
+FRA,Rotavirus vaccine,2022.0,Rotavirus
+FRA,Rubella vaccine,1970.0,RCV1
+FRA,Seasonal Influenza vaccine,2007.0,
+FRA,aP (acellular pertussis) vaccine,2002.0,
+FSM,HPV (Human papillomavirus) vaccine,2010.0,HPV
+FSM,HepB birth dose,1998.0,
+FSM,Hepatitis B vaccine,1989.0,HepB
+FSM,Hib (Haemophilus influenzae type B) vaccine,1996.0,Hib
+FSM,IPV (Inactivated polio vaccine),2013.0,IPV
+FSM,IPV (Inactivated polio vaccine) 2nd dose,2003.0,IPV2
+FSM,Measles-containing vaccine 2nd dose,1995.0,MCV2
+FSM,Mumps vaccine,1998.0,Mumps
+FSM,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+FSM,PPV (Pneumococcal polysaccharide vaccine),2015.0,
+FSM,Rotavirus vaccine,2008.0,Rotavirus
+FSM,Rubella vaccine,1987.0,RCV1
+FSM,Seasonal Influenza vaccine,2012.0,
+FSM,aP (acellular pertussis) vaccine,2002.0,
+GAB,COVID-19 vaccine,2025.0,
+GAB,Hepatitis B vaccine,2004.0,HepB
+GAB,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+GAB,IPV (Inactivated polio vaccine),2015.0,IPV
+GAB,YF (Yellow fever) vaccine,2003.0,YFV
+GBR,COVID-19 vaccine,2024.0,
+GBR,HPV (Human papillomavirus) vaccine,2008.0,HPV
+GBR,Hepatitis B vaccine,2017.0,HepB
+GBR,Hib (Haemophilus influenzae type B) vaccine,1992.0,Hib
+GBR,IPV (Inactivated polio vaccine),2004.0,IPV
+GBR,IPV (Inactivated polio vaccine) 2nd dose,2004.0,IPV2
+GBR,Measles-containing vaccine 2nd dose,1996.0,MCV2
+GBR,Meningococcal meningitis vaccines (any strain),1999.0,Meningococcal
+GBR,Mumps vaccine,1995.0,Mumps
+GBR,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+GBR,PPV (Pneumococcal polysaccharide vaccine),2003.0,
+GBR,Rotavirus vaccine,2013.0,Rotavirus
+GBR,Rubella vaccine,1970.0,RCV1
+GBR,Seasonal Influenza vaccine,2000.0,
+GBR,aP (acellular pertussis) vaccine,2002.0,
+GEO,HPV (Human papillomavirus) vaccine,2019.0,HPV
+GEO,HepB birth dose,2003.0,
+GEO,Hepatitis B vaccine,2001.0,HepB
+GEO,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+GEO,IPV (Inactivated polio vaccine),2015.0,IPV
+GEO,IPV (Inactivated polio vaccine) 2nd dose,2015.0,IPV2
+GEO,Measles-containing vaccine 2nd dose,1991.0,MCV2
+GEO,Mumps vaccine,2002.0,Mumps
+GEO,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+GEO,Rotavirus vaccine,2013.0,Rotavirus
+GEO,Rubella vaccine,2004.0,RCV1
+GEO,Seasonal Influenza vaccine,2014.0,
+GEO,aP (acellular pertussis) vaccine,2015.0,
+GHA,COVID-19 vaccine,2024.0,
+GHA,HPV (Human papillomavirus) vaccine,2025.0,HPV
+GHA,Hepatitis B vaccine,2002.0,HepB
+GHA,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+GHA,IPV (Inactivated polio vaccine),2018.0,IPV
+GHA,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+GHA,Measles-containing vaccine 2nd dose,2012.0,MCV2
+GHA,Meningococcal meningitis vaccines (any strain),2016.0,Meningococcal
+GHA,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+GHA,Rotavirus vaccine,2012.0,Rotavirus
+GHA,Rubella vaccine,2013.0,RCV1
+GHA,YF (Yellow fever) vaccine,1992.0,YFV
+GIN,COVID-19 vaccine,2024.0,
+GIN,Hepatitis B vaccine,2006.0,HepB
+GIN,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+GIN,IPV (Inactivated polio vaccine),2015.0,IPV
+GIN,Measles-containing vaccine 2nd dose,2022.0,MCV2
+GIN,Meningococcal meningitis vaccines (any strain),2021.0,Meningococcal
+GIN,YF (Yellow fever) vaccine,2003.0,YFV
+GMB,COVID-19 vaccine,2024.0,
+GMB,HPV (Human papillomavirus) vaccine,2019.0,HPV
+GMB,HepB birth dose,1999.0,
+GMB,Hepatitis B vaccine,1995.0,HepB
+GMB,Hib (Haemophilus influenzae type B) vaccine,1997.0,Hib
+GMB,IPV (Inactivated polio vaccine),2015.0,IPV
+GMB,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+GMB,Measles-containing vaccine 2nd dose,2012.0,MCV2
+GMB,Meningococcal meningitis vaccines (any strain),2018.0,Meningococcal
+GMB,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+GMB,Rotavirus vaccine,2013.0,Rotavirus
+GMB,Rubella vaccine,2016.0,RCV1
+GMB,YF (Yellow fever) vaccine,1979.0,YFV
+GNB,COVID-19 vaccine,2024.0,
+GNB,Hepatitis B vaccine,2008.0,HepB
+GNB,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+GNB,IPV (Inactivated polio vaccine),2016.0,IPV
+GNB,Measles-containing vaccine 2nd dose,2022.0,MCV2
+GNB,Meningococcal meningitis vaccines (any strain),2023.0,Meningococcal
+GNB,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+GNB,Rotavirus vaccine,2012.0,Rotavirus
+GNB,YF (Yellow fever) vaccine,2008.0,YFV
+GNQ,HepB birth dose,2018.0,
+GNQ,Hepatitis B vaccine,2013.0,HepB
+GNQ,Hib (Haemophilus influenzae type B) vaccine,2013.0,Hib
+GNQ,IPV (Inactivated polio vaccine),2016.0,IPV
+GNQ,Measles-containing vaccine 2nd dose,2021.0,MCV2
+GNQ,YF (Yellow fever) vaccine,2017.0,YFV
+GRC,COVID-19 vaccine,2024.0,
+GRC,HPV (Human papillomavirus) vaccine,2009.0,HPV
+GRC,Hepatitis A vaccine,2017.0,
+GRC,Hepatitis B vaccine,2000.0,HepB
+GRC,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+GRC,IPV (Inactivated polio vaccine),2003.0,IPV
+GRC,IPV (Inactivated polio vaccine) 2nd dose,2003.0,IPV2
+GRC,Measles-containing vaccine 2nd dose,1995.0,MCV2
+GRC,Meningococcal meningitis vaccines (any strain),2014.0,Meningococcal
+GRC,Mumps vaccine,1995.0,Mumps
+GRC,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+GRC,PPV (Pneumococcal polysaccharide vaccine),1999.0,
+GRC,Rotavirus vaccine,2011.0,Rotavirus
+GRC,Rubella vaccine,1995.0,RCV1
+GRC,Seasonal Influenza vaccine,2007.0,
+GRC,Varicella vaccine,2008.0,
+GRC,aP (acellular pertussis) vaccine,2002.0,
+GRD,COVID-19 vaccine,2024.0,
+GRD,HPV (Human papillomavirus) vaccine,2019.0,HPV
+GRD,HepB birth dose,2017.0,
+GRD,Hepatitis B vaccine,2000.0,HepB
+GRD,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+GRD,IPV (Inactivated polio vaccine),2015.0,IPV
+GRD,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+GRD,Measles-containing vaccine 2nd dose,2000.0,MCV2
+GRD,Mumps vaccine,1993.0,Mumps
+GRD,PCV (Pneumococcal conjugate vaccine),2025.0,PCV
+GRD,Rotavirus vaccine,2025.0,Rotavirus
+GRD,Rubella vaccine,1993.0,RCV1
+GRD,Seasonal Influenza vaccine,2006.0,
+GTM,COVID-19 vaccine,2024.0,
+GTM,HPV (Human papillomavirus) vaccine,2018.0,HPV
+GTM,HepB birth dose,2010.0,
+GTM,Hepatitis B vaccine,2005.0,HepB
+GTM,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+GTM,IPV (Inactivated polio vaccine),2016.0,IPV
+GTM,IPV (Inactivated polio vaccine) 2nd dose,2020.0,IPV2
+GTM,Measles-containing vaccine 2nd dose,2016.0,MCV2
+GTM,Mumps vaccine,1995.0,Mumps
+GTM,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+GTM,Rotavirus vaccine,2010.0,Rotavirus
+GTM,Rubella vaccine,2001.0,RCV1
+GTM,Seasonal Influenza vaccine,2007.0,
+GTM,Varicella vaccine,2025.0,
+GTM,aP (acellular pertussis) vaccine,2020.0,
+GUY,HPV (Human papillomavirus) vaccine,2017.0,HPV
+GUY,HepB birth dose,2019.0,
+GUY,Hepatitis B vaccine,2001.0,HepB
+GUY,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+GUY,IPV (Inactivated polio vaccine),2015.0,IPV
+GUY,IPV (Inactivated polio vaccine) 2nd dose,2020.0,IPV2
+GUY,Measles-containing vaccine 2nd dose,2001.0,MCV2
+GUY,Mumps vaccine,1995.0,Mumps
+GUY,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+GUY,Rotavirus vaccine,2010.0,Rotavirus
+GUY,Rubella vaccine,1995.0,RCV1
+GUY,Seasonal Influenza vaccine,2025.0,
+GUY,YF (Yellow fever) vaccine,1980.0,YFV
+HND,COVID-19 vaccine,2024.0,
+HND,HPV (Human papillomavirus) vaccine,2016.0,HPV
+HND,HepB birth dose,2008.0,
+HND,Hepatitis A vaccine,2020.0,
+HND,Hepatitis B vaccine,2000.0,HepB
+HND,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+HND,IPV (Inactivated polio vaccine),2015.0,IPV
+HND,IPV (Inactivated polio vaccine) 2nd dose,2018.0,IPV2
+HND,Measles-containing vaccine 2nd dose,2018.0,MCV2
+HND,Mumps vaccine,1997.0,Mumps
+HND,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+HND,Rotavirus vaccine,2009.0,Rotavirus
+HND,Rubella vaccine,1997.0,RCV1
+HND,Seasonal Influenza vaccine,2003.0,
+HND,Varicella vaccine,2024.0,
+HND,aP (acellular pertussis) vaccine,2024.0,
+HRV,COVID-19 vaccine,2024.0,
+HRV,HPV (Human papillomavirus) vaccine,2016.0,HPV
+HRV,HepB birth dose,2007.0,
+HRV,Hepatitis B vaccine,1999.0,HepB
+HRV,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+HRV,IPV (Inactivated polio vaccine),1991.0,IPV
+HRV,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+HRV,Measles-containing vaccine 2nd dose,1991.0,MCV2
+HRV,Mumps vaccine,1995.0,Mumps
+HRV,PCV (Pneumococcal conjugate vaccine),2019.0,PCV
+HRV,Rubella vaccine,1991.0,RCV1
+HRV,Seasonal Influenza vaccine,2015.0,
+HRV,aP (acellular pertussis) vaccine,2001.0,
+HTI,COVID-19 vaccine,2024.0,
+HTI,Hepatitis B vaccine,2012.0,HepB
+HTI,Hib (Haemophilus influenzae type B) vaccine,2012.0,Hib
+HTI,IPV (Inactivated polio vaccine),2015.0,IPV
+HTI,Measles-containing vaccine 2nd dose,2016.0,MCV2
+HTI,PCV (Pneumococcal conjugate vaccine),2018.0,PCV
+HTI,Rotavirus vaccine,2014.0,Rotavirus
+HTI,Rubella vaccine,2008.0,RCV1
+HUN,COVID-19 vaccine,2024.0,
+HUN,HPV (Human papillomavirus) vaccine,2014.0,HPV
+HUN,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+HUN,IPV (Inactivated polio vaccine),1959.0,IPV
+HUN,IPV (Inactivated polio vaccine) 2nd dose,2006.0,IPV2
+HUN,Measles-containing vaccine 2nd dose,1989.0,MCV2
+HUN,Mumps vaccine,1995.0,Mumps
+HUN,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+HUN,Rubella vaccine,1989.0,RCV1
+HUN,Seasonal Influenza vaccine,2007.0,
+HUN,Varicella vaccine,2019.0,
+HUN,aP (acellular pertussis) vaccine,2006.0,
+IDN,COVID-19 vaccine,2024.0,
+IDN,HPV (Human papillomavirus) vaccine,2023.0,HPV
+IDN,HepB birth dose,2000.0,
+IDN,Hepatitis B vaccine,2003.0,HepB
+IDN,Hib (Haemophilus influenzae type B) vaccine,2014.0,Hib
+IDN,IPV (Inactivated polio vaccine),2016.0,IPV
+IDN,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+IDN,Measles-containing vaccine 2nd dose,2005.0,MCV2
+IDN,PCV (Pneumococcal conjugate vaccine),2022.0,PCV
+IDN,Rotavirus vaccine,2023.0,Rotavirus
+IDN,Rubella vaccine,2018.0,RCV1
+IND,HepB birth dose,2008.0,
+IND,Hepatitis B vaccine,2011.0,HepB
+IND,Hib (Haemophilus influenzae type B) vaccine,2015.0,Hib
+IND,IPV (Inactivated polio vaccine),2015.0,IPV
+IND,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+IND,Measles-containing vaccine 2nd dose,2011.0,MCV2
+IND,PCV (Pneumococcal conjugate vaccine),2021.0,PCV
+IND,Rotavirus vaccine,2019.0,Rotavirus
+IND,Rubella vaccine,2018.0,RCV1
+IRL,COVID-19 vaccine,2024.0,
+IRL,HPV (Human papillomavirus) vaccine,2010.0,HPV
+IRL,Hepatitis B vaccine,2008.0,HepB
+IRL,Hib (Haemophilus influenzae type B) vaccine,1992.0,Hib
+IRL,IPV (Inactivated polio vaccine),1957.0,IPV
+IRL,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+IRL,Measles-containing vaccine 2nd dose,1992.0,MCV2
+IRL,Meningococcal meningitis vaccines (any strain),2002.0,Meningococcal
+IRL,Mumps vaccine,1995.0,Mumps
+IRL,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+IRL,PPV (Pneumococcal polysaccharide vaccine),2005.0,
+IRL,Rotavirus vaccine,2016.0,Rotavirus
+IRL,Rubella vaccine,1971.0,RCV1
+IRL,Seasonal Influenza vaccine,1998.0,
+IRL,Varicella vaccine,2024.0,
+IRL,aP (acellular pertussis) vaccine,2002.0,
+IRN,HepB birth dose,1998.0,
+IRN,Hepatitis B vaccine,1993.0,HepB
+IRN,Hib (Haemophilus influenzae type B) vaccine,2014.0,Hib
+IRN,IPV (Inactivated polio vaccine),2015.0,IPV
+IRN,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+IRN,Measles-containing vaccine 2nd dose,1963.0,MCV2
+IRN,Mumps vaccine,2004.0,Mumps
+IRN,PCV (Pneumococcal conjugate vaccine),2024.0,PCV
+IRN,Rotavirus vaccine,2024.0,Rotavirus
+IRN,Rubella vaccine,2004.0,RCV1
+IRN,Seasonal Influenza vaccine,2005.0,
+IRQ,COVID-19 vaccine,2024.0,
+IRQ,HepB birth dose,2004.0,
+IRQ,Hepatitis B vaccine,1985.0,HepB
+IRQ,Hib (Haemophilus influenzae type B) vaccine,2012.0,Hib
+IRQ,IPV (Inactivated polio vaccine),2016.0,IPV
+IRQ,IPV (Inactivated polio vaccine) 2nd dose,2016.0,IPV2
+IRQ,Measles-containing vaccine 2nd dose,1989.0,MCV2
+IRQ,Mumps vaccine,1996.0,Mumps
+IRQ,PCV (Pneumococcal conjugate vaccine),2017.0,PCV
+IRQ,Rotavirus vaccine,2012.0,Rotavirus
+IRQ,Rubella vaccine,1989.0,RCV1
+IRQ,Seasonal Influenza vaccine,2009.0,
+IRQ,aP (acellular pertussis) vaccine,2016.0,
+ISL,COVID-19 vaccine,2024.0,
+ISL,HPV (Human papillomavirus) vaccine,2011.0,HPV
+ISL,Hib (Haemophilus influenzae type B) vaccine,1989.0,Hib
+ISL,IPV (Inactivated polio vaccine),1995.0,IPV
+ISL,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+ISL,Measles-containing vaccine 2nd dose,1976.0,MCV2
+ISL,Meningococcal meningitis vaccines (any strain),2003.0,Meningococcal
+ISL,Mumps vaccine,1995.0,Mumps
+ISL,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+ISL,Rotavirus vaccine,2025.0,Rotavirus
+ISL,Rubella vaccine,1979.0,RCV1
+ISL,Seasonal Influenza vaccine,2008.0,
+ISL,Varicella vaccine,2020.0,
+ISL,aP (acellular pertussis) vaccine,2006.0,
+ISR,HPV (Human papillomavirus) vaccine,2010.0,HPV
+ISR,HepB birth dose,1998.0,
+ISR,Hepatitis A vaccine,2002.0,
+ISR,Hepatitis B vaccine,1998.0,HepB
+ISR,Hib (Haemophilus influenzae type B) vaccine,1994.0,Hib
+ISR,IPV (Inactivated polio vaccine),1998.0,IPV
+ISR,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+ISR,Measles-containing vaccine 2nd dose,1995.0,MCV2
+ISR,Mumps vaccine,1995.0,Mumps
+ISR,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+ISR,PPV (Pneumococcal polysaccharide vaccine),2004.0,
+ISR,Rotavirus vaccine,2010.0,Rotavirus
+ISR,Rubella vaccine,1995.0,RCV1
+ISR,Seasonal Influenza vaccine,2008.0,
+ISR,Varicella vaccine,2011.0,
+ISR,aP (acellular pertussis) vaccine,2003.0,
+ITA,COVID-19 vaccine,2024.0,
+ITA,HPV (Human papillomavirus) vaccine,2009.0,HPV
+ITA,Hepatitis B vaccine,1982.0,HepB
+ITA,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+ITA,IPV (Inactivated polio vaccine),1958.0,IPV
+ITA,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+ITA,Measles-containing vaccine 2nd dose,2004.0,MCV2
+ITA,Meningococcal meningitis vaccines (any strain),2005.0,Meningococcal
+ITA,Mumps vaccine,1995.0,Mumps
+ITA,PCV (Pneumococcal conjugate vaccine),2005.0,PCV
+ITA,PPV (Pneumococcal polysaccharide vaccine),2019.0,
+ITA,Rotavirus vaccine,2017.0,Rotavirus
+ITA,Rubella vaccine,1972.0,RCV1
+ITA,Seasonal Influenza vaccine,2008.0,
+ITA,Varicella vaccine,2012.0,
+ITA,aP (acellular pertussis) vaccine,2006.0,
+JAM,COVID-19 vaccine,2024.0,
+JAM,HPV (Human papillomavirus) vaccine,2017.0,HPV
+JAM,HepB birth dose,2023.0,
+JAM,Hepatitis B vaccine,2001.0,HepB
+JAM,Hib (Haemophilus influenzae type B) vaccine,2003.0,Hib
+JAM,IPV (Inactivated polio vaccine),2015.0,IPV
+JAM,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+JAM,Measles-containing vaccine 2nd dose,2002.0,MCV2
+JAM,Mumps vaccine,1993.0,Mumps
+JAM,Rubella vaccine,1993.0,RCV1
+JAM,Seasonal Influenza vaccine,2006.0,
+JOR,COVID-19 vaccine,2024.0,
+JOR,Hepatitis A vaccine,2025.0,
+JOR,Hepatitis B vaccine,1985.0,HepB
+JOR,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+JOR,IPV (Inactivated polio vaccine),2005.0,IPV
+JOR,IPV (Inactivated polio vaccine) 2nd dose,2006.0,IPV2
+JOR,Measles-containing vaccine 2nd dose,1995.0,MCV2
+JOR,Mumps vaccine,2002.0,Mumps
+JOR,PCV (Pneumococcal conjugate vaccine),2025.0,PCV
+JOR,Rotavirus vaccine,2015.0,Rotavirus
+JOR,Rubella vaccine,2000.0,RCV1
+JOR,Seasonal Influenza vaccine,2003.0,
+JOR,aP (acellular pertussis) vaccine,2010.0,
+JPN,COVID-19 vaccine,2024.0,
+JPN,HPV (Human papillomavirus) vaccine,2011.0,HPV
+JPN,Hepatitis B vaccine,2016.0,HepB
+JPN,Hib (Haemophilus influenzae type B) vaccine,2011.0,Hib
+JPN,IPV (Inactivated polio vaccine),2012.0,IPV
+JPN,IPV (Inactivated polio vaccine) 2nd dose,2012.0,IPV2
+JPN,Japanese Encephalitis,2007.0,JAPENC
+JPN,Measles-containing vaccine 2nd dose,2006.0,MCV2
+JPN,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+JPN,PPV (Pneumococcal polysaccharide vaccine),2015.0,
+JPN,Rotavirus vaccine,2020.0,Rotavirus
+JPN,Rubella vaccine,1995.0,RCV1
+JPN,Seasonal Influenza vaccine,2001.0,
+JPN,Varicella vaccine,2016.0,
+JPN,aP (acellular pertussis) vaccine,2002.0,
+KAZ,COVID-19 vaccine,2025.0,
+KAZ,HPV (Human papillomavirus) vaccine,2024.0,HPV
+KAZ,HepB birth dose,1998.0,
+KAZ,Hepatitis A vaccine,2009.0,
+KAZ,Hepatitis B vaccine,1998.0,HepB
+KAZ,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+KAZ,IPV (Inactivated polio vaccine),2013.0,IPV
+KAZ,IPV (Inactivated polio vaccine) 2nd dose,2013.0,IPV2
+KAZ,Measles-containing vaccine 2nd dose,1995.0,MCV2
+KAZ,Mumps vaccine,1995.0,Mumps
+KAZ,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+KAZ,Rubella vaccine,2004.0,RCV1
+KAZ,Seasonal Influenza vaccine,2008.0,
+KAZ,aP (acellular pertussis) vaccine,2013.0,
+KEN,COVID-19 vaccine,2024.0,
+KEN,HPV (Human papillomavirus) vaccine,2019.0,HPV
+KEN,Hepatitis B vaccine,2001.0,HepB
+KEN,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+KEN,IPV (Inactivated polio vaccine),2015.0,IPV
+KEN,IPV (Inactivated polio vaccine) 2nd dose,2025.0,IPV2
+KEN,Measles-containing vaccine 2nd dose,2013.0,MCV2
+KEN,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+KEN,Rotavirus vaccine,2014.0,Rotavirus
+KEN,Rubella vaccine,2017.0,RCV1
+KEN,Typhoid conjugate vaccine,2025.0,TYPHOID_CONJ
+KGZ,COVID-19 vaccine,2025.0,
+KGZ,HPV (Human papillomavirus) vaccine,2022.0,HPV
+KGZ,HepB birth dose,1998.0,
+KGZ,Hepatitis B vaccine,2001.0,HepB
+KGZ,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+KGZ,IPV (Inactivated polio vaccine),2018.0,IPV
+KGZ,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+KGZ,Measles-containing vaccine 2nd dose,1991.0,MCV2
+KGZ,Mumps vaccine,1995.0,Mumps
+KGZ,PCV (Pneumococcal conjugate vaccine),2016.0,PCV
+KGZ,Rotavirus vaccine,2019.0,Rotavirus
+KGZ,Rubella vaccine,2001.0,RCV1
+KGZ,Seasonal Influenza vaccine,2018.0,
+KHM,HPV (Human papillomavirus) vaccine,2023.0,HPV
+KHM,HepB birth dose,2003.0,
+KHM,Hepatitis B vaccine,2006.0,HepB
+KHM,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+KHM,IPV (Inactivated polio vaccine),2015.0,IPV
+KHM,Japanese Encephalitis,2015.0,JAPENC
+KHM,Measles-containing vaccine 2nd dose,2012.0,MCV2
+KHM,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+KHM,Rubella vaccine,2013.0,RCV1
+KIR,HPV (Human papillomavirus) vaccine,2023.0,HPV
+KIR,HepB birth dose,1998.0,
+KIR,Hepatitis B vaccine,1995.0,HepB
+KIR,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+KIR,IPV (Inactivated polio vaccine),2015.0,IPV
+KIR,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+KIR,Measles-containing vaccine 2nd dose,2007.0,MCV2
+KIR,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+KIR,Rotavirus vaccine,2015.0,Rotavirus
+KIR,Rubella vaccine,2004.0,RCV1
+KNA,COVID-19 vaccine,2024.0,
+KNA,HPV (Human papillomavirus) vaccine,2019.0,HPV
+KNA,HepB birth dose,2015.0,
+KNA,Hepatitis B vaccine,1997.0,HepB
+KNA,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+KNA,IPV (Inactivated polio vaccine),2015.0,IPV
+KNA,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+KNA,Measles-containing vaccine 2nd dose,1997.0,MCV2
+KNA,Mumps vaccine,1987.0,Mumps
+KNA,Rubella vaccine,1987.0,RCV1
+KNA,Seasonal Influenza vaccine,2019.0,
+KOR,COVID-19 vaccine,2024.0,
+KOR,HPV (Human papillomavirus) vaccine,2016.0,HPV
+KOR,HepB birth dose,2001.0,
+KOR,Hepatitis A vaccine,2017.0,
+KOR,Hepatitis B vaccine,1995.0,HepB
+KOR,Hib (Haemophilus influenzae type B) vaccine,2013.0,Hib
+KOR,IPV (Inactivated polio vaccine),2004.0,IPV
+KOR,IPV (Inactivated polio vaccine) 2nd dose,2004.0,IPV2
+KOR,Japanese Encephalitis,2002.0,JAPENC
+KOR,Measles-containing vaccine 2nd dose,1997.0,MCV2
+KOR,Mumps vaccine,1998.0,Mumps
+KOR,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+KOR,PPV (Pneumococcal polysaccharide vaccine),2013.0,
+KOR,Rotavirus vaccine,2024.0,Rotavirus
+KOR,Rubella vaccine,1983.0,RCV1
+KOR,Seasonal Influenza vaccine,1997.0,
+KOR,Varicella vaccine,2005.0,
+KOR,aP (acellular pertussis) vaccine,2002.0,
+KWT,COVID-19 vaccine,2024.0,
+KWT,HPV (Human papillomavirus) vaccine,2023.0,HPV
+KWT,HepB birth dose,1998.0,
+KWT,Hepatitis B vaccine,1990.0,HepB
+KWT,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+KWT,IPV (Inactivated polio vaccine),2010.0,IPV
+KWT,IPV (Inactivated polio vaccine) 2nd dose,2019.0,IPV2
+KWT,Measles-containing vaccine 2nd dose,1996.0,MCV2
+KWT,Meningococcal meningitis vaccines (any strain),2010.0,Meningococcal
+KWT,Mumps vaccine,1996.0,Mumps
+KWT,PCV (Pneumococcal conjugate vaccine),2007.0,PCV
+KWT,Rotavirus vaccine,2017.0,Rotavirus
+KWT,Rubella vaccine,1987.0,RCV1
+KWT,Seasonal Influenza vaccine,2008.0,
+KWT,Varicella vaccine,2016.0,
+KWT,aP (acellular pertussis) vaccine,2025.0,
+LAO,COVID-19 vaccine,2024.0,
+LAO,HPV (Human papillomavirus) vaccine,2020.0,HPV
+LAO,HepB birth dose,2004.0,
+LAO,Hepatitis B vaccine,2004.0,HepB
+LAO,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+LAO,IPV (Inactivated polio vaccine),2015.0,IPV
+LAO,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+LAO,Japanese Encephalitis,2015.0,JAPENC
+LAO,Measles-containing vaccine 2nd dose,2017.0,MCV2
+LAO,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+LAO,Rubella vaccine,2012.0,RCV1
+LAO,Seasonal Influenza vaccine,2014.0,
+LBN,HepB birth dose,2000.0,
+LBN,Hepatitis B vaccine,1998.0,HepB
+LBN,Hib (Haemophilus influenzae type B) vaccine,2003.0,Hib
+LBN,IPV (Inactivated polio vaccine),2012.0,IPV
+LBN,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+LBN,Measles-containing vaccine 2nd dose,1995.0,MCV2
+LBN,Mumps vaccine,1996.0,Mumps
+LBN,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+LBN,Rotavirus vaccine,2023.0,Rotavirus
+LBN,Rubella vaccine,1995.0,RCV1
+LBN,Seasonal Influenza vaccine,2023.0,
+LBR,COVID-19 vaccine,2024.0,
+LBR,HPV (Human papillomavirus) vaccine,2019.0,HPV
+LBR,Hepatitis B vaccine,2008.0,HepB
+LBR,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+LBR,IPV (Inactivated polio vaccine),2017.0,IPV
+LBR,Malaria vaccine,2025.0,
+LBR,Measles-containing vaccine 2nd dose,2019.0,MCV2
+LBR,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+LBR,Rotavirus vaccine,2016.0,Rotavirus
+LBR,Typhoid conjugate vaccine,2022.0,TYPHOID_CONJ
+LBR,YF (Yellow fever) vaccine,2001.0,YFV
+LBY,HPV (Human papillomavirus) vaccine,2013.0,HPV
+LBY,HepB birth dose,1998.0,
+LBY,Hepatitis A vaccine,2025.0,
+LBY,Hepatitis B vaccine,2000.0,HepB
+LBY,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+LBY,IPV (Inactivated polio vaccine),2014.0,IPV
+LBY,IPV (Inactivated polio vaccine) 2nd dose,2014.0,IPV2
+LBY,Measles-containing vaccine 2nd dose,1995.0,MCV2
+LBY,Meningococcal meningitis vaccines (any strain),2004.0,Meningococcal
+LBY,Mumps vaccine,1996.0,Mumps
+LBY,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+LBY,Rotavirus vaccine,2013.0,Rotavirus
+LBY,Rubella vaccine,1993.0,RCV1
+LBY,Seasonal Influenza vaccine,2007.0,
+LBY,Varicella vaccine,2025.0,
+LBY,aP (acellular pertussis) vaccine,2013.0,
+LCA,COVID-19 vaccine,2024.0,
+LCA,HPV (Human papillomavirus) vaccine,2019.0,HPV
+LCA,HepB birth dose,2018.0,
+LCA,Hepatitis B vaccine,2002.0,HepB
+LCA,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+LCA,IPV (Inactivated polio vaccine),2015.0,IPV
+LCA,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+LCA,Measles-containing vaccine 2nd dose,1991.0,MCV2
+LCA,Mumps vaccine,1986.0,Mumps
+LCA,Rubella vaccine,1986.0,RCV1
+LCA,Seasonal Influenza vaccine,2006.0,
+LKA,HPV (Human papillomavirus) vaccine,2017.0,HPV
+LKA,Hepatitis B vaccine,2005.0,HepB
+LKA,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+LKA,IPV (Inactivated polio vaccine),2015.0,IPV
+LKA,Japanese Encephalitis,2011.0,JAPENC
+LKA,Measles-containing vaccine 2nd dose,2001.0,MCV2
+LKA,Mumps vaccine,2011.0,Mumps
+LKA,Rubella vaccine,2001.0,RCV1
+LSO,COVID-19 vaccine,2025.0,
+LSO,HPV (Human papillomavirus) vaccine,2022.0,HPV
+LSO,Hepatitis B vaccine,2003.0,HepB
+LSO,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+LSO,IPV (Inactivated polio vaccine),2016.0,IPV
+LSO,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+LSO,Measles-containing vaccine 2nd dose,1981.0,MCV2
+LSO,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+LSO,Rotavirus vaccine,2017.0,Rotavirus
+LSO,Rubella vaccine,2017.0,RCV1
+LTU,COVID-19 vaccine,2024.0,
+LTU,HPV (Human papillomavirus) vaccine,2016.0,HPV
+LTU,HepB birth dose,1998.0,
+LTU,Hepatitis B vaccine,1998.0,HepB
+LTU,Hib (Haemophilus influenzae type B) vaccine,2004.0,Hib
+LTU,IPV (Inactivated polio vaccine),1995.0,IPV
+LTU,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+LTU,Measles-containing vaccine 2nd dose,1992.0,MCV2
+LTU,Meningococcal meningitis vaccines (any strain),2018.0,Meningococcal
+LTU,Mumps vaccine,1991.0,Mumps
+LTU,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+LTU,Rotavirus vaccine,2018.0,Rotavirus
+LTU,Rubella vaccine,1992.0,RCV1
+LTU,Seasonal Influenza vaccine,2008.0,
+LTU,aP (acellular pertussis) vaccine,2007.0,
+LUX,COVID-19 vaccine,2024.0,
+LUX,HPV (Human papillomavirus) vaccine,2008.0,HPV
+LUX,Hepatitis B vaccine,2003.0,HepB
+LUX,Hib (Haemophilus influenzae type B) vaccine,1994.0,Hib
+LUX,IPV (Inactivated polio vaccine),2003.0,IPV
+LUX,IPV (Inactivated polio vaccine) 2nd dose,2003.0,IPV2
+LUX,Measles-containing vaccine 2nd dose,1994.0,MCV2
+LUX,Meningococcal meningitis vaccines (any strain),2005.0,Meningococcal
+LUX,Mumps vaccine,1986.0,Mumps
+LUX,PCV (Pneumococcal conjugate vaccine),2005.0,PCV
+LUX,PPV (Pneumococcal polysaccharide vaccine),2009.0,
+LUX,Rotavirus vaccine,2006.0,Rotavirus
+LUX,Rubella vaccine,1986.0,RCV1
+LUX,Seasonal Influenza vaccine,2008.0,
+LUX,Varicella vaccine,2010.0,
+LUX,aP (acellular pertussis) vaccine,2006.0,
+LVA,COVID-19 vaccine,2024.0,
+LVA,HPV (Human papillomavirus) vaccine,2010.0,HPV
+LVA,HepB birth dose,1998.0,
+LVA,Hepatitis B vaccine,1997.0,HepB
+LVA,Hib (Haemophilus influenzae type B) vaccine,1994.0,Hib
+LVA,IPV (Inactivated polio vaccine),1993.0,IPV
+LVA,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+LVA,Measles-containing vaccine 2nd dose,1991.0,MCV2
+LVA,Mumps vaccine,1991.0,Mumps
+LVA,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+LVA,Rotavirus vaccine,2015.0,Rotavirus
+LVA,Rubella vaccine,1993.0,RCV1
+LVA,Seasonal Influenza vaccine,2007.0,
+LVA,Varicella vaccine,2008.0,
+LVA,aP (acellular pertussis) vaccine,2002.0,
+MAR,HPV (Human papillomavirus) vaccine,2022.0,HPV
+MAR,HepB birth dose,1999.0,
+MAR,Hepatitis B vaccine,1999.0,HepB
+MAR,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+MAR,IPV (Inactivated polio vaccine),2015.0,IPV
+MAR,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+MAR,Measles-containing vaccine 2nd dose,2014.0,MCV2
+MAR,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+MAR,Rotavirus vaccine,2010.0,Rotavirus
+MAR,Rubella vaccine,2003.0,RCV1
+MAR,Seasonal Influenza vaccine,2014.0,
+MCO,COVID-19 vaccine,2024.0,
+MCO,HPV (Human papillomavirus) vaccine,2006.0,HPV
+MCO,Hepatitis B vaccine,1994.0,HepB
+MCO,Hib (Haemophilus influenzae type B) vaccine,1992.0,Hib
+MCO,IPV (Inactivated polio vaccine),1964.0,IPV
+MCO,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+MCO,Measles-containing vaccine 2nd dose,1996.0,MCV2
+MCO,Meningococcal meningitis vaccines (any strain),2010.0,Meningococcal
+MCO,Mumps vaccine,2002.0,Mumps
+MCO,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+MCO,Rubella vaccine,1970.0,RCV1
+MCO,Seasonal Influenza vaccine,2007.0,
+MCO,aP (acellular pertussis) vaccine,2006.0,
+MDA,COVID-19 vaccine,2024.0,
+MDA,HepB birth dose,1998.0,
+MDA,Hepatitis B vaccine,1995.0,HepB
+MDA,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+MDA,IPV (Inactivated polio vaccine),2018.0,IPV
+MDA,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+MDA,Measles-containing vaccine 2nd dose,2002.0,MCV2
+MDA,Mumps vaccine,1995.0,Mumps
+MDA,PCV (Pneumococcal conjugate vaccine),2022.0,PCV
+MDA,Rubella vaccine,2002.0,RCV1
+MDA,Seasonal Influenza vaccine,2009.0,
+MDG,COVID-19 vaccine,2024.0,
+MDG,HPV (Human papillomavirus) vaccine,2025.0,HPV
+MDG,Hepatitis B vaccine,2002.0,HepB
+MDG,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+MDG,IPV (Inactivated polio vaccine),2015.0,IPV
+MDG,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+MDG,Measles-containing vaccine 2nd dose,2020.0,MCV2
+MDG,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+MDG,Rotavirus vaccine,2014.0,Rotavirus
+MDV,COVID-19 vaccine,2024.0,
+MDV,HPV (Human papillomavirus) vaccine,2019.0,HPV
+MDV,HepB birth dose,1998.0,
+MDV,Hepatitis B vaccine,1995.0,HepB
+MDV,Hib (Haemophilus influenzae type B) vaccine,2013.0,Hib
+MDV,IPV (Inactivated polio vaccine),2015.0,IPV
+MDV,Measles-containing vaccine 2nd dose,2007.0,MCV2
+MDV,Mumps vaccine,2007.0,Mumps
+MDV,PCV (Pneumococcal conjugate vaccine),2025.0,PCV
+MDV,Rotavirus vaccine,2025.0,Rotavirus
+MDV,Rubella vaccine,2007.0,RCV1
+MDV,Seasonal Influenza vaccine,2008.0,
+MEX,COVID-19 vaccine,2024.0,
+MEX,HPV (Human papillomavirus) vaccine,2012.0,HPV
+MEX,HepB birth dose,2005.0,
+MEX,Hepatitis A vaccine,2012.0,
+MEX,Hepatitis B vaccine,1999.0,HepB
+MEX,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+MEX,IPV (Inactivated polio vaccine),2008.0,IPV
+MEX,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+MEX,Measles-containing vaccine 2nd dose,1993.0,MCV2
+MEX,Mumps vaccine,1998.0,Mumps
+MEX,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+MEX,PPV (Pneumococcal polysaccharide vaccine),2012.0,
+MEX,Rotavirus vaccine,2007.0,Rotavirus
+MEX,Rubella vaccine,1998.0,RCV1
+MEX,Seasonal Influenza vaccine,2004.0,
+MEX,Varicella vaccine,2012.0,
+MEX,aP (acellular pertussis) vaccine,2012.0,
+MHL,COVID-19 vaccine,2025.0,
+MHL,HPV (Human papillomavirus) vaccine,2009.0,HPV
+MHL,HepB birth dose,1998.0,
+MHL,Hepatitis B vaccine,1988.0,HepB
+MHL,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+MHL,IPV (Inactivated polio vaccine),2010.0,IPV
+MHL,IPV (Inactivated polio vaccine) 2nd dose,2010.0,IPV2
+MHL,Measles-containing vaccine 2nd dose,1998.0,MCV2
+MHL,Meningococcal meningitis vaccines (any strain),2010.0,Meningococcal
+MHL,Mumps vaccine,1998.0,Mumps
+MHL,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+MHL,Rotavirus vaccine,2009.0,Rotavirus
+MHL,Rubella vaccine,1998.0,RCV1
+MHL,Seasonal Influenza vaccine,2002.0,
+MHL,Varicella vaccine,2018.0,
+MHL,aP (acellular pertussis) vaccine,2002.0,
+MKD,COVID-19 vaccine,2024.0,
+MKD,HPV (Human papillomavirus) vaccine,2009.0,HPV
+MKD,HepB birth dose,2004.0,
+MKD,Hepatitis B vaccine,2004.0,HepB
+MKD,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+MKD,IPV (Inactivated polio vaccine),2015.0,IPV
+MKD,IPV (Inactivated polio vaccine) 2nd dose,2015.0,IPV2
+MKD,Measles-containing vaccine 2nd dose,1993.0,MCV2
+MKD,Mumps vaccine,1995.0,Mumps
+MKD,PCV (Pneumococcal conjugate vaccine),2019.0,PCV
+MKD,Rotavirus vaccine,2019.0,Rotavirus
+MKD,Rubella vaccine,1993.0,RCV1
+MKD,Seasonal Influenza vaccine,2015.0,
+MKD,aP (acellular pertussis) vaccine,2015.0,
+MLI,HPV (Human papillomavirus) vaccine,2024.0,HPV
+MLI,Hepatitis B vaccine,2002.0,HepB
+MLI,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+MLI,IPV (Inactivated polio vaccine),2016.0,IPV
+MLI,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+MLI,Measles-containing vaccine 2nd dose,2019.0,MCV2
+MLI,Meningococcal meningitis vaccines (any strain),2017.0,Meningococcal
+MLI,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+MLI,Rotavirus vaccine,2015.0,Rotavirus
+MLI,Rubella vaccine,2024.0,RCV1
+MLI,YF (Yellow fever) vaccine,2002.0,YFV
+MLT,COVID-19 vaccine,2024.0,
+MLT,HPV (Human papillomavirus) vaccine,2013.0,HPV
+MLT,Hepatitis B vaccine,2005.0,HepB
+MLT,Hib (Haemophilus influenzae type B) vaccine,1996.0,Hib
+MLT,IPV (Inactivated polio vaccine),2010.0,IPV
+MLT,IPV (Inactivated polio vaccine) 2nd dose,2010.0,IPV2
+MLT,Measles-containing vaccine 2nd dose,1989.0,MCV2
+MLT,Meningococcal meningitis vaccines (any strain),2020.0,Meningococcal
+MLT,Mumps vaccine,1990.0,Mumps
+MLT,PCV (Pneumococcal conjugate vaccine),2020.0,PCV
+MLT,Rubella vaccine,1985.0,RCV1
+MLT,Seasonal Influenza vaccine,2008.0,
+MLT,aP (acellular pertussis) vaccine,2010.0,
+MMR,COVID-19 vaccine,2024.0,
+MMR,HPV (Human papillomavirus) vaccine,2020.0,HPV
+MMR,HepB birth dose,2004.0,
+MMR,Hepatitis B vaccine,2005.0,HepB
+MMR,Hib (Haemophilus influenzae type B) vaccine,2012.0,Hib
+MMR,IPV (Inactivated polio vaccine),2015.0,IPV
+MMR,Japanese Encephalitis,2018.0,JAPENC
+MMR,Measles-containing vaccine 2nd dose,2012.0,MCV2
+MMR,PCV (Pneumococcal conjugate vaccine),2016.0,PCV
+MMR,Rotavirus vaccine,2020.0,Rotavirus
+MMR,Rubella vaccine,2015.0,RCV1
+MMR,Seasonal Influenza vaccine,2019.0,
+MNE,COVID-19 vaccine,2024.0,
+MNE,HPV (Human papillomavirus) vaccine,2022.0,HPV
+MNE,Hepatitis B vaccine,2006.0,HepB
+MNE,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+MNE,IPV (Inactivated polio vaccine),2011.0,IPV
+MNE,IPV (Inactivated polio vaccine) 2nd dose,2011.0,IPV2
+MNE,Measles-containing vaccine 2nd dose,2006.0,MCV2
+MNE,Mumps vaccine,2006.0,Mumps
+MNE,PCV (Pneumococcal conjugate vaccine),2024.0,PCV
+MNE,Rubella vaccine,2006.0,RCV1
+MNE,Seasonal Influenza vaccine,2008.0,
+MNE,aP (acellular pertussis) vaccine,2011.0,
+MNG,HPV (Human papillomavirus) vaccine,2024.0,HPV
+MNG,HepB birth dose,2002.0,
+MNG,Hepatitis A vaccine,2013.0,
+MNG,Hepatitis B vaccine,1991.0,HepB
+MNG,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+MNG,IPV (Inactivated polio vaccine),2019.0,IPV
+MNG,Measles-containing vaccine 2nd dose,1989.0,MCV2
+MNG,Mumps vaccine,2009.0,Mumps
+MNG,PCV (Pneumococcal conjugate vaccine),2019.0,PCV
+MNG,Rubella vaccine,2009.0,RCV1
+MNG,Seasonal Influenza vaccine,2014.0,
+MOZ,COVID-19 vaccine,2025.0,
+MOZ,HPV (Human papillomavirus) vaccine,2021.0,HPV
+MOZ,Hepatitis B vaccine,2001.0,HepB
+MOZ,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+MOZ,IPV (Inactivated polio vaccine),2015.0,IPV
+MOZ,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+MOZ,Measles-containing vaccine 2nd dose,2015.0,MCV2
+MOZ,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+MOZ,Rotavirus vaccine,2015.0,Rotavirus
+MOZ,Rubella vaccine,2018.0,RCV1
+MRT,HPV (Human papillomavirus) vaccine,2021.0,HPV
+MRT,HepB birth dose,2013.0,
+MRT,Hepatitis B vaccine,2005.0,HepB
+MRT,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+MRT,IPV (Inactivated polio vaccine),2015.0,IPV
+MRT,IPV (Inactivated polio vaccine) 2nd dose,2025.0,IPV2
+MRT,Measles-containing vaccine 2nd dose,2023.0,MCV2
+MRT,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+MRT,Rotavirus vaccine,2014.0,Rotavirus
+MRT,Rubella vaccine,2018.0,RCV1
+MUS,HPV (Human papillomavirus) vaccine,2017.0,HPV
+MUS,Hepatitis B vaccine,1996.0,HepB
+MUS,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+MUS,IPV (Inactivated polio vaccine),2015.0,IPV
+MUS,IPV (Inactivated polio vaccine) 2nd dose,2017.0,IPV2
+MUS,Measles-containing vaccine 2nd dose,2003.0,MCV2
+MUS,Mumps vaccine,2000.0,Mumps
+MUS,PCV (Pneumococcal conjugate vaccine),2016.0,PCV
+MUS,Rotavirus vaccine,2015.0,Rotavirus
+MUS,Rubella vaccine,1996.0,RCV1
+MUS,Seasonal Influenza vaccine,2008.0,
+MUS,aP (acellular pertussis) vaccine,2002.0,
+MWI,COVID-19 vaccine,2024.0,
+MWI,HPV (Human papillomavirus) vaccine,2019.0,HPV
+MWI,Hepatitis B vaccine,2002.0,HepB
+MWI,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+MWI,IPV (Inactivated polio vaccine),2018.0,IPV
+MWI,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+MWI,Measles-containing vaccine 2nd dose,2015.0,MCV2
+MWI,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+MWI,Rotavirus vaccine,2012.0,Rotavirus
+MWI,Rubella vaccine,2017.0,RCV1
+MWI,Typhoid conjugate vaccine,2024.0,TYPHOID_CONJ
+MYS,COVID-19 vaccine,2024.0,
+MYS,HPV (Human papillomavirus) vaccine,2010.0,HPV
+MYS,HepB birth dose,1998.0,
+MYS,Hepatitis B vaccine,1989.0,HepB
+MYS,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+MYS,IPV (Inactivated polio vaccine),2009.0,IPV
+MYS,IPV (Inactivated polio vaccine) 2nd dose,2009.0,IPV2
+MYS,Measles-containing vaccine 2nd dose,2002.0,MCV2
+MYS,Mumps vaccine,2002.0,Mumps
+MYS,PCV (Pneumococcal conjugate vaccine),2020.0,PCV
+MYS,Rubella vaccine,2004.0,RCV1
+MYS,Seasonal Influenza vaccine,2006.0,
+MYS,aP (acellular pertussis) vaccine,2009.0,
+NAM,HPV (Human papillomavirus) vaccine,2025.0,HPV
+NAM,HepB birth dose,2014.0,
+NAM,Hepatitis B vaccine,2009.0,HepB
+NAM,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+NAM,IPV (Inactivated polio vaccine),2015.0,IPV
+NAM,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+NAM,Measles-containing vaccine 2nd dose,2017.0,MCV2
+NAM,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+NAM,Rotavirus vaccine,2014.0,Rotavirus
+NAM,Rubella vaccine,2016.0,RCV1
+NER,COVID-19 vaccine,2024.0,
+NER,Hepatitis B vaccine,2008.0,HepB
+NER,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+NER,IPV (Inactivated polio vaccine),2015.0,IPV
+NER,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+NER,Measles-containing vaccine 2nd dose,2014.0,MCV2
+NER,Meningococcal meningitis vaccines (any strain),2017.0,Meningococcal
+NER,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+NER,Rotavirus vaccine,2014.0,Rotavirus
+NER,YF (Yellow fever) vaccine,2005.0,YFV
+NGA,COVID-19 vaccine,2024.0,
+NGA,HPV (Human papillomavirus) vaccine,2024.0,HPV
+NGA,HepB birth dose,2004.0,
+NGA,Hepatitis B vaccine,2004.0,HepB
+NGA,Hib (Haemophilus influenzae type B) vaccine,2013.0,Hib
+NGA,IPV (Inactivated polio vaccine),2015.0,IPV
+NGA,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+NGA,Measles-containing vaccine 2nd dose,2020.0,MCV2
+NGA,Meningococcal meningitis vaccines (any strain),2019.0,Meningococcal
+NGA,PCV (Pneumococcal conjugate vaccine),2017.0,PCV
+NGA,Rotavirus vaccine,2022.0,Rotavirus
+NGA,Rubella vaccine,2025.0,RCV1
+NGA,YF (Yellow fever) vaccine,2004.0,YFV
+NIC,COVID-19 vaccine,2024.0,
+NIC,HPV (Human papillomavirus) vaccine,2023.0,HPV
+NIC,Hepatitis B vaccine,1999.0,HepB
+NIC,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+NIC,IPV (Inactivated polio vaccine),2015.0,IPV
+NIC,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+NIC,Measles-containing vaccine 2nd dose,2017.0,MCV2
+NIC,Mumps vaccine,1998.0,Mumps
+NIC,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+NIC,Rotavirus vaccine,2006.0,Rotavirus
+NIC,Rubella vaccine,1980.0,RCV1
+NIC,Seasonal Influenza vaccine,2007.0,
+NIU,COVID-19 vaccine,2025.0,
+NIU,HPV (Human papillomavirus) vaccine,2019.0,HPV
+NIU,HepB birth dose,1998.0,
+NIU,Hepatitis B vaccine,1986.0,HepB
+NIU,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+NIU,IPV (Inactivated polio vaccine),2002.0,IPV
+NIU,IPV (Inactivated polio vaccine) 2nd dose,2003.0,IPV2
+NIU,Measles-containing vaccine 2nd dose,1975.0,MCV2
+NIU,Mumps vaccine,1998.0,Mumps
+NIU,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+NIU,Rotavirus vaccine,2016.0,Rotavirus
+NIU,Rubella vaccine,1980.0,RCV1
+NIU,Seasonal Influenza vaccine,2013.0,
+NIU,Varicella vaccine,2017.0,
+NIU,aP (acellular pertussis) vaccine,2002.0,
+NLD,COVID-19 vaccine,2024.0,
+NLD,HPV (Human papillomavirus) vaccine,2010.0,HPV
+NLD,Hepatitis B vaccine,2011.0,HepB
+NLD,Hib (Haemophilus influenzae type B) vaccine,1993.0,Hib
+NLD,IPV (Inactivated polio vaccine),1957.0,IPV
+NLD,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+NLD,Measles-containing vaccine 2nd dose,1987.0,MCV2
+NLD,Meningococcal meningitis vaccines (any strain),2002.0,Meningococcal
+NLD,Mumps vaccine,1995.0,Mumps
+NLD,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+NLD,PPV (Pneumococcal polysaccharide vaccine),2021.0,
+NLD,Rotavirus vaccine,2024.0,Rotavirus
+NLD,Rubella vaccine,1974.0,RCV1
+NLD,Seasonal Influenza vaccine,2007.0,
+NLD,aP (acellular pertussis) vaccine,2006.0,
+NOR,COVID-19 vaccine,2024.0,
+NOR,HPV (Human papillomavirus) vaccine,2009.0,HPV
+NOR,Hepatitis B vaccine,2017.0,HepB
+NOR,Hib (Haemophilus influenzae type B) vaccine,1992.0,Hib
+NOR,IPV (Inactivated polio vaccine),1956.0,IPV
+NOR,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+NOR,Measles-containing vaccine 2nd dose,1983.0,MCV2
+NOR,Mumps vaccine,1995.0,Mumps
+NOR,PCV (Pneumococcal conjugate vaccine),2006.0,PCV
+NOR,Rotavirus vaccine,2014.0,Rotavirus
+NOR,Rubella vaccine,1978.0,RCV1
+NOR,Seasonal Influenza vaccine,2010.0,
+NOR,aP (acellular pertussis) vaccine,2006.0,
+NPL,COVID-19 vaccine,2024.0,
+NPL,HPV (Human papillomavirus) vaccine,2025.0,HPV
+NPL,Hepatitis B vaccine,2005.0,HepB
+NPL,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+NPL,IPV (Inactivated polio vaccine),2014.0,IPV
+NPL,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+NPL,Japanese Encephalitis,2017.0,JAPENC
+NPL,Measles-containing vaccine 2nd dose,2015.0,MCV2
+NPL,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+NPL,Rotavirus vaccine,2020.0,Rotavirus
+NPL,Rubella vaccine,2013.0,RCV1
+NPL,Typhoid conjugate vaccine,2022.0,TYPHOID_CONJ
+NRU,HPV (Human papillomavirus) vaccine,2021.0,HPV
+NRU,HepB birth dose,1998.0,
+NRU,Hepatitis B vaccine,1998.0,HepB
+NRU,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+NRU,IPV (Inactivated polio vaccine),2015.0,IPV
+NRU,Measles-containing vaccine 2nd dose,2005.0,MCV2
+NRU,PCV (Pneumococcal conjugate vaccine),2021.0,PCV
+NRU,Rotavirus vaccine,2021.0,Rotavirus
+NRU,Rubella vaccine,2006.0,RCV1
+NRU,Seasonal Influenza vaccine,2025.0,
+NRU,aP (acellular pertussis) vaccine,2016.0,
+NZL,COVID-19 vaccine,2024.0,
+NZL,HPV (Human papillomavirus) vaccine,2008.0,HPV
+NZL,Hepatitis B vaccine,1988.0,HepB
+NZL,Hib (Haemophilus influenzae type B) vaccine,1994.0,Hib
+NZL,IPV (Inactivated polio vaccine),2002.0,IPV
+NZL,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+NZL,Measles-containing vaccine 2nd dose,1992.0,MCV2
+NZL,Meningococcal meningitis vaccines (any strain),2023.0,Meningococcal
+NZL,Mumps vaccine,1995.0,Mumps
+NZL,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+NZL,Rotavirus vaccine,2014.0,Rotavirus
+NZL,Rubella vaccine,1970.0,RCV1
+NZL,Seasonal Influenza vaccine,1997.0,
+NZL,Varicella vaccine,2017.0,
+NZL,aP (acellular pertussis) vaccine,2002.0,
+OMN,HPV (Human papillomavirus) vaccine,2025.0,HPV
+OMN,HepB birth dose,1998.0,
+OMN,Hepatitis A vaccine,2023.0,
+OMN,Hepatitis B vaccine,1990.0,HepB
+OMN,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+OMN,IPV (Inactivated polio vaccine),2010.0,IPV
+OMN,IPV (Inactivated polio vaccine) 2nd dose,2016.0,IPV2
+OMN,Measles-containing vaccine 2nd dose,1994.0,MCV2
+OMN,Mumps vaccine,1998.0,Mumps
+OMN,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+OMN,Rotavirus vaccine,2024.0,Rotavirus
+OMN,Rubella vaccine,1994.0,RCV1
+OMN,Seasonal Influenza vaccine,2004.0,
+OMN,Varicella vaccine,2010.0,
+OMN,aP (acellular pertussis) vaccine,2014.0,
+PAK,COVID-19 vaccine,2024.0,
+PAK,Hepatitis B vaccine,2002.0,HepB
+PAK,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+PAK,IPV (Inactivated polio vaccine),2015.0,IPV
+PAK,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+PAK,Measles-containing vaccine 2nd dose,2009.0,MCV2
+PAK,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+PAK,Rotavirus vaccine,2018.0,Rotavirus
+PAK,Rubella vaccine,2022.0,RCV1
+PAK,Typhoid conjugate vaccine,2023.0,TYPHOID_CONJ
+PAN,COVID-19 vaccine,2024.0,
+PAN,HPV (Human papillomavirus) vaccine,2008.0,HPV
+PAN,HepB birth dose,2003.0,
+PAN,Hepatitis A vaccine,2006.0,
+PAN,Hepatitis B vaccine,1999.0,HepB
+PAN,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+PAN,IPV (Inactivated polio vaccine),2014.0,IPV
+PAN,IPV (Inactivated polio vaccine) 2nd dose,2014.0,IPV2
+PAN,Measles-containing vaccine 2nd dose,1992.0,MCV2
+PAN,Mumps vaccine,1992.0,Mumps
+PAN,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+PAN,PPV (Pneumococcal polysaccharide vaccine),2009.0,
+PAN,Rotavirus vaccine,2006.0,Rotavirus
+PAN,Rubella vaccine,1984.0,RCV1
+PAN,Seasonal Influenza vaccine,2005.0,
+PAN,Varicella vaccine,2016.0,
+PAN,aP (acellular pertussis) vaccine,2014.0,
+PER,COVID-19 vaccine,2024.0,
+PER,HPV (Human papillomavirus) vaccine,2015.0,HPV
+PER,HepB birth dose,2000.0,
+PER,Hepatitis A vaccine,2023.0,
+PER,Hepatitis B vaccine,2005.0,HepB
+PER,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+PER,IPV (Inactivated polio vaccine),2013.0,IPV
+PER,IPV (Inactivated polio vaccine) 2nd dose,2013.0,IPV2
+PER,Measles-containing vaccine 2nd dose,2007.0,MCV2
+PER,Mumps vaccine,2003.0,Mumps
+PER,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+PER,PPV (Pneumococcal polysaccharide vaccine),2018.0,
+PER,Rotavirus vaccine,2009.0,Rotavirus
+PER,Rubella vaccine,2003.0,RCV1
+PER,Seasonal Influenza vaccine,2008.0,
+PER,Varicella vaccine,2018.0,
+PER,YF (Yellow fever) vaccine,2002.0,YFV
+PER,aP (acellular pertussis) vaccine,2018.0,
+PHL,COVID-19 vaccine,2024.0,
+PHL,HepB birth dose,2006.0,
+PHL,Hepatitis B vaccine,1992.0,HepB
+PHL,Hib (Haemophilus influenzae type B) vaccine,2012.0,Hib
+PHL,IPV (Inactivated polio vaccine),2019.0,IPV
+PHL,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+PHL,Measles-containing vaccine 2nd dose,2010.0,MCV2
+PHL,Mumps vaccine,2009.0,Mumps
+PHL,PCV (Pneumococcal conjugate vaccine),2020.0,PCV
+PHL,PPV (Pneumococcal polysaccharide vaccine),2015.0,
+PHL,Rubella vaccine,2010.0,RCV1
+PHL,Seasonal Influenza vaccine,2014.0,
+PLW,COVID-19 vaccine,2024.0,
+PLW,HPV (Human papillomavirus) vaccine,2008.0,HPV
+PLW,HepB birth dose,2009.0,
+PLW,Hepatitis B vaccine,1988.0,HepB
+PLW,Hib (Haemophilus influenzae type B) vaccine,1998.0,Hib
+PLW,IPV (Inactivated polio vaccine),2002.0,IPV
+PLW,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+PLW,Measles-containing vaccine 2nd dose,1995.0,MCV2
+PLW,Mumps vaccine,1995.0,Mumps
+PLW,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+PLW,Rotavirus vaccine,2008.0,Rotavirus
+PLW,Rubella vaccine,1986.0,RCV1
+PLW,Seasonal Influenza vaccine,1996.0,
+PLW,aP (acellular pertussis) vaccine,2002.0,
+PNG,COVID-19 vaccine,2024.0,
+PNG,HepB birth dose,1998.0,
+PNG,Hepatitis B vaccine,1989.0,HepB
+PNG,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+PNG,IPV (Inactivated polio vaccine),2015.0,IPV
+PNG,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+PNG,Measles-containing vaccine 2nd dose,2016.0,MCV2
+PNG,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+PNG,Rubella vaccine,2015.0,RCV1
+POL,COVID-19 vaccine,2025.0,
+POL,HPV (Human papillomavirus) vaccine,2023.0,HPV
+POL,HepB birth dose,2001.0,
+POL,Hepatitis B vaccine,1997.0,HepB
+POL,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+POL,IPV (Inactivated polio vaccine),1958.0,IPV
+POL,IPV (Inactivated polio vaccine) 2nd dose,2003.0,IPV2
+POL,Measles-containing vaccine 2nd dose,1991.0,MCV2
+POL,Mumps vaccine,2003.0,Mumps
+POL,PCV (Pneumococcal conjugate vaccine),2017.0,PCV
+POL,Rotavirus vaccine,2022.0,Rotavirus
+POL,Rubella vaccine,1988.0,RCV1
+POL,Seasonal Influenza vaccine,2017.0,
+POL,aP (acellular pertussis) vaccine,2017.0,
+PRK,HepB birth dose,2004.0,
+PRK,Hepatitis B vaccine,2004.0,HepB
+PRK,Hib (Haemophilus influenzae type B) vaccine,2012.0,Hib
+PRK,IPV (Inactivated polio vaccine),2015.0,IPV
+PRK,Measles-containing vaccine 2nd dose,2008.0,MCV2
+PRK,Rubella vaccine,2019.0,RCV1
+PRK,Seasonal Influenza vaccine,2022.0,
+PRT,COVID-19 vaccine,2024.0,
+PRT,HPV (Human papillomavirus) vaccine,2008.0,HPV
+PRT,HepB birth dose,2000.0,
+PRT,Hepatitis B vaccine,1994.0,HepB
+PRT,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+PRT,IPV (Inactivated polio vaccine),2006.0,IPV
+PRT,IPV (Inactivated polio vaccine) 2nd dose,2006.0,IPV2
+PRT,Measles-containing vaccine 2nd dose,1990.0,MCV2
+PRT,Meningococcal meningitis vaccines (any strain),2006.0,Meningococcal
+PRT,Mumps vaccine,1995.0,Mumps
+PRT,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+PRT,Rubella vaccine,1984.0,RCV1
+PRT,Seasonal Influenza vaccine,2013.0,
+PRT,aP (acellular pertussis) vaccine,2003.0,
+PRY,COVID-19 vaccine,2024.0,
+PRY,HPV (Human papillomavirus) vaccine,2013.0,HPV
+PRY,HepB birth dose,2017.0,
+PRY,Hepatitis A vaccine,2014.0,
+PRY,Hepatitis B vaccine,2002.0,HepB
+PRY,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+PRY,IPV (Inactivated polio vaccine),2016.0,IPV
+PRY,IPV (Inactivated polio vaccine) 2nd dose,2019.0,IPV2
+PRY,Measles-containing vaccine 2nd dose,2004.0,MCV2
+PRY,Mumps vaccine,2002.0,Mumps
+PRY,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+PRY,PPV (Pneumococcal polysaccharide vaccine),2011.0,
+PRY,Rotavirus vaccine,2010.0,Rotavirus
+PRY,Rubella vaccine,2002.0,RCV1
+PRY,Seasonal Influenza vaccine,2005.0,
+PRY,Varicella vaccine,2013.0,
+PRY,YF (Yellow fever) vaccine,2007.0,YFV
+PRY,aP (acellular pertussis) vaccine,2013.0,
+QAT,COVID-19 vaccine,2024.0,
+QAT,HPV (Human papillomavirus) vaccine,2023.0,HPV
+QAT,HepB birth dose,1989.0,
+QAT,Hepatitis A vaccine,2010.0,
+QAT,Hepatitis B vaccine,1989.0,HepB
+QAT,Hib (Haemophilus influenzae type B) vaccine,1996.0,Hib
+QAT,IPV (Inactivated polio vaccine),2010.0,IPV
+QAT,IPV (Inactivated polio vaccine) 2nd dose,2016.0,IPV2
+QAT,Measles-containing vaccine 2nd dose,1996.0,MCV2
+QAT,Mumps vaccine,1996.0,Mumps
+QAT,PCV (Pneumococcal conjugate vaccine),2005.0,PCV
+QAT,Rotavirus vaccine,2009.0,Rotavirus
+QAT,Rubella vaccine,1992.0,RCV1
+QAT,Seasonal Influenza vaccine,2002.0,
+QAT,Varicella vaccine,2006.0,
+QAT,aP (acellular pertussis) vaccine,2009.0,
+ROU,COVID-19 vaccine,2024.0,
+ROU,HPV (Human papillomavirus) vaccine,2023.0,HPV
+ROU,HepB birth dose,1998.0,
+ROU,Hepatitis B vaccine,1995.0,HepB
+ROU,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+ROU,IPV (Inactivated polio vaccine),2008.0,IPV
+ROU,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+ROU,Measles-containing vaccine 2nd dose,1979.0,MCV2
+ROU,Mumps vaccine,2004.0,Mumps
+ROU,PCV (Pneumococcal conjugate vaccine),2017.0,PCV
+ROU,Rubella vaccine,2002.0,RCV1
+ROU,Seasonal Influenza vaccine,2008.0,
+ROU,aP (acellular pertussis) vaccine,2008.0,
+RUS,COVID-19 vaccine,2024.0,
+RUS,HepB birth dose,2000.0,
+RUS,Hepatitis B vaccine,2000.0,HepB
+RUS,Hib (Haemophilus influenzae type B) vaccine,2022.0,Hib
+RUS,IPV (Inactivated polio vaccine),2008.0,IPV
+RUS,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+RUS,Measles-containing vaccine 2nd dose,1991.0,MCV2
+RUS,Mumps vaccine,1995.0,Mumps
+RUS,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+RUS,Rubella vaccine,2000.0,RCV1
+RUS,Seasonal Influenza vaccine,2008.0,
+RUS,aP (acellular pertussis) vaccine,2015.0,
+RWA,HPV (Human papillomavirus) vaccine,2011.0,HPV
+RWA,Hepatitis B vaccine,2002.0,HepB
+RWA,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+RWA,IPV (Inactivated polio vaccine),2018.0,IPV
+RWA,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+RWA,Measles-containing vaccine 2nd dose,2014.0,MCV2
+RWA,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+RWA,Rotavirus vaccine,2012.0,Rotavirus
+RWA,Rubella vaccine,2014.0,RCV1
+SAU,COVID-19 vaccine,2024.0,
+SAU,HPV (Human papillomavirus) vaccine,2022.0,HPV
+SAU,HepB birth dose,1995.0,
+SAU,Hepatitis A vaccine,2008.0,
+SAU,Hepatitis B vaccine,1989.0,HepB
+SAU,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+SAU,IPV (Inactivated polio vaccine),2008.0,IPV
+SAU,IPV (Inactivated polio vaccine) 2nd dose,2013.0,IPV2
+SAU,Measles-containing vaccine 2nd dose,1991.0,MCV2
+SAU,Meningococcal meningitis vaccines (any strain),2013.0,Meningococcal
+SAU,Mumps vaccine,1996.0,Mumps
+SAU,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+SAU,Rotavirus vaccine,2013.0,Rotavirus
+SAU,Rubella vaccine,1982.0,RCV1
+SAU,Seasonal Influenza vaccine,2000.0,
+SAU,Varicella vaccine,2007.0,
+SAU,aP (acellular pertussis) vaccine,2013.0,
+SDN,COVID-19 vaccine,2024.0,
+SDN,Hepatitis B vaccine,2004.0,HepB
+SDN,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+SDN,IPV (Inactivated polio vaccine),2015.0,IPV
+SDN,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+SDN,Measles-containing vaccine 2nd dose,2012.0,MCV2
+SDN,Meningococcal meningitis vaccines (any strain),2016.0,Meningococcal
+SDN,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+SDN,Rotavirus vaccine,2011.0,Rotavirus
+SDN,YF (Yellow fever) vaccine,2021.0,YFV
+SEN,COVID-19 vaccine,2024.0,
+SEN,HPV (Human papillomavirus) vaccine,2018.0,HPV
+SEN,HepB birth dose,2016.0,
+SEN,Hepatitis B vaccine,2004.0,HepB
+SEN,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+SEN,IPV (Inactivated polio vaccine),2015.0,IPV
+SEN,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+SEN,Measles-containing vaccine 2nd dose,2014.0,MCV2
+SEN,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+SEN,Rotavirus vaccine,2014.0,Rotavirus
+SEN,Rubella vaccine,2013.0,RCV1
+SEN,YF (Yellow fever) vaccine,1996.0,YFV
+SGP,COVID-19 vaccine,2024.0,
+SGP,HPV (Human papillomavirus) vaccine,2010.0,HPV
+SGP,HepB birth dose,1998.0,
+SGP,Hepatitis B vaccine,1987.0,HepB
+SGP,Hib (Haemophilus influenzae type B) vaccine,2013.0,Hib
+SGP,IPV (Inactivated polio vaccine),2013.0,IPV
+SGP,IPV (Inactivated polio vaccine) 2nd dose,2013.0,IPV2
+SGP,Measles-containing vaccine 2nd dose,1998.0,MCV2
+SGP,Mumps vaccine,1995.0,Mumps
+SGP,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+SGP,Rubella vaccine,1982.0,RCV1
+SGP,Seasonal Influenza vaccine,2019.0,
+SGP,Varicella vaccine,2023.0,
+SGP,aP (acellular pertussis) vaccine,2006.0,
+SLB,HPV (Human papillomavirus) vaccine,2019.0,HPV
+SLB,HepB birth dose,1998.0,
+SLB,Hepatitis B vaccine,1991.0,HepB
+SLB,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+SLB,IPV (Inactivated polio vaccine),2015.0,IPV
+SLB,Measles-containing vaccine 2nd dose,2018.0,MCV2
+SLB,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+SLB,Rotavirus vaccine,2020.0,Rotavirus
+SLB,Rubella vaccine,2013.0,RCV1
+SLE,COVID-19 vaccine,2025.0,
+SLE,HPV (Human papillomavirus) vaccine,2022.0,HPV
+SLE,Hepatitis B vaccine,2007.0,HepB
+SLE,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+SLE,IPV (Inactivated polio vaccine),2018.0,IPV
+SLE,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+SLE,Measles-containing vaccine 2nd dose,2015.0,MCV2
+SLE,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+SLE,Rotavirus vaccine,2014.0,Rotavirus
+SLE,Rubella vaccine,2019.0,RCV1
+SLE,YF (Yellow fever) vaccine,2002.0,YFV
+SLV,COVID-19 vaccine,2024.0,
+SLV,HPV (Human papillomavirus) vaccine,2020.0,HPV
+SLV,HepB birth dose,2015.0,
+SLV,Hepatitis A vaccine,2023.0,
+SLV,Hepatitis B vaccine,1999.0,HepB
+SLV,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+SLV,IPV (Inactivated polio vaccine),2016.0,IPV
+SLV,IPV (Inactivated polio vaccine) 2nd dose,2019.0,IPV2
+SLV,Measles-containing vaccine 2nd dose,2000.0,MCV2
+SLV,Mumps vaccine,1997.0,Mumps
+SLV,PCV (Pneumococcal conjugate vaccine),2010.0,PCV
+SLV,PPV (Pneumococcal polysaccharide vaccine),2023.0,
+SLV,Rotavirus vaccine,2006.0,Rotavirus
+SLV,Rubella vaccine,1997.0,RCV1
+SLV,Seasonal Influenza vaccine,2004.0,
+SLV,Varicella vaccine,2023.0,
+SLV,aP (acellular pertussis) vaccine,2015.0,
+SMR,COVID-19 vaccine,2024.0,
+SMR,HPV (Human papillomavirus) vaccine,2008.0,HPV
+SMR,Hepatitis B vaccine,1995.0,HepB
+SMR,Hib (Haemophilus influenzae type B) vaccine,1996.0,Hib
+SMR,IPV (Inactivated polio vaccine),1960.0,IPV
+SMR,IPV (Inactivated polio vaccine) 2nd dose,2003.0,IPV2
+SMR,Measles-containing vaccine 2nd dose,2001.0,MCV2
+SMR,Meningococcal meningitis vaccines (any strain),2016.0,Meningococcal
+SMR,Mumps vaccine,1998.0,Mumps
+SMR,PCV (Pneumococcal conjugate vaccine),2016.0,PCV
+SMR,PPV (Pneumococcal polysaccharide vaccine),2005.0,
+SMR,Rubella vaccine,1995.0,RCV1
+SMR,Seasonal Influenza vaccine,2008.0,
+SMR,Varicella vaccine,2018.0,
+SMR,aP (acellular pertussis) vaccine,2004.0,
+SOM,COVID-19 vaccine,2024.0,
+SOM,Hepatitis B vaccine,2013.0,HepB
+SOM,Hib (Haemophilus influenzae type B) vaccine,2013.0,Hib
+SOM,IPV (Inactivated polio vaccine),2015.0,IPV
+SOM,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+SOM,Measles-containing vaccine 2nd dose,2022.0,MCV2
+SOM,PCV (Pneumococcal conjugate vaccine),2025.0,PCV
+SOM,Rotavirus vaccine,2025.0,Rotavirus
+SRB,COVID-19 vaccine,2024.0,
+SRB,HPV (Human papillomavirus) vaccine,2022.0,HPV
+SRB,HepB birth dose,2006.0,
+SRB,Hepatitis B vaccine,2006.0,HepB
+SRB,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+SRB,IPV (Inactivated polio vaccine),2015.0,IPV
+SRB,IPV (Inactivated polio vaccine) 2nd dose,2015.0,IPV2
+SRB,Measles-containing vaccine 2nd dose,1994.0,MCV2
+SRB,Mumps vaccine,2002.0,Mumps
+SRB,PCV (Pneumococcal conjugate vaccine),2018.0,PCV
+SRB,Rubella vaccine,1994.0,RCV1
+SRB,Seasonal Influenza vaccine,2008.0,
+SRB,aP (acellular pertussis) vaccine,2016.0,
+SSD,COVID-19 vaccine,2024.0,
+SSD,Hepatitis B vaccine,2014.0,HepB
+SSD,Hib (Haemophilus influenzae type B) vaccine,2014.0,Hib
+SSD,IPV (Inactivated polio vaccine),2015.0,IPV
+SSD,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+SSD,Malaria vaccine,2025.0,
+SSD,Measles-containing vaccine 2nd dose,2025.0,MCV2
+SSD,PCV (Pneumococcal conjugate vaccine),2025.0,PCV
+SSD,Rotavirus vaccine,2025.0,Rotavirus
+STP,COVID-19 vaccine,2024.0,
+STP,HPV (Human papillomavirus) vaccine,2021.0,HPV
+STP,HepB birth dose,2010.0,
+STP,Hepatitis B vaccine,2003.0,HepB
+STP,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+STP,IPV (Inactivated polio vaccine),2016.0,IPV
+STP,Measles-containing vaccine 2nd dose,2013.0,MCV2
+STP,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+STP,Rotavirus vaccine,2016.0,Rotavirus
+STP,Rubella vaccine,2016.0,RCV1
+STP,YF (Yellow fever) vaccine,2003.0,YFV
+SUR,COVID-19 vaccine,2025.0,
+SUR,HPV (Human papillomavirus) vaccine,2013.0,HPV
+SUR,HepB birth dose,2003.0,
+SUR,Hepatitis B vaccine,2003.0,HepB
+SUR,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+SUR,IPV (Inactivated polio vaccine),2015.0,IPV
+SUR,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+SUR,Measles-containing vaccine 2nd dose,2005.0,MCV2
+SUR,Mumps vaccine,1993.0,Mumps
+SUR,Rubella vaccine,1993.0,RCV1
+SUR,Seasonal Influenza vaccine,2009.0,
+SUR,YF (Yellow fever) vaccine,2011.0,YFV
+SUR,aP (acellular pertussis) vaccine,2014.0,
+SVK,COVID-19 vaccine,2024.0,
+SVK,HPV (Human papillomavirus) vaccine,2021.0,HPV
+SVK,Hepatitis B vaccine,1998.0,HepB
+SVK,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+SVK,IPV (Inactivated polio vaccine),2005.0,IPV
+SVK,IPV (Inactivated polio vaccine) 2nd dose,2005.0,IPV2
+SVK,Measles-containing vaccine 2nd dose,1993.0,MCV2
+SVK,Mumps vaccine,1995.0,Mumps
+SVK,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+SVK,Rubella vaccine,1993.0,RCV1
+SVK,Seasonal Influenza vaccine,2008.0,
+SVK,aP (acellular pertussis) vaccine,2006.0,
+SVN,COVID-19 vaccine,2024.0,
+SVN,HPV (Human papillomavirus) vaccine,2009.0,HPV
+SVN,Hepatitis B vaccine,2019.0,HepB
+SVN,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+SVN,IPV (Inactivated polio vaccine),2004.0,IPV
+SVN,IPV (Inactivated polio vaccine) 2nd dose,2004.0,IPV2
+SVN,Measles-containing vaccine 2nd dose,1991.0,MCV2
+SVN,Mumps vaccine,1995.0,Mumps
+SVN,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+SVN,PPV (Pneumococcal polysaccharide vaccine),2023.0,
+SVN,Rubella vaccine,1991.0,RCV1
+SVN,Seasonal Influenza vaccine,2008.0,
+SVN,Varicella vaccine,2025.0,
+SVN,aP (acellular pertussis) vaccine,2006.0,
+SWE,COVID-19 vaccine,2024.0,
+SWE,HPV (Human papillomavirus) vaccine,2010.0,HPV
+SWE,Hepatitis B vaccine,2016.0,HepB
+SWE,Hib (Haemophilus influenzae type B) vaccine,1992.0,Hib
+SWE,IPV (Inactivated polio vaccine),1982.0,IPV
+SWE,IPV (Inactivated polio vaccine) 2nd dose,1995.0,IPV2
+SWE,Measles-containing vaccine 2nd dose,1982.0,MCV2
+SWE,Mumps vaccine,1995.0,Mumps
+SWE,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+SWE,PPV (Pneumococcal polysaccharide vaccine),2022.0,
+SWE,Rotavirus vaccine,2019.0,Rotavirus
+SWE,Rubella vaccine,1982.0,RCV1
+SWE,Seasonal Influenza vaccine,2011.0,
+SWE,aP (acellular pertussis) vaccine,2002.0,
+SWZ,COVID-19 vaccine,2024.0,
+SWZ,HPV (Human papillomavirus) vaccine,2023.0,HPV
+SWZ,Hepatitis B vaccine,1996.0,HepB
+SWZ,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+SWZ,IPV (Inactivated polio vaccine),2016.0,IPV
+SWZ,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+SWZ,Measles-containing vaccine 2nd dose,1995.0,MCV2
+SWZ,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+SWZ,Rotavirus vaccine,2015.0,Rotavirus
+SWZ,Rubella vaccine,2016.0,RCV1
+SYC,HPV (Human papillomavirus) vaccine,2014.0,HPV
+SYC,HepB birth dose,2023.0,
+SYC,Hepatitis B vaccine,1995.0,HepB
+SYC,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+SYC,IPV (Inactivated polio vaccine),2015.0,IPV
+SYC,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+SYC,Measles-containing vaccine 2nd dose,1989.0,MCV2
+SYC,Mumps vaccine,1998.0,Mumps
+SYC,PCV (Pneumococcal conjugate vaccine),2018.0,PCV
+SYC,Rotavirus vaccine,2017.0,Rotavirus
+SYC,Rubella vaccine,1980.0,RCV1
+SYC,YF (Yellow fever) vaccine,1995.0,YFV
+SYC,aP (acellular pertussis) vaccine,2024.0,
+SYR,COVID-19 vaccine,2024.0,
+SYR,HepB birth dose,2003.0,
+SYR,Hepatitis B vaccine,1993.0,HepB
+SYR,Hib (Haemophilus influenzae type B) vaccine,2001.0,Hib
+SYR,IPV (Inactivated polio vaccine),2008.0,IPV
+SYR,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+SYR,Measles-containing vaccine 2nd dose,1993.0,MCV2
+SYR,Meningococcal meningitis vaccines (any strain),2004.0,Meningococcal
+SYR,Mumps vaccine,2001.0,Mumps
+SYR,Rubella vaccine,1999.0,RCV1
+SYR,Seasonal Influenza vaccine,2016.0,
+TCD,COVID-19 vaccine,2024.0,
+TCD,Hepatitis B vaccine,2008.0,HepB
+TCD,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+TCD,IPV (Inactivated polio vaccine),2015.0,IPV
+TCD,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+TCD,Measles-containing vaccine 2nd dose,2022.0,MCV2
+TCD,Meningococcal meningitis vaccines (any strain),2017.0,Meningococcal
+TCD,PCV (Pneumococcal conjugate vaccine),2024.0,PCV
+TCD,Rotavirus vaccine,2024.0,Rotavirus
+TCD,YF (Yellow fever) vaccine,1985.0,YFV
+TGO,COVID-19 vaccine,2024.0,
+TGO,HPV (Human papillomavirus) vaccine,2023.0,HPV
+TGO,Hepatitis B vaccine,2008.0,HepB
+TGO,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+TGO,IPV (Inactivated polio vaccine),2018.0,IPV
+TGO,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+TGO,Malaria vaccine,2025.0,
+TGO,Measles-containing vaccine 2nd dose,2019.0,MCV2
+TGO,Meningococcal meningitis vaccines (any strain),2022.0,Meningococcal
+TGO,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+TGO,Rotavirus vaccine,2014.0,Rotavirus
+TGO,Rubella vaccine,2018.0,RCV1
+TGO,YF (Yellow fever) vaccine,2004.0,YFV
+THA,HPV (Human papillomavirus) vaccine,2017.0,HPV
+THA,HepB birth dose,1998.0,
+THA,Hepatitis B vaccine,1992.0,HepB
+THA,Hib (Haemophilus influenzae type B) vaccine,2019.0,Hib
+THA,IPV (Inactivated polio vaccine),2015.0,IPV
+THA,IPV (Inactivated polio vaccine) 2nd dose,2023.0,IPV2
+THA,Japanese Encephalitis,2002.0,JAPENC
+THA,Measles-containing vaccine 2nd dose,1996.0,MCV2
+THA,Mumps vaccine,1997.0,Mumps
+THA,Rotavirus vaccine,2020.0,Rotavirus
+THA,Rubella vaccine,1997.0,RCV1
+THA,Seasonal Influenza vaccine,2008.0,
+THA,aP (acellular pertussis) vaccine,2024.0,
+TJK,HPV (Human papillomavirus) vaccine,2025.0,HPV
+TJK,HepB birth dose,1998.0,
+TJK,Hepatitis B vaccine,2002.0,HepB
+TJK,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+TJK,IPV (Inactivated polio vaccine),2018.0,IPV
+TJK,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+TJK,Measles-containing vaccine 2nd dose,1991.0,MCV2
+TJK,Mumps vaccine,2020.0,Mumps
+TJK,PCV (Pneumococcal conjugate vaccine),2022.0,PCV
+TJK,Rotavirus vaccine,2015.0,Rotavirus
+TJK,Rubella vaccine,2009.0,RCV1
+TJK,Seasonal Influenza vaccine,2018.0,
+TKM,HPV (Human papillomavirus) vaccine,2016.0,HPV
+TKM,HepB birth dose,2002.0,
+TKM,Hepatitis A vaccine,2019.0,
+TKM,Hepatitis B vaccine,2002.0,HepB
+TKM,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+TKM,IPV (Inactivated polio vaccine),2018.0,IPV
+TKM,IPV (Inactivated polio vaccine) 2nd dose,2025.0,IPV2
+TKM,Measles-containing vaccine 2nd dose,1991.0,MCV2
+TKM,Mumps vaccine,1995.0,Mumps
+TKM,PCV (Pneumococcal conjugate vaccine),2019.0,PCV
+TKM,Rotavirus vaccine,2019.0,Rotavirus
+TKM,Rubella vaccine,2007.0,RCV1
+TKM,Seasonal Influenza vaccine,2014.0,
+TLS,COVID-19 vaccine,2024.0,
+TLS,HPV (Human papillomavirus) vaccine,2024.0,HPV
+TLS,HepB birth dose,2016.0,
+TLS,Hepatitis B vaccine,2007.0,HepB
+TLS,Hib (Haemophilus influenzae type B) vaccine,2012.0,Hib
+TLS,IPV (Inactivated polio vaccine),2016.0,IPV
+TLS,Measles-containing vaccine 2nd dose,2016.0,MCV2
+TLS,PCV (Pneumococcal conjugate vaccine),2023.0,PCV
+TLS,Rotavirus vaccine,2019.0,Rotavirus
+TLS,Rubella vaccine,2016.0,RCV1
+TON,COVID-19 vaccine,2025.0,
+TON,HPV (Human papillomavirus) vaccine,2022.0,HPV
+TON,HepB birth dose,1999.0,
+TON,Hepatitis B vaccine,1988.0,HepB
+TON,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+TON,IPV (Inactivated polio vaccine),2015.0,IPV
+TON,Measles-containing vaccine 2nd dose,2002.0,MCV2
+TON,PCV (Pneumococcal conjugate vaccine),2021.0,PCV
+TON,Rotavirus vaccine,2021.0,Rotavirus
+TON,Rubella vaccine,2002.0,RCV1
+TTO,HPV (Human papillomavirus) vaccine,2012.0,HPV
+TTO,Hepatitis B vaccine,2003.0,HepB
+TTO,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+TTO,IPV (Inactivated polio vaccine),2015.0,IPV
+TTO,IPV (Inactivated polio vaccine) 2nd dose,2020.0,IPV2
+TTO,Measles-containing vaccine 2nd dose,2001.0,MCV2
+TTO,Mumps vaccine,1984.0,Mumps
+TTO,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+TTO,PPV (Pneumococcal polysaccharide vaccine),2016.0,
+TTO,Rubella vaccine,1984.0,RCV1
+TTO,Seasonal Influenza vaccine,2007.0,
+TTO,Varicella vaccine,2018.0,
+TTO,YF (Yellow fever) vaccine,1984.0,YFV
+TUN,HPV (Human papillomavirus) vaccine,2025.0,HPV
+TUN,HepB birth dose,2006.0,
+TUN,Hepatitis A vaccine,2018.0,
+TUN,Hepatitis B vaccine,1995.0,HepB
+TUN,Hib (Haemophilus influenzae type B) vaccine,2011.0,Hib
+TUN,IPV (Inactivated polio vaccine),2014.0,IPV
+TUN,IPV (Inactivated polio vaccine) 2nd dose,2017.0,IPV2
+TUN,Measles-containing vaccine 2nd dose,1981.0,MCV2
+TUN,PCV (Pneumococcal conjugate vaccine),2019.0,PCV
+TUN,Rubella vaccine,2012.0,RCV1
+TUN,Seasonal Influenza vaccine,2014.0,
+TUN,aP (acellular pertussis) vaccine,2025.0,
+TUR,HepB birth dose,2003.0,
+TUR,Hepatitis A vaccine,2013.0,
+TUR,Hepatitis B vaccine,1998.0,HepB
+TUR,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+TUR,IPV (Inactivated polio vaccine),2008.0,IPV
+TUR,IPV (Inactivated polio vaccine) 2nd dose,2008.0,IPV2
+TUR,Measles-containing vaccine 2nd dose,1997.0,MCV2
+TUR,Mumps vaccine,2006.0,Mumps
+TUR,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+TUR,Rubella vaccine,2006.0,RCV1
+TUR,Seasonal Influenza vaccine,2005.0,
+TUR,Varicella vaccine,2013.0,
+TUR,aP (acellular pertussis) vaccine,2006.0,
+TUV,HPV (Human papillomavirus) vaccine,2021.0,HPV
+TUV,HepB birth dose,1998.0,
+TUV,Hepatitis B vaccine,1993.0,HepB
+TUV,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+TUV,IPV (Inactivated polio vaccine),2015.0,IPV
+TUV,IPV (Inactivated polio vaccine) 2nd dose,2015.0,IPV2
+TUV,Measles-containing vaccine 2nd dose,2005.0,MCV2
+TUV,PCV (Pneumococcal conjugate vaccine),2021.0,PCV
+TUV,Rotavirus vaccine,2021.0,Rotavirus
+TUV,Rubella vaccine,2005.0,RCV1
+TZA,HPV (Human papillomavirus) vaccine,2018.0,HPV
+TZA,Hepatitis B vaccine,2002.0,HepB
+TZA,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+TZA,IPV (Inactivated polio vaccine),2018.0,IPV
+TZA,IPV (Inactivated polio vaccine) 2nd dose,2025.0,IPV2
+TZA,Measles-containing vaccine 2nd dose,2014.0,MCV2
+TZA,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+TZA,Rotavirus vaccine,2013.0,Rotavirus
+TZA,Rubella vaccine,2014.0,RCV1
+UGA,COVID-19 vaccine,2024.0,
+UGA,HPV (Human papillomavirus) vaccine,2015.0,HPV
+UGA,HepB birth dose,2022.0,
+UGA,Hepatitis B vaccine,2002.0,HepB
+UGA,Hib (Haemophilus influenzae type B) vaccine,2002.0,Hib
+UGA,IPV (Inactivated polio vaccine),2016.0,IPV
+UGA,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+UGA,Measles-containing vaccine 2nd dose,2022.0,MCV2
+UGA,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+UGA,Rotavirus vaccine,2018.0,Rotavirus
+UGA,Rubella vaccine,2019.0,RCV1
+UGA,YF (Yellow fever) vaccine,2022.0,YFV
+UKR,COVID-19 vaccine,2024.0,
+UKR,HepB birth dose,2002.0,
+UKR,Hepatitis B vaccine,2003.0,HepB
+UKR,Hib (Haemophilus influenzae type B) vaccine,2006.0,Hib
+UKR,IPV (Inactivated polio vaccine),1991.0,IPV
+UKR,IPV (Inactivated polio vaccine) 2nd dose,2004.0,IPV2
+UKR,Measles-containing vaccine 2nd dose,1991.0,MCV2
+UKR,Mumps vaccine,1995.0,Mumps
+UKR,Rubella vaccine,2003.0,RCV1
+UKR,Seasonal Influenza vaccine,2015.0,
+URY,COVID-19 vaccine,2024.0,
+URY,HPV (Human papillomavirus) vaccine,2013.0,HPV
+URY,Hepatitis A vaccine,2008.0,
+URY,Hepatitis B vaccine,1999.0,HepB
+URY,Hib (Haemophilus influenzae type B) vaccine,1994.0,Hib
+URY,IPV (Inactivated polio vaccine),2012.0,IPV
+URY,IPV (Inactivated polio vaccine) 2nd dose,2012.0,IPV2
+URY,Measles-containing vaccine 2nd dose,1992.0,MCV2
+URY,Meningococcal meningitis vaccines (any strain),2025.0,Meningococcal
+URY,Mumps vaccine,1982.0,Mumps
+URY,PCV (Pneumococcal conjugate vaccine),2008.0,PCV
+URY,PPV (Pneumococcal polysaccharide vaccine),2009.0,
+URY,Rubella vaccine,1982.0,RCV1
+URY,Seasonal Influenza vaccine,1996.0,
+URY,Varicella vaccine,2004.0,
+URY,aP (acellular pertussis) vaccine,2012.0,
+USA,HPV (Human papillomavirus) vaccine,2006.0,HPV
+USA,HepB birth dose,1999.0,
+USA,Hepatitis A vaccine,2002.0,
+USA,Hepatitis B vaccine,1991.0,HepB
+USA,Hib (Haemophilus influenzae type B) vaccine,1991.0,Hib
+USA,IPV (Inactivated polio vaccine),1997.0,IPV
+USA,IPV (Inactivated polio vaccine) 2nd dose,2002.0,IPV2
+USA,Measles-containing vaccine 2nd dose,1989.0,MCV2
+USA,Meningococcal meningitis vaccines (any strain),2016.0,Meningococcal
+USA,Mumps vaccine,1969.0,Mumps
+USA,PCV (Pneumococcal conjugate vaccine),2000.0,PCV
+USA,PPV (Pneumococcal polysaccharide vaccine),2003.0,
+USA,Rotavirus vaccine,2006.0,Rotavirus
+USA,Rubella vaccine,1969.0,RCV1
+USA,Seasonal Influenza vaccine,1940.0,
+USA,Varicella vaccine,2004.0,
+USA,aP (acellular pertussis) vaccine,2006.0,
+UZB,COVID-19 vaccine,2024.0,
+UZB,HPV (Human papillomavirus) vaccine,2019.0,HPV
+UZB,HepB birth dose,1998.0,
+UZB,Hepatitis B vaccine,2001.0,HepB
+UZB,Hib (Haemophilus influenzae type B) vaccine,2009.0,Hib
+UZB,IPV (Inactivated polio vaccine),2018.0,IPV
+UZB,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+UZB,Measles-containing vaccine 2nd dose,1991.0,MCV2
+UZB,Mumps vaccine,1995.0,Mumps
+UZB,PCV (Pneumococcal conjugate vaccine),2015.0,PCV
+UZB,Rotavirus vaccine,2014.0,Rotavirus
+UZB,Rubella vaccine,2006.0,RCV1
+UZB,Seasonal Influenza vaccine,1996.0,
+VCT,COVID-19 vaccine,2024.0,
+VCT,HPV (Human papillomavirus) vaccine,2017.0,HPV
+VCT,HepB birth dose,2017.0,
+VCT,Hepatitis B vaccine,2003.0,HepB
+VCT,Hib (Haemophilus influenzae type B) vaccine,2003.0,Hib
+VCT,IPV (Inactivated polio vaccine),2015.0,IPV
+VCT,IPV (Inactivated polio vaccine) 2nd dose,2016.0,IPV2
+VCT,Measles-containing vaccine 2nd dose,1997.0,MCV2
+VCT,Mumps vaccine,1991.0,Mumps
+VCT,Rubella vaccine,1991.0,RCV1
+VEN,HepB birth dose,2003.0,
+VEN,Hepatitis B vaccine,2000.0,HepB
+VEN,Hib (Haemophilus influenzae type B) vaccine,2000.0,Hib
+VEN,IPV (Inactivated polio vaccine),2016.0,IPV
+VEN,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+VEN,Measles-containing vaccine 2nd dose,2009.0,MCV2
+VEN,Mumps vaccine,1998.0,Mumps
+VEN,PCV (Pneumococcal conjugate vaccine),2014.0,PCV
+VEN,PPV (Pneumococcal polysaccharide vaccine),2009.0,
+VEN,Rotavirus vaccine,2006.0,Rotavirus
+VEN,Rubella vaccine,1998.0,RCV1
+VEN,Seasonal Influenza vaccine,2007.0,
+VEN,YF (Yellow fever) vaccine,2004.0,YFV
+VNM,COVID-19 vaccine,2024.0,
+VNM,HepB birth dose,2002.0,
+VNM,Hepatitis B vaccine,2003.0,HepB
+VNM,Hib (Haemophilus influenzae type B) vaccine,2010.0,Hib
+VNM,IPV (Inactivated polio vaccine),2018.0,IPV
+VNM,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+VNM,Japanese Encephalitis,2015.0,JAPENC
+VNM,Measles-containing vaccine 2nd dose,2006.0,MCV2
+VNM,Rubella vaccine,2015.0,RCV1
+VUT,HPV (Human papillomavirus) vaccine,2024.0,HPV
+VUT,HepB birth dose,1998.0,
+VUT,Hepatitis B vaccine,1995.0,HepB
+VUT,Hib (Haemophilus influenzae type B) vaccine,2011.0,Hib
+VUT,IPV (Inactivated polio vaccine),2015.0,IPV
+VUT,Measles-containing vaccine 2nd dose,2023.0,MCV2
+VUT,Mumps vaccine,2023.0,Mumps
+VUT,PCV (Pneumococcal conjugate vaccine),2021.0,PCV
+VUT,Rotavirus vaccine,2021.0,Rotavirus
+VUT,Rubella vaccine,2015.0,RCV1
+WSM,COVID-19 vaccine,2024.0,
+WSM,HPV (Human papillomavirus) vaccine,2022.0,HPV
+WSM,HepB birth dose,1998.0,
+WSM,Hepatitis B vaccine,1990.0,HepB
+WSM,Hib (Haemophilus influenzae type B) vaccine,2007.0,Hib
+WSM,IPV (Inactivated polio vaccine),2015.0,IPV
+WSM,IPV (Inactivated polio vaccine) 2nd dose,2025.0,IPV2
+WSM,Measles-containing vaccine 2nd dose,2005.0,MCV2
+WSM,Mumps vaccine,2009.0,Mumps
+WSM,PCV (Pneumococcal conjugate vaccine),2021.0,PCV
+WSM,Rotavirus vaccine,2021.0,Rotavirus
+WSM,Rubella vaccine,2004.0,RCV1
+WSM,Seasonal Influenza vaccine,2023.0,
+WSM,Typhoid conjugate vaccine,2021.0,TYPHOID_CONJ
+YEM,COVID-19 vaccine,2024.0,
+YEM,Hepatitis B vaccine,1999.0,HepB
+YEM,Hib (Haemophilus influenzae type B) vaccine,2005.0,Hib
+YEM,IPV (Inactivated polio vaccine),2015.0,IPV
+YEM,IPV (Inactivated polio vaccine) 2nd dose,2021.0,IPV2
+YEM,Measles-containing vaccine 2nd dose,2004.0,MCV2
+YEM,PCV (Pneumococcal conjugate vaccine),2011.0,PCV
+YEM,Rotavirus vaccine,2012.0,Rotavirus
+YEM,Rubella vaccine,2015.0,RCV1
+ZAF,HPV (Human papillomavirus) vaccine,2014.0,HPV
+ZAF,Hepatitis B vaccine,1995.0,HepB
+ZAF,Hib (Haemophilus influenzae type B) vaccine,1999.0,Hib
+ZAF,IPV (Inactivated polio vaccine),2009.0,IPV
+ZAF,IPV (Inactivated polio vaccine) 2nd dose,2009.0,IPV2
+ZAF,Measles-containing vaccine 2nd dose,1994.0,MCV2
+ZAF,PCV (Pneumococcal conjugate vaccine),2009.0,PCV
+ZAF,Rotavirus vaccine,2009.0,Rotavirus
+ZAF,Rubella vaccine,2024.0,RCV1
+ZAF,Seasonal Influenza vaccine,2009.0,
+ZAF,aP (acellular pertussis) vaccine,2010.0,
+ZMB,COVID-19 vaccine,2024.0,
+ZMB,HPV (Human papillomavirus) vaccine,2019.0,HPV
+ZMB,Hepatitis B vaccine,2005.0,HepB
+ZMB,Hib (Haemophilus influenzae type B) vaccine,2004.0,Hib
+ZMB,IPV (Inactivated polio vaccine),2018.0,IPV
+ZMB,IPV (Inactivated polio vaccine) 2nd dose,2024.0,IPV2
+ZMB,Measles-containing vaccine 2nd dose,2013.0,MCV2
+ZMB,PCV (Pneumococcal conjugate vaccine),2013.0,PCV
+ZMB,Rotavirus vaccine,2013.0,Rotavirus
+ZMB,Rubella vaccine,2017.0,RCV1
+ZWE,COVID-19 vaccine,2025.0,
+ZWE,HPV (Human papillomavirus) vaccine,2018.0,HPV
+ZWE,Hepatitis B vaccine,1994.0,HepB
+ZWE,Hib (Haemophilus influenzae type B) vaccine,2008.0,Hib
+ZWE,IPV (Inactivated polio vaccine),2019.0,IPV
+ZWE,IPV (Inactivated polio vaccine) 2nd dose,2022.0,IPV2
+ZWE,Measles-containing vaccine 2nd dose,2015.0,MCV2
+ZWE,PCV (Pneumococcal conjugate vaccine),2012.0,PCV
+ZWE,Rotavirus vaccine,2014.0,Rotavirus
+ZWE,Rubella vaccine,2015.0,RCV1
+ZWE,Typhoid conjugate vaccine,2021.0,TYPHOID_CONJ

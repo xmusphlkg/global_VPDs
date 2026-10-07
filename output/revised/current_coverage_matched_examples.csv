@@ -1,0 +1,5 @@
+example,country,year,disease,vaccine,current_coverage_pct,model_gap_waning,age_profile_source,interpretation
+pertussis_same_DTP3_2023,TZA,2023,Pertussis,DTP3,83.0,0.7470815910653565,country_year_14cohort_primary,"Illustrative matched-current-coverage pair; model-derived gap, descriptive only"
+pertussis_same_DTP3_2023,UKR,2023,Pertussis,DTP3,83.0,0.8472555297869186,country_year_14cohort_primary,"Illustrative matched-current-coverage pair; model-derived gap, descriptive only"
+diphtheria_same_DTP3_2022,DJI,2022,Diphtheria,DTP3,59.0,0.4261294815297302,country_year_14cohort_primary,"Illustrative matched-current-coverage pair; model-derived gap, descriptive only"
+diphtheria_same_DTP3_2022,SYR,2022,Diphtheria,DTP3,59.0,0.506884015682495,country_year_14cohort_primary,"Illustrative matched-current-coverage pair; model-derived gap, descriptive only"

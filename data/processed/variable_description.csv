@@ -1,0 +1,6 @@
+variable,definition
+coverage,WUENIC dose coverage among the target group (%)
+historical_vulnerability_index,Mean complement of coverage in all preceding window calendar years; not population susceptibility
+vaccination_gap_mean,Compatibility alias for historical_vulnerability_index
+cases_lag1,Reported cases at calendar year t-1; missing stays missing
+population,WPP midyear population in persons; 2024 onward projections

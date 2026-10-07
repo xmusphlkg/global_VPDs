@@ -1,0 +1,391 @@
+country,country_name,dose,target_age_months,target_age_years,schedule_source,vaccine,who_region,most_recent_year
+AFG,Afghanistan,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+AFG,Afghanistan,MCV2,18,1.5,country_reported,Measles vaccine,EMRO,2025
+AGO,Angola,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+AGO,Angola,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ALB,Albania,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ALB,Albania,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+AND,Andorra,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+AND,Andorra,MCV2,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ARE,United Arab Emirates,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+ARE,United Arab Emirates,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+ARG,Argentina,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+ARG,Argentina,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+ARM,Armenia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ARM,Armenia,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ATG,Antigua and Barbuda,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+ATG,Antigua and Barbuda,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+AUS,Australia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+AUS,Australia,MCV2,18,1.5,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",WPRO,2025
+AUT,Austria,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+AUT,Austria,MCV2,15,1.25,WHO_default,NA,NA,NA
+AZE,Azerbaijan,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+AZE,Azerbaijan,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BDI,Burundi,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+BDI,Burundi,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+BEL,Belgium,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BEL,Belgium,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BEN,Benin,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+BEN,Benin,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+BFA,Burkina Faso,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+BFA,Burkina Faso,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+BGD,Bangladesh,MCV1,8.775981524249422,0.7313317936874518,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+BGD,Bangladesh,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+BGR,Bulgaria,MCV1,13,1.0833333333333333,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BGR,Bulgaria,MCV2,144,12,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BHR,Bahrain,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+BHR,Bahrain,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+BHS,Bahamas,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BHS,Bahamas,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BIH,Bosnia and Herzegovina,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BIH,Bosnia and Herzegovina,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BLR,Belarus,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BLR,Belarus,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+BLZ,Belize,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BLZ,Belize,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BOL,Bolivia (Plurinational State of),MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BOL,Bolivia (Plurinational State of),MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BRA,Brazil,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BRA,Brazil,MCV2,15,1.25,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",AMRO,2025
+BRB,Barbados,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BRB,Barbados,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+BRN,Brunei Darussalam,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+BRN,Brunei Darussalam,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+BTN,Bhutan,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",SEARO,2025
+BTN,Bhutan,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",SEARO,2025
+BWA,Botswana,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+BWA,Botswana,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+CAF,Central African Republic,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+CAF,Central African Republic,MCV2,15,1.25,WHO_default,NA,NA,NA
+CAN,Canada,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+CAN,Canada,MCV2,18,1.5,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",AMRO,2025
+CHE,Switzerland,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+CHE,Switzerland,MCV2,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+CHL,Chile,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+CHL,Chile,MCV2,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+CHN,China,MCV1,8,0.6666666666666666,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+CHN,China,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+CIV,Côte d'Ivoire,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+CIV,Côte d'Ivoire,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+CMR,Cameroon,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+CMR,Cameroon,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+COD,Democratic Republic of the Congo,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+COD,Democratic Republic of the Congo,MCV2,15,1.25,country_reported,Measles vaccine,AFRO,2025
+COG,Congo,MCV1,8.314087759815243,0.6928406466512702,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+COG,Congo,MCV2,13.856812933025404,1.1547344110854503,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+COK,Cook Islands,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+COK,Cook Islands,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+COL,Colombia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+COL,Colombia,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+COM,Comoros,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+COM,Comoros,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+CPV,Cabo Verde,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+CPV,Cabo Verde,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+CRI,Costa Rica,MCV1,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+CRI,Costa Rica,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+CUB,Cuba,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+CUB,Cuba,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+CYP,Cyprus,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+CYP,Cyprus,MCV2,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+CZE,Czechia,MCV1,13,1.0833333333333333,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+CZE,Czechia,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+DEU,Germany,MCV1,11,0.9166666666666666,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+DEU,Germany,MCV2,15,1.25,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",EURO,2025
+DJI,Djibouti,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+DJI,Djibouti,MCV2,15,1.25,country_reported,Measles vaccine,EMRO,2025
+DMA,Dominica,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+DMA,Dominica,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+DNK,Denmark,MCV1,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+DNK,Denmark,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+DOM,Dominican Republic,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+DOM,Dominican Republic,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+DZA,Algeria,MCV1,11,0.9166666666666666,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+DZA,Algeria,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+ECU,Ecuador,MCV1,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+ECU,Ecuador,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+EGY,Egypt,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+EGY,Egypt,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+ERI,Eritrea,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ERI,Eritrea,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ESP,Spain,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ESP,Spain,MCV2,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+EST,Estonia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+EST,Estonia,MCV2,156,13,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ETH,Ethiopia,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+ETH,Ethiopia,MCV2,15,1.25,country_reported,Measles vaccine,AFRO,2025
+FIN,Finland,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+FIN,Finland,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+FJI,Fiji,MCV1,12,1,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+FJI,Fiji,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+FRA,France,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+FRA,France,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+FSM,Micronesia (Federated States of),MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+FSM,Micronesia (Federated States of),MCV2,15,1.25,WHO_default,NA,NA,NA
+GAB,Gabon,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+GAB,Gabon,MCV2,15,1.25,WHO_default,NA,NA,NA
+GBR,United Kingdom of Great Britain and Northern Ireland,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+GBR,United Kingdom of Great Britain and Northern Ireland,MCV2,40,3.3333333333333335,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+GEO,Georgia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+GEO,Georgia,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+GHA,Ghana,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+GHA,Ghana,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+GIN,Guinea,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+GIN,Guinea,MCV2,18,1.5,country_reported,Measles vaccine,AFRO,2025
+GMB,Gambia,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+GMB,Gambia,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+GNB,Guinea-Bissau,MCV1,12,1,country_reported,Measles vaccine,AFRO,2025
+GNB,Guinea-Bissau,MCV2,15,1.25,country_reported,Measles vaccine,AFRO,2025
+GNQ,Equatorial Guinea,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+GNQ,Equatorial Guinea,MCV2,18,1.5,country_reported,Measles vaccine,AFRO,2025
+GRC,Greece,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+GRC,Greece,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+GRD,Grenada,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+GRD,Grenada,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+GTM,Guatemala,MCV1,84,7,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+GTM,Guatemala,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+GUY,Guyana,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+GUY,Guyana,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+HND,Honduras,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+HND,Honduras,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+HRV,Croatia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+HRV,Croatia,MCV2,84,7,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+HTI,Haiti,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AMRO,2025
+HTI,Haiti,MCV2,12,1,country_reported,MR (Measles and rubella) vaccine,AMRO,2025
+HUN,Hungary,MCV1,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+HUN,Hungary,MCV2,132,11,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+IDN,Indonesia,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+IDN,Indonesia,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+IND,India,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+IND,India,MCV2,16,1.3333333333333333,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+IRL,Ireland,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+IRL,Ireland,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+IRN,Iran (Islamic Republic of),MCV1,6,0.5,country_reported,Measles vaccine,EMRO,2025
+IRN,Iran (Islamic Republic of),MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+IRQ,Iraq,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+IRQ,Iraq,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+ISL,Iceland,MCV1,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ISL,Iceland,MCV2,144,12,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ISR,Israel,MCV1,12,1,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",EURO,2022
+ISR,Israel,MCV2,72,6,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",EURO,2022
+ITA,Italy,MCV1,13,1.0833333333333333,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ITA,Italy,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+JAM,Jamaica,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+JAM,Jamaica,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+JOR,Jordan,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+JOR,Jordan,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+JPN,Japan,MCV1,12,1,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+JPN,Japan,MCV2,60,5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+KAZ,Kazakhstan,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+KAZ,Kazakhstan,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+KEN,Kenya,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+KEN,Kenya,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+KGZ,Kyrgyzstan,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+KGZ,Kyrgyzstan,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+KHM,Cambodia,MCV1,6,0.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+KHM,Cambodia,MCV2,9,0.75,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+KIR,Kiribati,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+KIR,Kiribati,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+KNA,Saint Kitts and Nevis,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+KNA,Saint Kitts and Nevis,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+KOR,Republic of Korea,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+KOR,Republic of Korea,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+KWT,Kuwait,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+KWT,Kuwait,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+LAO,Lao People's Democratic Republic,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+LAO,Lao People's Democratic Republic,MCV2,12,1,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+LBN,Lebanon,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+LBN,Lebanon,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+LBR,Liberia,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+LBR,Liberia,MCV2,15,1.25,country_reported,Measles vaccine,AFRO,2025
+LBY,Libya,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+LBY,Libya,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+LCA,Saint Lucia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+LCA,Saint Lucia,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+LKA,Sri Lanka,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",SEARO,2025
+LKA,Sri Lanka,MCV2,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",SEARO,2025
+LSO,Lesotho,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+LSO,Lesotho,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+LTU,Lithuania,MCV1,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+LTU,Lithuania,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+LUX,Luxembourg,MCV1,12,1,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",EURO,2025
+LUX,Luxembourg,MCV2,15,1.25,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",EURO,2025
+LVA,Latvia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+LVA,Latvia,MCV2,84,7,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MAR,Morocco,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+MAR,Morocco,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+MCO,Monaco,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MCO,Monaco,MCV2,16,1.3333333333333333,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MDA,Republic of Moldova,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MDA,Republic of Moldova,MCV2,84,7,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MDG,Madagascar,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+MDG,Madagascar,MCV2,15,1.25,country_reported,Measles vaccine,AFRO,2025
+MDV,Maldives,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+MDV,Maldives,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",SEARO,2025
+MEX,Mexico,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+MEX,Mexico,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+MHL,Marshall Islands,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+MHL,Marshall Islands,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+MKD,North Macedonia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MKD,North Macedonia,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MLI,Mali,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MLI,Mali,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MLT,Malta,MCV1,13,1.0833333333333333,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MLT,Malta,MCV2,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MMR,Myanmar,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+MMR,Myanmar,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+MNE,Montenegro,MCV1,13,1.0833333333333333,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MNE,Montenegro,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+MNG,Mongolia,MCV1,6,0.5,country_reported,Measles vaccine,WPRO,2025
+MNG,Mongolia,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+MOZ,Mozambique,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MOZ,Mozambique,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MRT,Mauritania,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MRT,Mauritania,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MUS,Mauritius,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+MUS,Mauritius,MCV2,17,1.4166666666666667,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+MWI,Malawi,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MWI,Malawi,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+MYS,Malaysia,MCV1,6,0.5,country_reported,Measles vaccine,WPRO,2025
+MYS,Malaysia,MCV2,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+NAM,Namibia,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+NAM,Namibia,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+NER,Niger,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+NER,Niger,MCV2,16,1.3333333333333333,country_reported,Measles vaccine,AFRO,2025
+NGA,Nigeria,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+NGA,Nigeria,MCV2,15,1.25,country_reported,Measles vaccine,AFRO,2025
+NIC,Nicaragua,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+NIC,Nicaragua,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+NIU,Niue,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+NIU,Niue,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+NLD,Netherlands (Kingdom of the),MCV1,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+NLD,Netherlands (Kingdom of the),MCV2,36,3,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+NOR,Norway,MCV1,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+NOR,Norway,MCV2,132,11,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+NPL,Nepal,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+NPL,Nepal,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+NRU,Naoero,MCV1,12,1,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+NRU,Naoero,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+NZL,New Zealand,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+NZL,New Zealand,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+OMN,Oman,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+OMN,Oman,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+PAK,Pakistan,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+PAK,Pakistan,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+PAN,Panama,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+PAN,Panama,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+PER,Peru,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+PER,Peru,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+PHL,Philippines,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+PHL,Philippines,MCV2,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+PLW,Palau,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+PLW,Palau,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+PNG,Papua New Guinea,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+PNG,Papua New Guinea,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+POL,Poland,MCV1,13,1.0833333333333333,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+POL,Poland,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+PRK,Democratic People's Republic of Korea,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+PRK,Democratic People's Republic of Korea,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+PRT,Portugal,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+PRT,Portugal,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+PRY,Paraguay,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+PRY,Paraguay,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+PSE,"occupied Palestinian territory, including east Jerusalem",MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+PSE,"occupied Palestinian territory, including east Jerusalem",MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+QAT,Qatar,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+QAT,Qatar,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+ROU,Romania,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+ROU,Romania,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+RUS,Russian Federation,MCV1,12,1,country_reported,Measles vaccine,EURO,2025
+RUS,Russian Federation,MCV2,72,6,country_reported,Measles vaccine,EURO,2025
+RWA,Rwanda,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+RWA,Rwanda,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SAU,Saudi Arabia,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+SAU,Saudi Arabia,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+SDN,Sudan,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+SDN,Sudan,MCV2,18,1.5,country_reported,Measles vaccine,EMRO,2025
+SEN,Senegal,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SEN,Senegal,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SGP,Singapore,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2024
+SGP,Singapore,MCV2,15,1.25,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",WPRO,2024
+SLB,Solomon Islands,MCV1,12,1,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+SLB,Solomon Islands,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+SLE,Sierra Leone,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SLE,Sierra Leone,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SLV,El Salvador,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+SLV,El Salvador,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+SMR,San Marino,MCV1,15,1.25,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",EURO,2025
+SMR,San Marino,MCV2,72,6,country_reported,"MMRV (Measles, mumps, rubella and varicella) vaccine",EURO,2025
+SOM,Somalia,MCV1,9,0.75,country_reported,Measles vaccine,EMRO,2025
+SOM,Somalia,MCV2,15,1.25,country_reported,Measles vaccine,EMRO,2025
+SRB,Serbia,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SRB,Serbia,MCV2,84,7,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SSD,South Sudan,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+SSD,South Sudan,MCV2,18,1.5,country_reported,Measles vaccine,AFRO,2025
+STP,Sao Tome and Principe,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+STP,Sao Tome and Principe,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SUR,Suriname,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+SUR,Suriname,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+SVK,Slovakia,MCV1,14,1.1666666666666667,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SVK,Slovakia,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SVN,Slovenia,MCV1,11,0.9166666666666666,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SVN,Slovenia,MCV2,60,5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SWE,Sweden,MCV1,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SWE,Sweden,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+SWZ,Eswatini,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SWZ,Eswatini,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+SYC,Seychelles,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+SYC,Seychelles,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",AFRO,2025
+SYR,Syrian Arab Republic,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+SYR,Syrian Arab Republic,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",EMRO,2025
+TCD,Chad,MCV1,9,0.75,country_reported,Measles vaccine,AFRO,2025
+TCD,Chad,MCV2,15,1.25,country_reported,Measles vaccine,AFRO,2025
+TGO,Togo,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+TGO,Togo,MCV2,15,1.25,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+THA,Thailand,MCV1,9,0.75,country_reported,"MMR (Measles, mumps and rubella) vaccine",SEARO,2025
+THA,Thailand,MCV2,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",SEARO,2025
+TJK,Tajikistan,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+TJK,Tajikistan,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+TKM,Turkmenistan,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+TKM,Turkmenistan,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+TLS,Timor-Leste,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+TLS,Timor-Leste,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,SEARO,2025
+TON,Tonga,MCV1,12,1,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+TON,Tonga,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+TTO,Trinidad and Tobago,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+TTO,Trinidad and Tobago,MCV2,24,2,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+TUN,Tunisia,MCV1,12,1,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+TUN,Tunisia,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+TUR,Türkiye,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+TUR,Türkiye,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+TUV,Tuvalu,MCV1,12,1,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+TUV,Tuvalu,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+TZA,United Republic of Tanzania,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+TZA,United Republic of Tanzania,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+UGA,Uganda,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+UGA,Uganda,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+UKR,Ukraine,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+UKR,Ukraine,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+URY,Uruguay,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+URY,Uruguay,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+USA,United States of America,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2023
+USA,United States of America,MCV2,48,4,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2023
+UZB,Uzbekistan,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+UZB,Uzbekistan,MCV2,72,6,country_reported,"MMR (Measles, mumps and rubella) vaccine",EURO,2025
+VCT,Saint Vincent and the Grenadines,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+VCT,Saint Vincent and the Grenadines,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+VEN,Venezuela (Bolivarian Republic of),MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+VEN,Venezuela (Bolivarian Republic of),MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",AMRO,2025
+VNM,Viet Nam,MCV1,9,0.75,country_reported,Measles vaccine,WPRO,2025
+VNM,Viet Nam,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,WPRO,2025
+VUT,Vanuatu,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+VUT,Vanuatu,MCV2,18,1.5,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+WSM,Samoa,MCV1,12,1,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+WSM,Samoa,MCV2,15,1.25,country_reported,"MMR (Measles, mumps and rubella) vaccine",WPRO,2025
+YEM,Yemen,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+YEM,Yemen,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,EMRO,2025
+ZAF,South Africa,MCV1,6,0.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ZAF,South Africa,MCV2,12,1,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ZMB,Zambia,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ZMB,Zambia,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ZWE,Zimbabwe,MCV1,9,0.75,country_reported,MR (Measles and rubella) vaccine,AFRO,2025
+ZWE,Zimbabwe,MCV2,18,1.5,country_reported,MR (Measles and rubella) vaccine,AFRO,2025

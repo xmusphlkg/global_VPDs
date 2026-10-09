@@ -93,7 +93,9 @@ compare <- function(a,b,dis,contrast,nested=FALSE,analysis="primary") {
  k <- attr(logLik(b),"df")-attr(logLik(a),"df"); stat <- 2*as.numeric(logLik(b)-logLik(a))
  tibble(disease=dis,comparison=contrast,analysis,n=nobs(a),aic_base=AIC(a),aic_extended=AIC(b),delta_aic=AIC(b)-AIC(a),lrt_statistic=if(nested)stat else NA_real_,df=if(nested)k else NA_real_,lrt_p_value=if(nested&&k>0)pchisq(max(stat,0),k,lower.tail=FALSE) else NA_real_)
 }
-coefrow <- function(f,model,dis,analysis) broom.mixed::tidy(f,effects="fixed",conf.int=TRUE)%>%filter(term%in%c("hist_10","gap0_10","gap_10"))%>%transmute(disease=dis,model,analysis,n=nobs(f),term,estimate,std_error=std.error,p_value=p.value,rate_ratio=exp(estimate),rr_low=exp(conf.low),rr_high=exp(conf.high))
+# Report the estimand explicitly as a 0.10 absolute gap increase instead of
+# the ambiguous pp shorthand used in earlier tables.
+coefrow <- function(f,model,dis,analysis) broom.mixed::tidy(f,effects="fixed",conf.int=TRUE)%>%filter(term%in%c("hist_10","gap0_10","gap_10"))%>%mutate(gap_term=grepl("gap",term),effect_scale=if_else(gap_term,"per 0.10 absolute gap increase","per 0.10 historical exposure increase"))%>%transmute(disease=dis,model,analysis,n=nobs(f),term,estimate,std_error=std.error,p_value=p.value,rate_ratio=exp(estimate),rr_low=exp(conf.low),rr_high=exp(conf.high),effect_scale)
 ladder <- function(dat,dis,tag,save=FALSE) {
  lab <- if(dis=="Mumps")paste0(tag,"_MCV_proxy")else tag
  message(lab," ",dis," n=",nrow(dat))

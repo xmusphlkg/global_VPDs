@@ -2,6 +2,8 @@
 
 This repository is the public code and data release for the global five-disease vaccine-protection analysis. It contains the analysis workflow, curated parameter inputs, processed country and cohort data, selected public source snapshots, and numerical model results.
 
+The associated manuscript title is **Historical vaccination trajectories preserve age-specific differences in programme-derived protection after coverage convergence**.
+
 The release is organized so that the main calculations can be rerun from the repository root:
 
     # Cohort reconstruction

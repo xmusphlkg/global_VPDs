@@ -1,0 +1,14 @@
+disease,parameter,value,unit,sensitivity,evidence,references,source_rows
+Measles,MCV1_target_age_months,12.0,months,country-specific schedule where evidenced; ±12 months scenario,S,MeaslesCDC,2
+Measles,MCV2_target_age_months,48.0,months,country-specific schedule where evidenced; ±12 months scenario,S,MeaslesCDC,4
+Rubella,RCV1_target_age_months,12.0,months,country-specific schedule where evidenced; ±12 months scenario,S,RubellaCDC,7
+Pertussis,DTP1_target_age_months,2.0,months,country-specific schedule where evidenced; ±12 months scenario,S,PertussisCDC,10
+Pertussis,DTP3_target_age_months,6.0,months,country-specific schedule where evidenced; ±12 months scenario,S,PertussisCDC,12
+Diphtheria,DTP1_target_age_months,2.0,months,country-specific schedule where evidenced; ±12 months scenario,S,DiphtheriaCDC,15
+Diphtheria,DTP3_target_age_months,6.0,months,country-specific schedule where evidenced; ±12 months scenario,S,DiphtheriaCDC,17
+Mumps,MCV1_target_age_months,12.0,months,country-specific schedule where evidenced; ±12 months scenario,S,MumpsCDC,20
+Mumps,MCV2_target_age_months,48.0,months,country-specific schedule where evidenced; ±12 months scenario,S,MumpsCDC,22
+All,partial_dose_state,DTP1 minus DTP3,fraction,DTP2-aware reconstruction where available,A,,78
+All,historical_coverage_window,"pertussis 5, others 10",years,common 10-year window,A,,79
+All,complete_cohort_eligibility,14,ages,80% age AND weight; projected dose nesting,A,,80
+All,cohort_completeness_threshold,0.8,fraction,complete 14 / .80; do not outcome-tune,A,,81

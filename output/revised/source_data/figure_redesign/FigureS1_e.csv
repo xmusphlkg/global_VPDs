@@ -1,0 +1,11 @@
+disease,model,coverage_95_pct,split
+Diphtheria,expected_interval_coverage_pct,0,temporal_holdout
+Diphtheria,nb_predictive_coverage_pct,100,temporal_holdout
+Measles,expected_interval_coverage_pct,5.405405405405405,temporal_holdout
+Measles,nb_predictive_coverage_pct,86.48648648648648,temporal_holdout
+Mumps,expected_interval_coverage_pct,3.4482758620689653,temporal_holdout
+Mumps,nb_predictive_coverage_pct,86.20689655172413,temporal_holdout
+Pertussis,expected_interval_coverage_pct,0,temporal_holdout
+Pertussis,nb_predictive_coverage_pct,100,temporal_holdout
+Rubella,expected_interval_coverage_pct,0,temporal_holdout
+Rubella,nb_predictive_coverage_pct,100,temporal_holdout

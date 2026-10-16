@@ -1,0 +1,13 @@
+layer,scope,disease,cutoff,RMSE_M1,RMSE_M3,n_test_M1,n_test_M3,n_train_M1,n_train_M3,rmse_change_pct,test_start,test_end,fit_scope,prediction_scope,delta_aic_m3_m1
+disease_holdout,five_disease_proxy,Diphtheria,2016,324.49460703976183,307.177905105196,426,426,1156,1156,-5.336514554907213,2017,2019,disease-specific; year fixed effects,pooled common gap; linear time,6.971564066483552
+disease_holdout,five_disease_proxy,Measles,2016,7115.98174504176,8419.08560403308,91,91,1156,1156,18.312355282520087,2017,2019,disease-specific; year fixed effects,pooled common gap; linear time,-1.4897083248056333
+disease_holdout,five_disease_proxy,Mumps,2016,3171.127785003176,3138.4542657351267,76,76,1156,1156,-1.030343823499269,2017,2019,disease-specific; year fixed effects,pooled common gap; linear time,1.6609304349271952
+disease_holdout,five_disease_proxy,Pertussis,2016,2465.577527106565,2801.117724642433,432,432,1156,1156,13.60898993631059,2017,2019,disease-specific; year fixed effects,pooled common gap; linear time,-8.868684556491644
+disease_holdout,five_disease_proxy,Rubella,2016,196.24243281119436,196.05318176055064,308,308,1156,1156,-0.09643737490035997,2017,2019,disease-specific; year fixed effects,pooled common gap; linear time,0.8605443810652105
+disease_holdout,five_disease_proxy,Diphtheria,2019,512.8262303766562,510.5506266555376,534,534,2489,2489,-0.44373777828159433,2020,2023,disease-specific; year fixed effects,pooled common gap; linear time,6.971564066483552
+disease_holdout,five_disease_proxy,Measles,2019,4904.276094409885,5269.317926402096,151,151,2489,2489,7.443337711110964,2020,2023,disease-specific; year fixed effects,pooled common gap; linear time,-1.4897083248056333
+disease_holdout,five_disease_proxy,Mumps,2019,6016.99722675635,6853.6420788623645,125,125,2489,2489,13.904690671712917,2020,2023,disease-specific; year fixed effects,pooled common gap; linear time,1.6609304349271952
+disease_holdout,five_disease_proxy,Pertussis,2019,3631.935599092092,3793.67576677262,542,542,2489,2489,4.453277412764689,2020,2023,disease-specific; year fixed effects,pooled common gap; linear time,-8.868684556491644
+disease_holdout,five_disease_proxy,Rubella,2019,107.15765888650036,108.7698858806746,364,364,2489,2489,1.504537343319412,2020,2023,disease-specific; year fixed effects,pooled common gap; linear time,0.8605443810652105
+pooled_holdout,five_disease_proxy,All,2016,2458.221341231387,2825.2933994055825,1333,1333,1156,1156,14.932425002474314,2017,2019,disease-specific; year fixed effects,pooled common gap; linear time,NA
+pooled_holdout,five_disease_proxy,All,2019,3000.7271379534063,3239.482215107639,1716,1716,2489,2489,7.956574062814381,2020,2023,disease-specific; year fixed effects,pooled common gap; linear time,NA

@@ -1,0 +1,13 @@
+disease,age,profile_status,n_valid_assay,source,endpoint,estimate,lower,upper,age_band,estimate_pct,lower_pct,upper_pct,marker_construct,series_colour,construct
+Diphtheria,2.5,known,85,"Kilifi, Kenya, 2021",External age marker (%),0.3,0.18,0.41,1-4,30,18,41,Minimum antitoxin protection,#2A6EBB,External marker
+Diphtheria,7,known,102,"Kilifi, Kenya, 2021",External age marker (%),0.52,0.41,0.62,5-9,52,41,62,Minimum antitoxin protection,#2A6EBB,External marker
+Diphtheria,12,known,95,"Kilifi, Kenya, 2021",External age marker (%),0.44,0.32,0.55,10-14,44,32,55.00000000000001,Minimum antitoxin protection,#2A6EBB,External marker
+Pertussis,2.5,known,85,"Kilifi, Kenya, 2021",External age marker (%),0.08,NA,NA,1-4,8,NA,NA,Recent anti-PT exposure (>=62.5 EU/mL),#E37222,External marker
+Pertussis,7,known,102,"Kilifi, Kenya, 2021",External age marker (%),0.04,NA,NA,5-9,4,NA,NA,Recent anti-PT exposure (>=62.5 EU/mL),#E37222,External marker
+Pertussis,12,known,95,"Kilifi, Kenya, 2021",External age marker (%),0.07,NA,NA,10-14,7.000000000000001,NA,NA,Recent anti-PT exposure (>=62.5 EU/mL),#E37222,External marker
+Pertussis,2.5,known,NA,"Kenya model profile, 2021",Programme-derived gap (%),0.5140071170858584,NA,NA,1-4,51.400711708585845,NA,NA,Programme-derived gap,#4B4D4F,Programme-derived gap
+Pertussis,7,known,NA,"Kenya model profile, 2021",Programme-derived gap (%),0.7988039764522636,NA,NA,5-9,79.88039764522637,NA,NA,Programme-derived gap,#4B4D4F,Programme-derived gap
+Pertussis,12,known,NA,"Kenya model profile, 2021",Programme-derived gap (%),0.9260970015668256,NA,NA,10-14,92.60970015668256,NA,NA,Programme-derived gap,#4B4D4F,Programme-derived gap
+Diphtheria,2.5,known,NA,"Kenya model profile, 2021",Programme-derived gap (%),0.2653935869706238,NA,NA,1-4,26.539358697062383,NA,NA,Programme-derived gap,#4B4D4F,Programme-derived gap
+Diphtheria,7,known,NA,"Kenya model profile, 2021",Programme-derived gap (%),0.351930099714223,NA,NA,5-9,35.1930099714223,NA,NA,Programme-derived gap,#4B4D4F,Programme-derived gap
+Diphtheria,12,known,NA,"Kenya model profile, 2021",Programme-derived gap (%),0.4633240513876945,NA,NA,10-14,46.33240513876945,NA,NA,Programme-derived gap,#4B4D4F,Programme-derived gap

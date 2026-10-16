@@ -1,0 +1,15 @@
+disease,parameter,value,unit,sensitivity,evidence,references,source_rows
+Measles,MCV1_clinical_scale,0.93,fraction,dose 1: 0.90–0.95; dose 2: 0.95–0.99,LM,MMRCDC,1
+Measles,MCV2_clinical_scale,0.97,fraction,dose 1: 0.90–0.95; dose 2: 0.95–0.99,LM,MMRCDC,3
+Measles,waning_tau,No waning,years,no waning / slow decline,A,MeaslesCDC,5
+Rubella,RCV1_clinical_scale,0.95,fraction,0.90–0.99,LM,RubellaCDC,6
+Rubella,waning_tau,No waning,years,no waning / slow decline,A,RubellaCDC,8
+Pertussis,DTP1_clinical_scale,0.5,fraction,partial 0.25/0.50/0.75; complete 0.80/0.85/0.90,A,PertussisCDC,9
+Pertussis,DTP3_clinical_scale,0.85,fraction,partial 0.25/0.50/0.75; complete 0.80/0.85/0.90,LM,PertussisCDC,11
+Pertussis,waning_tau,5.0,years,2.5/5/10,A,McG2015;Wen2005;PertussisCDC,13
+Diphtheria,DTP1_clinical_scale,0.71,fraction,partial 0.17/0.71/0.85; complete 0.68/0.87/0.97; constrain partial <= complete,LM,True2020,14
+Diphtheria,DTP3_clinical_scale,0.87,fraction,partial 0.17/0.71/0.85; complete 0.68/0.87/0.97; constrain partial <= complete,LM,True2020,16
+Diphtheria,waning_tau,30.0,years,10/30/100/no waning,A,True2020;Ham2016;Swart2016,18
+Mumps,MCV1_clinical_scale,0.964,fraction,initial 0.940/0.964/0.978,LM,Lew2018;MumpsVECDC,19
+Mumps,MCV2_clinical_scale,0.964,fraction,initial 0.940/0.964/0.978,LM,Lew2018;MumpsVECDC,21
+Mumps,waning_tau,27.4,years,16.7/27.4/51.1 (legacy grid 16/27/51),L,Lew2018,23

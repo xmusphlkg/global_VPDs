@@ -1,0 +1,6 @@
+disease,affected_countries,country_names,affected_country_years,fallback_age_years,total_age_years
+Measles,3,"China, India, Pakistan",13,44,1400
+Rubella,4,"China, India, Indonesia, Pakistan",39,406,1400
+Pertussis,0,None,0,0,1400
+Diphtheria,0,None,0,0,1400
+Mumps,3,"China, India, Pakistan",13,44,1400

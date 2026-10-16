@@ -1,0 +1,26 @@
+disease,configuration,n_eligible,n_matched,slope_per_010_deficit,slope_low_95,slope_high_95
+Measles,Exact current coverage,368,271,0.091011,0.083086,0.102506
+Measles,2-percentage-point coverage band,368,312,0.092746,0.086914,0.101742
+Measles,5-percentage-point coverage band,368,347,0.093028,0.087931,0.099540
+Measles,Birth-cohort weighted,368,271,0.096783,0.082104,0.117164
+Measles,Full dose vector,368,48,0.105897,0.071141,0.118154
+Rubella,Exact current coverage,1177,1078,0.088016,0.084105,0.092307
+Rubella,2-percentage-point coverage band,1177,1132,0.089062,0.084312,0.093221
+Rubella,5-percentage-point coverage band,1177,1154,0.090525,0.085169,0.095042
+Rubella,Birth-cohort weighted,1177,1078,0.086735,0.079346,0.092583
+Rubella,Full dose vector,1177,1078,0.088016,0.084105,0.092307
+Pertussis,Exact current coverage,1932,1782,0.015525,0.012842,0.017419
+Pertussis,2-percentage-point coverage band,1932,1859,0.015619,0.013115,0.017332
+Pertussis,5-percentage-point coverage band,1932,1911,0.015836,0.013687,0.017552
+Pertussis,Birth-cohort weighted,1932,1782,0.017364,0.014160,0.020197
+Pertussis,Full dose vector,1932,1161,0.015602,0.010701,0.019780
+Diphtheria,Exact current coverage,1932,1782,0.048193,0.044084,0.050963
+Diphtheria,2-percentage-point coverage band,1932,1859,0.049733,0.045552,0.052362
+Diphtheria,5-percentage-point coverage band,1932,1911,0.050530,0.046603,0.052971
+Diphtheria,Birth-cohort weighted,1932,1782,0.054362,0.049395,0.057493
+Diphtheria,Full dose vector,1932,1161,0.043335,0.035855,0.049042
+Mumps,Exact current coverage,368,271,0.082260,0.075386,0.090991
+Mumps,2-percentage-point coverage band,368,312,0.081097,0.075537,0.088926
+Mumps,5-percentage-point coverage band,368,347,0.080439,0.076606,0.086013
+Mumps,Birth-cohort weighted,368,271,0.083502,0.067923,0.101685
+Mumps,Full dose vector,368,48,0.077810,-0.073209,0.173196

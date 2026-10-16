@@ -1,0 +1,32 @@
+disease,parameter,value,unit,sensitivity,evidence,references,source_rows
+Measles,R0,15.0,dimensionless,12/15/18; broader setting heterogeneity,C,MeaslesCDC,24
+Measles,latent_days,10.0,days,6–10,C,MeaslesCDC,25
+Measles,infectious_days,8.0,days,6–10,C,MeaslesCDC,26
+Measles,clinical_fraction,0.9,fraction,0.80/0.90/1.00,C,MeaslesCDC,27
+Measles,acquisition_ratio_given_clinical_protection,1.0,ratio (not a second VE),"[0.75, 1.0, 1.0]",LM,,29
+Measles,source_reduction_given_residual_protection,0.0,fraction,[0],A,,30
+Rubella,R0,6.0,dimensionless,3/6/9,C,RubellaCDC,32
+Rubella,latent_days,7.0,days,5–10,C,RubellaCDC,33
+Rubella,infectious_days,14.0,days,10–14,C,RubellaCDC,34
+Rubella,clinical_fraction,0.5,fraction,0.50/0.65/0.80,C,RubellaCDC,35
+Rubella,acquisition_ratio_given_clinical_protection,1.0,ratio (not a second VE),"[0.75, 1.0, 1.0]",LM,,37
+Rubella,source_reduction_given_residual_protection,0.0,fraction,[0],A,,38
+Pertussis,R0,12.0,dimensionless,8/12/17,C,PertussisCDC,40
+Pertussis,latent_days,8.0,days,4–10,C,PertussisCDC,41
+Pertussis,infectious_days,21.0,days,14–28 (treatment shortens),C,PertussisCDC,42
+Pertussis,clinical_fraction,0.25,fraction,0.10/0.25/0.50,A,PertussisCDC,43
+Pertussis,acquisition_ratio_given_clinical_protection,0.29411764705882354,ratio (not a second VE),"[0.04411764705882354, 0.29411764705882354, 1.0]",A,War2014;PertussisCDC,45
+Pertussis,source_reduction_given_residual_protection,0.0,fraction,[0],A,,46
+Diphtheria,R0,2.6,dimensionless,1.7/2.6/4.3,C,True2020,48
+Diphtheria,latent_days,4.0,days,2–5,C,True2020,49
+Diphtheria,infectious_days,18.5,days,5.2 treated / 18.5 untreated,C,True2020,50
+Diphtheria,clinical_fraction,0.25,fraction,0.10/0.25/0.50,A,True2020,51
+Diphtheria,acquisition_ratio_given_clinical_protection,0.0,ratio (not a second VE),"[0, 0.0, 1.0]",LM,True2020,53
+Diphtheria,source_reduction_given_residual_protection,0.689655172413793,fraction,"[0.5862068965517242, 0.689655172413793, 0.7816091954022989]",LM,True2020,54
+Mumps,R0,4.79,dimensionless,3/4.79/7,C,Lew2018;MumpsCDC,56
+Mumps,latent_days,15.0,days,12–16,C,Lew2018;MumpsCDC,57
+Mumps,infectious_days,7.0,days,5–9,C,Lew2018;MumpsCDC,58
+Mumps,clinical_fraction,0.8,fraction,0.76/0.80/0.85,C,Lew2018;MumpsCDC,59
+Mumps,acquisition_ratio_given_clinical_protection,1.0,ratio (not a second VE),"[0.75, 1.0, 1.0]",LM,,61
+Mumps,source_reduction_given_residual_protection,0.0,fraction,[0],A,,62
+All,conditional_clinical_protection,derived: gap / s,conditional clinical risk,derived for each age/year,I,,31;39;47;55;63

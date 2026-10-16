@@ -1,0 +1,7 @@
+disease,definition,n_events,definition_label
+Diphtheria,each_prior_3y_le85,2,Strict
+Pertussis,each_prior_3y_le85,2,Strict
+Rubella,each_prior_3y_le85,1,Strict
+Diphtheria,prior_3y_mean_le85,6,Mean
+Pertussis,prior_3y_mean_le85,6,Mean
+Rubella,prior_3y_mean_le85,3,Mean

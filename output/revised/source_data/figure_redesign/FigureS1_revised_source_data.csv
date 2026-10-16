@@ -1,0 +1,771 @@
+panel,row_id,variable,value
+child_cap_sensitivity,1,disease,Diphtheria
+child_cap_sensitivity,1,level,0
+child_cap_sensitivity,1,scenario,high
+child_cap_sensitivity,1,reduction,18.1233585770333
+child_cap_sensitivity,2,disease,Diphtheria
+child_cap_sensitivity,2,level,0
+child_cap_sensitivity,2,scenario,recovery
+child_cap_sensitivity,2,reduction,7.33906755482453
+child_cap_sensitivity,3,disease,Diphtheria
+child_cap_sensitivity,3,level,0.1
+child_cap_sensitivity,3,scenario,high
+child_cap_sensitivity,3,reduction,15.1375784600983
+child_cap_sensitivity,4,disease,Diphtheria
+child_cap_sensitivity,4,level,0.1
+child_cap_sensitivity,4,scenario,recovery
+child_cap_sensitivity,4,reduction,6.03738264744088
+child_cap_sensitivity,5,disease,Diphtheria
+child_cap_sensitivity,5,level,0.2
+child_cap_sensitivity,5,scenario,high
+child_cap_sensitivity,5,reduction,11.8880781109773
+child_cap_sensitivity,6,disease,Diphtheria
+child_cap_sensitivity,6,level,0.2
+child_cap_sensitivity,6,scenario,recovery
+child_cap_sensitivity,6,reduction,4.64523340427622
+child_cap_sensitivity,7,disease,Measles
+child_cap_sensitivity,7,level,0
+child_cap_sensitivity,7,scenario,high
+child_cap_sensitivity,7,reduction,15.9538964480679
+child_cap_sensitivity,8,disease,Measles
+child_cap_sensitivity,8,level,0
+child_cap_sensitivity,8,scenario,recovery
+child_cap_sensitivity,8,reduction,5.47038471778856
+child_cap_sensitivity,9,disease,Measles
+child_cap_sensitivity,9,level,0.1
+child_cap_sensitivity,9,scenario,high
+child_cap_sensitivity,9,reduction,11.0017871208893
+child_cap_sensitivity,10,disease,Measles
+child_cap_sensitivity,10,level,0.1
+child_cap_sensitivity,10,scenario,recovery
+child_cap_sensitivity,10,reduction,3.64374417458537
+child_cap_sensitivity,11,disease,Measles
+child_cap_sensitivity,11,level,0.2
+child_cap_sensitivity,11,scenario,high
+child_cap_sensitivity,11,reduction,6.5858833609253
+child_cap_sensitivity,12,disease,Measles
+child_cap_sensitivity,12,level,0.2
+child_cap_sensitivity,12,scenario,recovery
+child_cap_sensitivity,12,reduction,2.0152510923614
+child_cap_sensitivity,13,disease,Mumps
+child_cap_sensitivity,13,level,0
+child_cap_sensitivity,13,scenario,high
+child_cap_sensitivity,13,reduction,63.520388029552
+child_cap_sensitivity,14,disease,Mumps
+child_cap_sensitivity,14,level,0
+child_cap_sensitivity,14,scenario,recovery
+child_cap_sensitivity,14,reduction,16.889839122606
+child_cap_sensitivity,15,disease,Mumps
+child_cap_sensitivity,15,level,0.1
+child_cap_sensitivity,15,scenario,high
+child_cap_sensitivity,15,reduction,56.4413174725736
+child_cap_sensitivity,16,disease,Mumps
+child_cap_sensitivity,16,level,0.1
+child_cap_sensitivity,16,scenario,recovery
+child_cap_sensitivity,16,reduction,15.5680697354823
+child_cap_sensitivity,17,disease,Mumps
+child_cap_sensitivity,17,level,0.2
+child_cap_sensitivity,17,scenario,high
+child_cap_sensitivity,17,reduction,46.2552192409729
+child_cap_sensitivity,18,disease,Mumps
+child_cap_sensitivity,18,level,0.2
+child_cap_sensitivity,18,scenario,recovery
+child_cap_sensitivity,18,reduction,13.777799195471
+child_cap_sensitivity,19,disease,Pertussis
+child_cap_sensitivity,19,level,0
+child_cap_sensitivity,19,scenario,high
+child_cap_sensitivity,19,reduction,13.0005945127802
+child_cap_sensitivity,20,disease,Pertussis
+child_cap_sensitivity,20,level,0
+child_cap_sensitivity,20,scenario,recovery
+child_cap_sensitivity,20,reduction,4.96595854321571
+child_cap_sensitivity,21,disease,Pertussis
+child_cap_sensitivity,21,level,0.1
+child_cap_sensitivity,21,scenario,high
+child_cap_sensitivity,21,reduction,11.459402031411
+child_cap_sensitivity,22,disease,Pertussis
+child_cap_sensitivity,22,level,0.1
+child_cap_sensitivity,22,scenario,recovery
+child_cap_sensitivity,22,reduction,4.41080712023056
+child_cap_sensitivity,23,disease,Pertussis
+child_cap_sensitivity,23,level,0.2
+child_cap_sensitivity,23,scenario,high
+child_cap_sensitivity,23,reduction,9.95548159273042
+child_cap_sensitivity,24,disease,Pertussis
+child_cap_sensitivity,24,level,0.2
+child_cap_sensitivity,24,scenario,recovery
+child_cap_sensitivity,24,reduction,3.86014774245385
+child_cap_sensitivity,25,disease,Rubella
+child_cap_sensitivity,25,level,0
+child_cap_sensitivity,25,scenario,high
+child_cap_sensitivity,25,reduction,12.8339841681456
+child_cap_sensitivity,26,disease,Rubella
+child_cap_sensitivity,26,level,0
+child_cap_sensitivity,26,scenario,recovery
+child_cap_sensitivity,26,reduction,5.09875961146155
+child_cap_sensitivity,27,disease,Rubella
+child_cap_sensitivity,27,level,0.1
+child_cap_sensitivity,27,scenario,high
+child_cap_sensitivity,27,reduction,8.44670451635237
+child_cap_sensitivity,28,disease,Rubella
+child_cap_sensitivity,28,level,0.1
+child_cap_sensitivity,28,scenario,recovery
+child_cap_sensitivity,28,reduction,3.33509804768384
+child_cap_sensitivity,29,disease,Rubella
+child_cap_sensitivity,29,level,0.2
+child_cap_sensitivity,29,scenario,high
+child_cap_sensitivity,29,reduction,4.47412900220528
+child_cap_sensitivity,30,disease,Rubella
+child_cap_sensitivity,30,level,0.2
+child_cap_sensitivity,30,scenario,recovery
+child_cap_sensitivity,30,reduction,1.67047496478455
+paired_sensitivity,1,disease,Diphtheria
+paired_sensitivity,1,setting,Adult gap: 0.05
+paired_sensitivity,1,scenario,high
+paired_sensitivity,1,reduction,30.6334014736622
+paired_sensitivity,2,disease,Diphtheria
+paired_sensitivity,2,setting,Adult gap: 0.05
+paired_sensitivity,2,scenario,recovery
+paired_sensitivity,2,reduction,12.2212148058622
+paired_sensitivity,3,disease,Diphtheria
+paired_sensitivity,3,setting,Adult gap: 0.3
+paired_sensitivity,3,scenario,high
+paired_sensitivity,3,reduction,15.1375784600983
+paired_sensitivity,4,disease,Diphtheria
+paired_sensitivity,4,setting,Adult gap: 0.3
+paired_sensitivity,4,scenario,recovery
+paired_sensitivity,4,reduction,6.03738264744088
+paired_sensitivity,5,disease,Diphtheria
+paired_sensitivity,5,setting,Adult gap: 0.6
+paired_sensitivity,5,scenario,high
+paired_sensitivity,5,reduction,10.5783151812573
+paired_sensitivity,6,disease,Diphtheria
+paired_sensitivity,6,setting,Adult gap: 0.6
+paired_sensitivity,6,scenario,recovery
+paired_sensitivity,6,reduction,4.2088996682508
+paired_sensitivity,7,disease,Diphtheria
+paired_sensitivity,7,setting,Contact scale: 0.5
+paired_sensitivity,7,scenario,high
+paired_sensitivity,7,reduction,13.9946462544368
+paired_sensitivity,8,disease,Diphtheria
+paired_sensitivity,8,setting,Contact scale: 0.5
+paired_sensitivity,8,scenario,recovery
+paired_sensitivity,8,reduction,4.17485689983463
+paired_sensitivity,9,disease,Diphtheria
+paired_sensitivity,9,setting,Contact scale: 0.75
+paired_sensitivity,9,scenario,high
+paired_sensitivity,9,reduction,14.3974855570659
+paired_sensitivity,10,disease,Diphtheria
+paired_sensitivity,10,setting,Contact scale: 0.75
+paired_sensitivity,10,scenario,recovery
+paired_sensitivity,10,reduction,4.90161795806367
+paired_sensitivity,11,disease,Diphtheria
+paired_sensitivity,11,setting,Contact scale: 1
+paired_sensitivity,11,scenario,high
+paired_sensitivity,11,reduction,15.1375784600983
+paired_sensitivity,12,disease,Diphtheria
+paired_sensitivity,12,setting,Contact scale: 1
+paired_sensitivity,12,scenario,recovery
+paired_sensitivity,12,reduction,6.03738264744088
+paired_sensitivity,13,disease,Diphtheria
+paired_sensitivity,13,setting,Natural immunity: 0
+paired_sensitivity,13,scenario,high
+paired_sensitivity,13,reduction,15.1375784600983
+paired_sensitivity,14,disease,Diphtheria
+paired_sensitivity,14,setting,Natural immunity: 0
+paired_sensitivity,14,scenario,recovery
+paired_sensitivity,14,reduction,6.03738264744088
+paired_sensitivity,15,disease,Diphtheria
+paired_sensitivity,15,setting,Natural immunity: 15
+paired_sensitivity,15,scenario,high
+paired_sensitivity,15,reduction,15.1478113229554
+paired_sensitivity,16,disease,Diphtheria
+paired_sensitivity,16,setting,Natural immunity: 15
+paired_sensitivity,16,scenario,recovery
+paired_sensitivity,16,reduction,6.04520039769257
+paired_sensitivity,17,disease,Diphtheria
+paired_sensitivity,17,setting,Natural immunity: 30
+paired_sensitivity,17,scenario,high
+paired_sensitivity,17,reduction,15.1429075399036
+paired_sensitivity,18,disease,Diphtheria
+paired_sensitivity,18,setting,Natural immunity: 30
+paired_sensitivity,18,scenario,recovery
+paired_sensitivity,18,reduction,6.0419396764046
+paired_sensitivity,19,disease,Measles
+paired_sensitivity,19,setting,Adult gap: 0.05
+paired_sensitivity,19,scenario,high
+paired_sensitivity,19,reduction,20.7022436343154
+paired_sensitivity,20,disease,Measles
+paired_sensitivity,20,setting,Adult gap: 0.05
+paired_sensitivity,20,scenario,recovery
+paired_sensitivity,20,reduction,7.08238956814228
+paired_sensitivity,21,disease,Measles
+paired_sensitivity,21,setting,Adult gap: 0.3
+paired_sensitivity,21,scenario,high
+paired_sensitivity,21,reduction,11.0017871208893
+paired_sensitivity,22,disease,Measles
+paired_sensitivity,22,setting,Adult gap: 0.3
+paired_sensitivity,22,scenario,recovery
+paired_sensitivity,22,reduction,3.64374417458537
+paired_sensitivity,23,disease,Measles
+paired_sensitivity,23,setting,Adult gap: 0.6
+paired_sensitivity,23,scenario,high
+paired_sensitivity,23,reduction,29.6308379855544
+paired_sensitivity,24,disease,Measles
+paired_sensitivity,24,setting,Adult gap: 0.6
+paired_sensitivity,24,scenario,recovery
+paired_sensitivity,24,reduction,9.0350551665023
+paired_sensitivity,25,disease,Measles
+paired_sensitivity,25,setting,Contact scale: 0.5
+paired_sensitivity,25,scenario,high
+paired_sensitivity,25,reduction,10.2278972303567
+paired_sensitivity,26,disease,Measles
+paired_sensitivity,26,setting,Contact scale: 0.5
+paired_sensitivity,26,scenario,recovery
+paired_sensitivity,26,reduction,2.03155016121821
+paired_sensitivity,27,disease,Measles
+paired_sensitivity,27,setting,Contact scale: 0.75
+paired_sensitivity,27,scenario,high
+paired_sensitivity,27,reduction,10.346338743935
+paired_sensitivity,28,disease,Measles
+paired_sensitivity,28,setting,Contact scale: 0.75
+paired_sensitivity,28,scenario,recovery
+paired_sensitivity,28,reduction,2.50237469831373
+paired_sensitivity,29,disease,Measles
+paired_sensitivity,29,setting,Contact scale: 1
+paired_sensitivity,29,scenario,high
+paired_sensitivity,29,reduction,11.0017871208893
+paired_sensitivity,30,disease,Measles
+paired_sensitivity,30,setting,Contact scale: 1
+paired_sensitivity,30,scenario,recovery
+paired_sensitivity,30,reduction,3.64374417458537
+paired_sensitivity,31,disease,Measles
+paired_sensitivity,31,setting,Natural immunity: 0
+paired_sensitivity,31,scenario,high
+paired_sensitivity,31,reduction,11.0017871208893
+paired_sensitivity,32,disease,Measles
+paired_sensitivity,32,setting,Natural immunity: 0
+paired_sensitivity,32,scenario,recovery
+paired_sensitivity,32,reduction,3.64374417458537
+paired_sensitivity,33,disease,Measles
+paired_sensitivity,33,setting,Natural immunity: 15
+paired_sensitivity,33,scenario,high
+paired_sensitivity,33,reduction,11.0362448231885
+paired_sensitivity,34,disease,Measles
+paired_sensitivity,34,setting,Natural immunity: 15
+paired_sensitivity,34,scenario,recovery
+paired_sensitivity,34,reduction,3.65843301862258
+paired_sensitivity,35,disease,Measles
+paired_sensitivity,35,setting,Natural immunity: 30
+paired_sensitivity,35,scenario,high
+paired_sensitivity,35,reduction,11.0209187997659
+paired_sensitivity,36,disease,Measles
+paired_sensitivity,36,setting,Natural immunity: 30
+paired_sensitivity,36,scenario,recovery
+paired_sensitivity,36,reduction,3.65211763517302
+paired_sensitivity,37,disease,Mumps
+paired_sensitivity,37,setting,Adult gap: 0.05
+paired_sensitivity,37,scenario,high
+paired_sensitivity,37,reduction,63.2582626347969
+paired_sensitivity,38,disease,Mumps
+paired_sensitivity,38,setting,Adult gap: 0.05
+paired_sensitivity,38,scenario,recovery
+paired_sensitivity,38,reduction,13.1138068538769
+paired_sensitivity,39,disease,Mumps
+paired_sensitivity,39,setting,Adult gap: 0.3
+paired_sensitivity,39,scenario,high
+paired_sensitivity,39,reduction,56.4413174725736
+paired_sensitivity,40,disease,Mumps
+paired_sensitivity,40,setting,Adult gap: 0.3
+paired_sensitivity,40,scenario,recovery
+paired_sensitivity,40,reduction,15.5680697354823
+paired_sensitivity,41,disease,Mumps
+paired_sensitivity,41,setting,Adult gap: 0.6
+paired_sensitivity,41,scenario,high
+paired_sensitivity,41,reduction,42.0778599193952
+paired_sensitivity,42,disease,Mumps
+paired_sensitivity,42,setting,Adult gap: 0.6
+paired_sensitivity,42,scenario,recovery
+paired_sensitivity,42,reduction,27.7319840869269
+paired_sensitivity,43,disease,Mumps
+paired_sensitivity,43,setting,Contact scale: 0.5
+paired_sensitivity,43,scenario,high
+paired_sensitivity,43,reduction,52.7448265436441
+paired_sensitivity,44,disease,Mumps
+paired_sensitivity,44,setting,Contact scale: 0.5
+paired_sensitivity,44,scenario,recovery
+paired_sensitivity,44,reduction,6.6132925779948
+paired_sensitivity,45,disease,Mumps
+paired_sensitivity,45,setting,Contact scale: 0.75
+paired_sensitivity,45,scenario,high
+paired_sensitivity,45,reduction,52.659316263994
+paired_sensitivity,46,disease,Mumps
+paired_sensitivity,46,setting,Contact scale: 0.75
+paired_sensitivity,46,scenario,recovery
+paired_sensitivity,46,reduction,7.66240177806755
+paired_sensitivity,47,disease,Mumps
+paired_sensitivity,47,setting,Contact scale: 1
+paired_sensitivity,47,scenario,high
+paired_sensitivity,47,reduction,56.4413174725736
+paired_sensitivity,48,disease,Mumps
+paired_sensitivity,48,setting,Contact scale: 1
+paired_sensitivity,48,scenario,recovery
+paired_sensitivity,48,reduction,15.5680697354823
+paired_sensitivity,49,disease,Mumps
+paired_sensitivity,49,setting,Natural immunity: 0
+paired_sensitivity,49,scenario,high
+paired_sensitivity,49,reduction,56.4413174725736
+paired_sensitivity,50,disease,Mumps
+paired_sensitivity,50,setting,Natural immunity: 0
+paired_sensitivity,50,scenario,recovery
+paired_sensitivity,50,reduction,15.5680697354823
+paired_sensitivity,51,disease,Mumps
+paired_sensitivity,51,setting,Natural immunity: 15
+paired_sensitivity,51,scenario,high
+paired_sensitivity,51,reduction,61.4607446981689
+paired_sensitivity,52,disease,Mumps
+paired_sensitivity,52,setting,Natural immunity: 15
+paired_sensitivity,52,scenario,recovery
+paired_sensitivity,52,reduction,23.1142194797175
+paired_sensitivity,53,disease,Mumps
+paired_sensitivity,53,setting,Natural immunity: 30
+paired_sensitivity,53,scenario,high
+paired_sensitivity,53,reduction,58.9364031162547
+paired_sensitivity,54,disease,Mumps
+paired_sensitivity,54,setting,Natural immunity: 30
+paired_sensitivity,54,scenario,recovery
+paired_sensitivity,54,reduction,19.3778283557802
+paired_sensitivity,55,disease,Pertussis
+paired_sensitivity,55,setting,Adult gap: 0.05
+paired_sensitivity,55,scenario,high
+paired_sensitivity,55,reduction,12.0907106736841
+paired_sensitivity,56,disease,Pertussis
+paired_sensitivity,56,setting,Adult gap: 0.05
+paired_sensitivity,56,scenario,recovery
+paired_sensitivity,56,reduction,4.56358926138674
+paired_sensitivity,57,disease,Pertussis
+paired_sensitivity,57,setting,Adult gap: 0.3
+paired_sensitivity,57,scenario,high
+paired_sensitivity,57,reduction,11.459402031411
+paired_sensitivity,58,disease,Pertussis
+paired_sensitivity,58,setting,Adult gap: 0.3
+paired_sensitivity,58,scenario,recovery
+paired_sensitivity,58,reduction,4.41080712023056
+paired_sensitivity,59,disease,Pertussis
+paired_sensitivity,59,setting,Adult gap: 0.6
+paired_sensitivity,59,scenario,high
+paired_sensitivity,59,reduction,10.856995375447
+paired_sensitivity,60,disease,Pertussis
+paired_sensitivity,60,setting,Adult gap: 0.6
+paired_sensitivity,60,scenario,recovery
+paired_sensitivity,60,reduction,4.30231047410167
+paired_sensitivity,61,disease,Pertussis
+paired_sensitivity,61,setting,Contact scale: 0.5
+paired_sensitivity,61,scenario,high
+paired_sensitivity,61,reduction,11.8889761594981
+paired_sensitivity,62,disease,Pertussis
+paired_sensitivity,62,setting,Contact scale: 0.5
+paired_sensitivity,62,scenario,recovery
+paired_sensitivity,62,reduction,2.29607216492687
+paired_sensitivity,63,disease,Pertussis
+paired_sensitivity,63,setting,Contact scale: 0.75
+paired_sensitivity,63,scenario,high
+paired_sensitivity,63,reduction,13.2588556084051
+paired_sensitivity,64,disease,Pertussis
+paired_sensitivity,64,setting,Contact scale: 0.75
+paired_sensitivity,64,scenario,recovery
+paired_sensitivity,64,reduction,5.80533634736932
+paired_sensitivity,65,disease,Pertussis
+paired_sensitivity,65,setting,Contact scale: 1
+paired_sensitivity,65,scenario,high
+paired_sensitivity,65,reduction,11.459402031411
+paired_sensitivity,66,disease,Pertussis
+paired_sensitivity,66,setting,Contact scale: 1
+paired_sensitivity,66,scenario,recovery
+paired_sensitivity,66,reduction,4.41080712023056
+paired_sensitivity,67,disease,Pertussis
+paired_sensitivity,67,setting,Natural immunity: 0
+paired_sensitivity,67,scenario,high
+paired_sensitivity,67,reduction,11.459402031411
+paired_sensitivity,68,disease,Pertussis
+paired_sensitivity,68,setting,Natural immunity: 0
+paired_sensitivity,68,scenario,recovery
+paired_sensitivity,68,reduction,4.41080712023056
+paired_sensitivity,69,disease,Pertussis
+paired_sensitivity,69,setting,Natural immunity: 15
+paired_sensitivity,69,scenario,high
+paired_sensitivity,69,reduction,12.1417561746638
+paired_sensitivity,70,disease,Pertussis
+paired_sensitivity,70,setting,Natural immunity: 15
+paired_sensitivity,70,scenario,recovery
+paired_sensitivity,70,reduction,4.73445566211165
+paired_sensitivity,71,disease,Pertussis
+paired_sensitivity,71,setting,Natural immunity: 30
+paired_sensitivity,71,scenario,high
+paired_sensitivity,71,reduction,11.6862384888458
+paired_sensitivity,72,disease,Pertussis
+paired_sensitivity,72,setting,Natural immunity: 30
+paired_sensitivity,72,scenario,recovery
+paired_sensitivity,72,reduction,4.60027688351454
+paired_sensitivity,73,disease,Rubella
+paired_sensitivity,73,setting,Adult gap: 0.05
+paired_sensitivity,73,scenario,high
+paired_sensitivity,73,reduction,16.6662167997694
+paired_sensitivity,74,disease,Rubella
+paired_sensitivity,74,setting,Adult gap: 0.05
+paired_sensitivity,74,scenario,recovery
+paired_sensitivity,74,reduction,6.62910382984155
+paired_sensitivity,75,disease,Rubella
+paired_sensitivity,75,setting,Adult gap: 0.3
+paired_sensitivity,75,scenario,high
+paired_sensitivity,75,reduction,8.44670451635237
+paired_sensitivity,76,disease,Rubella
+paired_sensitivity,76,setting,Adult gap: 0.3
+paired_sensitivity,76,scenario,recovery
+paired_sensitivity,76,reduction,3.33509804768384
+paired_sensitivity,77,disease,Rubella
+paired_sensitivity,77,setting,Adult gap: 0.6
+paired_sensitivity,77,scenario,high
+paired_sensitivity,77,reduction,10.472086184227
+paired_sensitivity,78,disease,Rubella
+paired_sensitivity,78,setting,Adult gap: 0.6
+paired_sensitivity,78,scenario,recovery
+paired_sensitivity,78,reduction,3.87109340765287
+paired_sensitivity,79,disease,Rubella
+paired_sensitivity,79,setting,Contact scale: 0.5
+paired_sensitivity,79,scenario,high
+paired_sensitivity,79,reduction,7.53897325860229
+paired_sensitivity,80,disease,Rubella
+paired_sensitivity,80,setting,Contact scale: 0.5
+paired_sensitivity,80,scenario,recovery
+paired_sensitivity,80,reduction,2.11772978742419
+paired_sensitivity,81,disease,Rubella
+paired_sensitivity,81,setting,Contact scale: 0.75
+paired_sensitivity,81,scenario,high
+paired_sensitivity,81,reduction,7.8598159112319
+paired_sensitivity,82,disease,Rubella
+paired_sensitivity,82,setting,Contact scale: 0.75
+paired_sensitivity,82,scenario,recovery
+paired_sensitivity,82,reduction,2.58371314153731
+paired_sensitivity,83,disease,Rubella
+paired_sensitivity,83,setting,Contact scale: 1
+paired_sensitivity,83,scenario,high
+paired_sensitivity,83,reduction,8.44670451635237
+paired_sensitivity,84,disease,Rubella
+paired_sensitivity,84,setting,Contact scale: 1
+paired_sensitivity,84,scenario,recovery
+paired_sensitivity,84,reduction,3.33509804768384
+paired_sensitivity,85,disease,Rubella
+paired_sensitivity,85,setting,Natural immunity: 0
+paired_sensitivity,85,scenario,high
+paired_sensitivity,85,reduction,8.44670451635237
+paired_sensitivity,86,disease,Rubella
+paired_sensitivity,86,setting,Natural immunity: 0
+paired_sensitivity,86,scenario,recovery
+paired_sensitivity,86,reduction,3.33509804768384
+paired_sensitivity,87,disease,Rubella
+paired_sensitivity,87,setting,Natural immunity: 15
+paired_sensitivity,87,scenario,high
+paired_sensitivity,87,reduction,8.45247277629783
+paired_sensitivity,88,disease,Rubella
+paired_sensitivity,88,setting,Natural immunity: 15
+paired_sensitivity,88,scenario,recovery
+paired_sensitivity,88,reduction,3.33793165790104
+paired_sensitivity,89,disease,Rubella
+paired_sensitivity,89,setting,Natural immunity: 30
+paired_sensitivity,89,scenario,high
+paired_sensitivity,89,reduction,8.44992049441067
+paired_sensitivity,90,disease,Rubella
+paired_sensitivity,90,setting,Natural immunity: 30
+paired_sensitivity,90,scenario,recovery
+paired_sensitivity,90,reduction,3.33677079828303
+annual_heatmap,1,disease,Diphtheria
+annual_heatmap,1,year,2014
+annual_heatmap,1,value,19.4315348746642
+annual_heatmap,2,disease,Diphtheria
+annual_heatmap,2,year,2015
+annual_heatmap,2,value,20.1677220267285
+annual_heatmap,3,disease,Diphtheria
+annual_heatmap,3,year,2016
+annual_heatmap,3,value,20.2263401553518
+annual_heatmap,4,disease,Diphtheria
+annual_heatmap,4,year,2017
+annual_heatmap,4,value,20.3021536198392
+annual_heatmap,5,disease,Diphtheria
+annual_heatmap,5,year,2018
+annual_heatmap,5,value,20.4133392627229
+annual_heatmap,6,disease,Diphtheria
+annual_heatmap,6,year,2019
+annual_heatmap,6,value,20.521268789688
+annual_heatmap,7,disease,Diphtheria
+annual_heatmap,7,year,2020
+annual_heatmap,7,value,20.5927312132089
+annual_heatmap,8,disease,Diphtheria
+annual_heatmap,8,year,2021
+annual_heatmap,8,value,20.6222667764987
+annual_heatmap,9,disease,Diphtheria
+annual_heatmap,9,year,2022
+annual_heatmap,9,value,20.610490082159
+annual_heatmap,10,disease,Diphtheria
+annual_heatmap,10,year,2023
+annual_heatmap,10,value,20.586795539947
+annual_heatmap,11,disease,Measles
+annual_heatmap,11,year,2014
+annual_heatmap,11,value,0
+annual_heatmap,12,disease,Measles
+annual_heatmap,12,year,2015
+annual_heatmap,12,value,0
+annual_heatmap,13,disease,Measles
+annual_heatmap,13,year,2016
+annual_heatmap,13,value,0
+annual_heatmap,14,disease,Measles
+annual_heatmap,14,year,2017
+annual_heatmap,14,value,0
+annual_heatmap,15,disease,Measles
+annual_heatmap,15,year,2018
+annual_heatmap,15,value,0
+annual_heatmap,16,disease,Measles
+annual_heatmap,16,year,2019
+annual_heatmap,16,value,0
+annual_heatmap,17,disease,Measles
+annual_heatmap,17,year,2020
+annual_heatmap,17,value,0
+annual_heatmap,18,disease,Measles
+annual_heatmap,18,year,2021
+annual_heatmap,18,value,0
+annual_heatmap,19,disease,Measles
+annual_heatmap,19,year,2022
+annual_heatmap,19,value,0
+annual_heatmap,20,disease,Measles
+annual_heatmap,20,year,2023
+annual_heatmap,20,value,0
+annual_heatmap,21,disease,Mumps
+annual_heatmap,21,year,2014
+annual_heatmap,21,value,70.6913399497691
+annual_heatmap,22,disease,Mumps
+annual_heatmap,22,year,2015
+annual_heatmap,22,value,306.904932694212
+annual_heatmap,23,disease,Mumps
+annual_heatmap,23,year,2016
+annual_heatmap,23,value,70.6715379922895
+annual_heatmap,24,disease,Mumps
+annual_heatmap,24,year,2017
+annual_heatmap,24,value,11.7438053312087
+annual_heatmap,25,disease,Mumps
+annual_heatmap,25,year,2018
+annual_heatmap,25,value,35.975455966988
+annual_heatmap,26,disease,Mumps
+annual_heatmap,26,year,2019
+annual_heatmap,26,value,95.214674338244
+annual_heatmap,27,disease,Mumps
+annual_heatmap,27,year,2020
+annual_heatmap,27,value,152.805688510692
+annual_heatmap,28,disease,Mumps
+annual_heatmap,28,year,2021
+annual_heatmap,28,value,175.612068789741
+annual_heatmap,29,disease,Mumps
+annual_heatmap,29,year,2022
+annual_heatmap,29,value,157.444532443876
+annual_heatmap,30,disease,Mumps
+annual_heatmap,30,year,2023
+annual_heatmap,30,value,120.83081858845
+annual_heatmap,31,disease,Pertussis
+annual_heatmap,31,year,2014
+annual_heatmap,31,value,182.230049863503
+annual_heatmap,32,disease,Pertussis
+annual_heatmap,32,year,2015
+annual_heatmap,32,value,64.7051329367249
+annual_heatmap,33,disease,Pertussis
+annual_heatmap,33,year,2016
+annual_heatmap,33,value,54.4260098953397
+annual_heatmap,34,disease,Pertussis
+annual_heatmap,34,year,2017
+annual_heatmap,34,value,115.549634771626
+annual_heatmap,35,disease,Pertussis
+annual_heatmap,35,year,2018
+annual_heatmap,35,value,85.0950427653584
+annual_heatmap,36,disease,Pertussis
+annual_heatmap,36,year,2019
+annual_heatmap,36,value,88.0953414521975
+annual_heatmap,37,disease,Pertussis
+annual_heatmap,37,year,2020
+annual_heatmap,37,value,102.779650173985
+annual_heatmap,38,disease,Pertussis
+annual_heatmap,38,year,2021
+annual_heatmap,38,value,97.0755226250074
+annual_heatmap,39,disease,Pertussis
+annual_heatmap,39,year,2022
+annual_heatmap,39,value,93.4788797144222
+annual_heatmap,40,disease,Pertussis
+annual_heatmap,40,year,2023
+annual_heatmap,40,value,95.3263626709443
+annual_heatmap,41,disease,Rubella
+annual_heatmap,41,year,2014
+annual_heatmap,41,value,0
+annual_heatmap,42,disease,Rubella
+annual_heatmap,42,year,2015
+annual_heatmap,42,value,0
+annual_heatmap,43,disease,Rubella
+annual_heatmap,43,year,2016
+annual_heatmap,43,value,0
+annual_heatmap,44,disease,Rubella
+annual_heatmap,44,year,2017
+annual_heatmap,44,value,0
+annual_heatmap,45,disease,Rubella
+annual_heatmap,45,year,2018
+annual_heatmap,45,value,0
+annual_heatmap,46,disease,Rubella
+annual_heatmap,46,year,2019
+annual_heatmap,46,value,0
+annual_heatmap,47,disease,Rubella
+annual_heatmap,47,year,2020
+annual_heatmap,47,value,0
+annual_heatmap,48,disease,Rubella
+annual_heatmap,48,year,2021
+annual_heatmap,48,value,0
+annual_heatmap,49,disease,Rubella
+annual_heatmap,49,year,2022
+annual_heatmap,49,value,0
+annual_heatmap,50,disease,Rubella
+annual_heatmap,50,year,2023
+annual_heatmap,50,value,0
+pooled_contrasts,1,disease,Diphtheria
+pooled_contrasts,1,waning_vs_unwaning_pct,20.3458288320337
+pooled_contrasts,1,waning_vs_flat_pct,15.904762991514
+pooled_contrasts,1,unwaning_vs_flat_pct,6.35398983174402
+pooled_contrasts,1,period,2014_2023
+pooled_contrasts,2,disease,Measles
+pooled_contrasts,2,waning_vs_unwaning_pct,0
+pooled_contrasts,2,waning_vs_flat_pct,10.9830614987581
+pooled_contrasts,2,unwaning_vs_flat_pct,3.64469827842189
+pooled_contrasts,2,period,2014_2023
+pooled_contrasts,3,disease,Mumps
+pooled_contrasts,3,waning_vs_unwaning_pct,102.946122912193
+pooled_contrasts,3,waning_vs_flat_pct,56.1340650471621
+pooled_contrasts,3,unwaning_vs_flat_pct,16.9651781674509
+pooled_contrasts,3,period,2014_2023
+pooled_contrasts,4,disease,Pertussis
+pooled_contrasts,4,waning_vs_unwaning_pct,99.9633844142209
+pooled_contrasts,4,waning_vs_flat_pct,9.88014447300738
+pooled_contrasts,4,unwaning_vs_flat_pct,3.79722188486765
+pooled_contrasts,4,period,2014_2023
+pooled_contrasts,5,disease,Rubella
+pooled_contrasts,5,waning_vs_unwaning_pct,0
+pooled_contrasts,5,waning_vs_flat_pct,8.68450818978883
+pooled_contrasts,5,unwaning_vs_flat_pct,3.43504211560847
+pooled_contrasts,5,period,2014_2023
+predictive_diagnostics,1,disease,Diphtheria
+predictive_diagnostics,1,model,expected_interval_coverage_pct
+predictive_diagnostics,1,coverage_95_pct,0
+predictive_diagnostics,1,split,temporal_holdout
+predictive_diagnostics,2,disease,Diphtheria
+predictive_diagnostics,2,model,nb_predictive_coverage_pct
+predictive_diagnostics,2,coverage_95_pct,100
+predictive_diagnostics,2,split,temporal_holdout
+predictive_diagnostics,3,disease,Measles
+predictive_diagnostics,3,model,expected_interval_coverage_pct
+predictive_diagnostics,3,coverage_95_pct,5.40540540540541
+predictive_diagnostics,3,split,temporal_holdout
+predictive_diagnostics,4,disease,Measles
+predictive_diagnostics,4,model,nb_predictive_coverage_pct
+predictive_diagnostics,4,coverage_95_pct,86.4864864864865
+predictive_diagnostics,4,split,temporal_holdout
+predictive_diagnostics,5,disease,Mumps
+predictive_diagnostics,5,model,expected_interval_coverage_pct
+predictive_diagnostics,5,coverage_95_pct,3.44827586206897
+predictive_diagnostics,5,split,temporal_holdout
+predictive_diagnostics,6,disease,Mumps
+predictive_diagnostics,6,model,nb_predictive_coverage_pct
+predictive_diagnostics,6,coverage_95_pct,86.2068965517241
+predictive_diagnostics,6,split,temporal_holdout
+predictive_diagnostics,7,disease,Pertussis
+predictive_diagnostics,7,model,expected_interval_coverage_pct
+predictive_diagnostics,7,coverage_95_pct,0
+predictive_diagnostics,7,split,temporal_holdout
+predictive_diagnostics,8,disease,Pertussis
+predictive_diagnostics,8,model,nb_predictive_coverage_pct
+predictive_diagnostics,8,coverage_95_pct,100
+predictive_diagnostics,8,split,temporal_holdout
+predictive_diagnostics,9,disease,Rubella
+predictive_diagnostics,9,model,expected_interval_coverage_pct
+predictive_diagnostics,9,coverage_95_pct,0
+predictive_diagnostics,9,split,temporal_holdout
+predictive_diagnostics,10,disease,Rubella
+predictive_diagnostics,10,model,nb_predictive_coverage_pct
+predictive_diagnostics,10,coverage_95_pct,100
+predictive_diagnostics,10,split,temporal_holdout
+adult_susceptibility,1,disease,Diphtheria
+adult_susceptibility,1,level,0.05
+adult_susceptibility,1,relative_impact_pct,-61.3505609399356
+adult_susceptibility,1,adult_baseline_susceptibility,0.05
+adult_susceptibility,1,period,2014_2023
+adult_susceptibility,2,disease,Diphtheria
+adult_susceptibility,2,level,0.3
+adult_susceptibility,2,relative_impact_pct,0
+adult_susceptibility,2,adult_baseline_susceptibility,0.3
+adult_susceptibility,2,period,2014_2023
+adult_susceptibility,3,disease,Diphtheria
+adult_susceptibility,3,level,0.6
+adult_susceptibility,3,relative_impact_pct,114.732225871125
+adult_susceptibility,3,adult_baseline_susceptibility,0.6
+adult_susceptibility,3,period,2014_2023
+adult_susceptibility,4,disease,Measles
+adult_susceptibility,4,level,0.05
+adult_susceptibility,4,relative_impact_pct,-77.1588387304025
+adult_susceptibility,4,adult_baseline_susceptibility,0.05
+adult_susceptibility,4,period,2014_2023
+adult_susceptibility,5,disease,Measles
+adult_susceptibility,5,level,0.3
+adult_susceptibility,5,relative_impact_pct,0
+adult_susceptibility,5,adult_baseline_susceptibility,0.3
+adult_susceptibility,5,period,2014_2023
+adult_susceptibility,6,disease,Measles
+adult_susceptibility,6,level,0.6
+adult_susceptibility,6,relative_impact_pct,1438.57257525492
+adult_susceptibility,6,adult_baseline_susceptibility,0.6
+adult_susceptibility,6,period,2014_2023
+adult_susceptibility,7,disease,Mumps
+adult_susceptibility,7,level,0.05
+adult_susceptibility,7,relative_impact_pct,-54.4135038633734
+adult_susceptibility,7,adult_baseline_susceptibility,0.05
+adult_susceptibility,7,period,2014_2023
+adult_susceptibility,8,disease,Mumps
+adult_susceptibility,8,level,0.3
+adult_susceptibility,8,relative_impact_pct,0
+adult_susceptibility,8,adult_baseline_susceptibility,0.3
+adult_susceptibility,8,period,2014_2023
+adult_susceptibility,9,disease,Mumps
+adult_susceptibility,9,level,0.6
+adult_susceptibility,9,relative_impact_pct,809.72322906519
+adult_susceptibility,9,adult_baseline_susceptibility,0.6
+adult_susceptibility,9,period,2014_2023
+adult_susceptibility,10,disease,Pertussis
+adult_susceptibility,10,level,0.05
+adult_susceptibility,10,relative_impact_pct,-4.79338310557953
+adult_susceptibility,10,adult_baseline_susceptibility,0.05
+adult_susceptibility,10,period,2014_2023
+adult_susceptibility,11,disease,Pertussis
+adult_susceptibility,11,level,0.3
+adult_susceptibility,11,relative_impact_pct,0
+adult_susceptibility,11,adult_baseline_susceptibility,0.3
+adult_susceptibility,11,period,2014_2023
+adult_susceptibility,12,disease,Pertussis
+adult_susceptibility,12,level,0.6
+adult_susceptibility,12,relative_impact_pct,3.787831406829
+adult_susceptibility,12,adult_baseline_susceptibility,0.6
+adult_susceptibility,12,period,2014_2023
+adult_susceptibility,13,disease,Rubella
+adult_susceptibility,13,level,0.05
+adult_susceptibility,13,relative_impact_pct,-71.1372297399136
+adult_susceptibility,13,adult_baseline_susceptibility,0.05
+adult_susceptibility,13,period,2014_2023
+adult_susceptibility,14,disease,Rubella
+adult_susceptibility,14,level,0.3
+adult_susceptibility,14,relative_impact_pct,0
+adult_susceptibility,14,adult_baseline_susceptibility,0.3
+adult_susceptibility,14,period,2014_2023
+adult_susceptibility,15,disease,Rubella
+adult_susceptibility,15,level,0.6
+adult_susceptibility,15,relative_impact_pct,342.388566153264
+adult_susceptibility,15,adult_baseline_susceptibility,0.6
+adult_susceptibility,15,period,2014_2023

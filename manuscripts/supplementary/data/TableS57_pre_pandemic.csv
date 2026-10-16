@@ -1,0 +1,6 @@
+Disease,n,Δ AIC (cohort-time gap − coverage history),Coverage history RR,Cohort-time gap RR
+Pertussis,836,-3.78,1.08,3.96
+Diphtheria,813,0.11,2.57,6.21
+Measles,155,-0.25,1.07,0.67
+Rubella,556,-0.04,0.99,1.08
+Mumps,129,-0.78,1.63,2.76

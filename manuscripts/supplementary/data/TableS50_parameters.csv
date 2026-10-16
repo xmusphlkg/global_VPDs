@@ -1,0 +1,22 @@
+disease,parameter,value,unit,sensitivity,evidence,references,source_rows
+Measles,reporting,0.2,fraction,0.5× / 1× / 2× centre (cap 1); country-specific surveillance needed,A,,28
+Rubella,reporting,0.2,fraction,0.5× / 1× / 2× centre (cap 1); country-specific surveillance needed,A,,36
+Pertussis,reporting,0.1,fraction,0.5× / 1× / 2× centre (cap 1); country-specific surveillance needed,A,,44
+Diphtheria,reporting,0.3,fraction,0.5× / 1× / 2× centre (cap 1); country-specific surveillance needed,A,,52
+Mumps,reporting,0.15,fraction,0.5× / 1× / 2× centre (cap 1); country-specific surveillance needed,A,,60
+All,adult_gap,.30; harmonized .05/.30/.60,fraction,age/country-specific external serology; .05/.30/.60,A,,64
+All,infant_gap,1,fraction,maternal protection / infant vaccination scenarios,A,,65
+All,missing_childhood_gap,.30 in both active model paths,fraction,complete-profile subset / alternate neutral gaps,A,,66
+All,importation,2e-4 / 365,hazard/person/day,.5×/1×/2×; alternate absolute scales,A,,67
+All,natural_immunity_duration,0 (=no waning),years,15/30/infinite; disease-specific if observed,A,,68
+All,history_cap,.10 only ages 10–14 during 2014–2023,protection-gap fraction,0/.10/.20,A,,69
+All,recovery_length,5,years,3/5/10,A,,70
+All,covid_contact_scale,1,multiplier,.50/.75/1.00,A,,71
+All,simulation_dt,1,day,0.25/0.5/1.0; daily/weekly checks,A,,72
+All,burn_in,2000–2013,years,earlier start / informed age-specific immunity,A,,73
+All,analysis_window,2014–2023,years,common-window / pre-pandemic,A,,74
+All,calibration_holdout,2014–2019 / 2020–2023,years,2014–2016 / 2017–2019,A,,75
+All,contact_matrix,Prem 2017 all locations,contacts/person/day,age structure/contact level scenarios,D,Prem2017,76
+All,demography,WPP2024 single ages,persons,population source/year checks,D,WPP2024,77
+All,infection_seed,"retain active seed, identify unused constant",persons,10-fold initial seeding; no importation (Figure 5),A,,102
+All,age_band_transition_period,5,years,single-age cohort advance if available,A,,103

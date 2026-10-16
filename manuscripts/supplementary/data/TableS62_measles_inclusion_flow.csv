@@ -1,0 +1,9 @@
+step,countries,country_years,cases,exclusion
+"ECDC case-based measles reports, 2023–2025",30,90 (79 with ≥1 case),"44,499",—
+"Age-band panel, ages ≥1 year",30,79,"38,787","Infant (<1 year) cases, 5,709"
+Closed 1–29-year bands with ≥90% reconstruction completeness,29,78,"33,382","Open-ended 30+ band, 5,402 cases; bands below completeness, 3 cases"
+Primary age-alignment model: country-years with ≥2 bands and ≥10 cases,21,40,"33,273",38 country-years with 109 cases
+Open-band sensitivity: adds 30+ cases with a 30–39-year denominator and exposure,22,44,"37,740",Same country-year rule
+Screening-equivalent coverage: country-years with ≥20 cases of known vaccination status,19,38,"40,489 with known status",41 country-years with fewer than 20 known-status cases or no reported status
+"WHO/UNICEF monthly reports, January 2024–June 2026 (country ranking)",29,—,"47,133","Liechtenstein, not a WHO member state"
+"Monthly hurdle-model panel, 2024–2026",29,589 country-months,—,—

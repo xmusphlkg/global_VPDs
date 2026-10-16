@@ -5,7 +5,7 @@ The public data release has three layers.
 - curated/ contains the active five-disease parameter specification and the documented mumps component evidence table.
 - processed/ contains cohort, coverage, demographic and model-ready snapshots used by the active workflow.
 - external/ contains public-use NHANES, ESEN2, KiGGS, Kilifi and PIENTER records with local provenance notes.
-- raw/ contains selected public source snapshots, including the single-age WPP population table, Prem contact matrices, WUENIC coverage, WHO case/schedule extracts and World Bank indicators.
+- raw/ contains selected public source snapshots, including the single-age WPP population table, Prem contact matrices, WUENIC coverage, WHO case/schedule extracts and World Bank indicators. The measles-resurgence scripts document the linked ECDC surveillance inputs and their derived public panels.
 
 The source downloads are public data products. The preparation scripts in scripts/00_data/ can recreate omitted large downloads when the corresponding source files are available locally. The analysis uses country-level and de-identified public-use records; no private or identifying records are included.
 

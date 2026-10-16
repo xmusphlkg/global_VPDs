@@ -1,0 +1,16 @@
+disease,case_status,size
+Measles,reported_positive,1201
+Measles,reported_zero,572
+Measles,unreported,146
+Rubella,reported_positive,915
+Rubella,reported_zero,790
+Rubella,unreported,212
+Pertussis,reported_positive,1035
+Pertussis,reported_zero,521
+Pertussis,unreported,355
+Diphtheria,reported_positive,395
+Diphtheria,reported_zero,1150
+Diphtheria,unreported,366
+Mumps,reported_positive,876
+Mumps,reported_zero,411
+Mumps,unreported,622

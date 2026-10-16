@@ -1,0 +1,9 @@
+analysis,countries,country_years,cases,irr,gap_range
+"Primary: all EU/EEA, closed 1–29-year bands",21,40,"33,273",1.53 (1.30–1.81),26.0
+Ten leading countries,10,26,"32,872",1.62 (1.35–1.93),25.5
+Remaining countries,11,14,401,1.05 (0.73–1.52),26.7
+Outcome year 2023,7,7,"3,155",1.92 (1.39–2.64),25.3
+Outcome year 2024,21,21,"22,906",1.51 (1.20–1.90),26.9
+Outcome year 2025,12,12,"7,212",1.42 (1.05–1.91),26.0
+Including the open-ended 30+ band,22,44,"37,740",1.28 (1.12–1.48),26.9
+Leave one country out (range of 21 refits),20,—,—,1.38 (without ITA) to 1.67 (without BEL),—

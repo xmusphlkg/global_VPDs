@@ -1,0 +1,21 @@
+definition,country,disease,event_year,n_controls,controls,recovery_gap,stable_high_gap,gap_difference_pp,control_scope
+prior_3y_mean_le85,VNM,Diphtheria,2014,17,BDI|BLZ|BWA|CHL|CPV|DZA|GBR|HRV|ISR|ITA|KAZ|KWT|MKD|STP|SVN|URY|USA,0.3543487547395433,0.3357644964222773,1.8584258317266011,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,VNM,Pertussis,2014,17,BDI|BLZ|BWA|CHL|CPV|DZA|GBR|HRV|ISR|ITA|KAZ|KWT|MKD|STP|SVN|URY|USA,0.7574232354625541,0.7433993088969535,1.4023926565600586,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,ZMB,Diphtheria,2015,2,SWZ|TJK,0.3761765881158104,0.3558645330880119,2.031205502779848,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,ZMB,Pertussis,2015,2,SWZ|TJK,0.7605962922618276,0.7493874074300761,1.120888483175142,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,SLE,Diphtheria,2017,4,BRB|HND|SWZ|TTO,0.3926883597270537,0.34931488895280816,4.337347077424552,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,KIR,Diphtheria,2017,4,BRB|HND|SWZ|TTO,0.3847140204166277,0.34931488895280816,3.5399131463819566,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,SLE,Pertussis,2017,4,BRB|HND|SWZ|TTO,0.7659698964857492,0.7576357057699519,0.8334190715797329,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,KIR,Pertussis,2017,4,BRB|HND|SWZ|TTO,0.7666492302060155,0.7576357057699519,0.9013524436063625,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,PRY,Rubella,2017,3,GBR|IRL|ISL,0.155819872958503,0.14188020793007164,1.3939665028431358,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,UKR,Rubella,2018,2,FRA|HND,0.2792423562097265,0.11690002525674505,16.234233095298144,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,MEX,Rubella,2020,5,FJI|IRL|ITA|KGZ|POL,0.1163832081525904,0.10609344876534173,1.0289759387248674,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,JOR,Pertussis,2022,7,CAN|GBR|HRV|ISL|LSO|SRB|THA,0.7547379796975123,0.7652348410580735,-1.049686136056116,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,IRQ,Pertussis,2022,5,ARM|CPV|IRL|NLD|TTO,0.7827307187578317,0.7690245318185369,1.3706186939294818,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,JOR,Diphtheria,2022,7,CAN|GBR|HRV|ISL|LSO|SRB|THA,0.3484880555422853,0.3520541108621842,-0.35660553198988976,exact_current_coverage_and_year; stable_high_previous3_and_next
+prior_3y_mean_le85,IRQ,Diphtheria,2022,5,ARM|CPV|IRL|NLD|TTO,0.417839852289877,0.3529129493019976,6.49269029878794,exact_current_coverage_and_year; stable_high_previous3_and_next
+each_prior_3y_le85,KIR,Pertussis,2017,4,BRB|HND|SWZ|TTO,0.7666492302060155,0.7576357057699519,0.9013524436063625,exact_current_coverage_and_year; stable_high_previous3_and_next
+each_prior_3y_le85,PRY,Rubella,2017,3,GBR|IRL|ISL,0.155819872958503,0.14188020793007164,1.3939665028431358,exact_current_coverage_and_year; stable_high_previous3_and_next
+each_prior_3y_le85,KIR,Diphtheria,2017,4,BRB|HND|SWZ|TTO,0.3847140204166277,0.34931488895280816,3.5399131463819566,exact_current_coverage_and_year; stable_high_previous3_and_next
+each_prior_3y_le85,IRQ,Pertussis,2022,5,ARM|CPV|IRL|NLD|TTO,0.7827307187578317,0.7690245318185369,1.3706186939294818,exact_current_coverage_and_year; stable_high_previous3_and_next
+each_prior_3y_le85,IRQ,Diphtheria,2022,5,ARM|CPV|IRL|NLD|TTO,0.417839852289877,0.3529129493019976,6.49269029878794,exact_current_coverage_and_year; stable_high_previous3_and_next

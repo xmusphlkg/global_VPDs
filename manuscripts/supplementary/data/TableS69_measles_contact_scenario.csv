@@ -1,0 +1,5 @@
+scenario,relative,reduction
+Observed 2025 profile,0.219,0.0
+"Gap capped at 0.10, ages 10–14",0.219,0.0
+"Gap capped at 0.10, ages 15–19",0.219,0.0
+"Gap capped at 0.10, all child bands",0.202,7.9

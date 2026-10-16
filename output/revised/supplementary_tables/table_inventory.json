@@ -1,0 +1,515 @@
+[
+  {
+    "id": "Table1",
+    "display_id": "Table1",
+    "template": "manuscripts/supplementary/templates/tables/Table1.md",
+    "data": "manuscripts/supplementary/data/Table1_main.csv",
+    "display_rows": 5,
+    "display_columns": 5,
+    "source": "manuscripts/supplementary/data/Table1_main.csv"
+  },
+  {
+    "id": "S34",
+    "display_id": "S1",
+    "template": "manuscripts/supplementary/templates/tables/S34.md",
+    "data": "output/revised/supplementary_tables/TableS34_current_coverage_matched_examples.csv",
+    "display_rows": 4,
+    "display_columns": 6,
+    "source": "output/revised/supplementary_tables/TableS34_current_coverage_matched_examples.csv"
+  },
+  {
+    "id": "S55",
+    "display_id": "S2",
+    "template": "manuscripts/supplementary/templates/tables/S55.md",
+    "data": "manuscripts/supplementary/data/TableS55_cohort_eligibility.csv",
+    "display_rows": 6,
+    "display_columns": 4,
+    "source": "manuscripts/supplementary/data/TableS55_cohort_eligibility.csv"
+  },
+  {
+    "id": "S35",
+    "display_id": "S3",
+    "template": "manuscripts/supplementary/templates/tables/S35.md",
+    "data": "output/revised/supplementary_tables/TableS35_history_matching_summary.csv",
+    "display_rows": 25,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS35_history_matching_summary.csv"
+  },
+  {
+    "id": "S36",
+    "display_id": "S4",
+    "template": "manuscripts/supplementary/templates/tables/S36.md",
+    "data": "output/revised/supplementary_tables/TableS36_coverage_recovery_summary.csv",
+    "display_rows": 6,
+    "display_columns": 4,
+    "source": "output/revised/supplementary_tables/TableS36_coverage_recovery_summary.csv"
+  },
+  {
+    "id": "S3",
+    "display_id": "S5",
+    "template": "manuscripts/supplementary/templates/tables/S3.md",
+    "data": "output/revised/supplementary_tables/TableS3_disease_model_coefficients.csv",
+    "display_rows": 15,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS3_disease_model_coefficients.csv"
+  },
+  {
+    "id": "S1",
+    "display_id": "S6",
+    "template": "manuscripts/supplementary/templates/tables/S1.md",
+    "data": "output/revised/supplementary_tables/TableS1_case_quality_observation_audit.csv",
+    "display_rows": 5,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS1_case_quality_observation_audit.csv"
+  },
+  {
+    "id": "S4",
+    "display_id": "S7",
+    "template": "manuscripts/supplementary/templates/tables/S4.md",
+    "data": "output/revised/supplementary_tables/TableS4_disease_model_comparisons.csv",
+    "display_rows": 30,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS4_disease_model_comparisons.csv"
+  },
+  {
+    "id": "S59",
+    "display_id": "S8",
+    "template": "manuscripts/supplementary/templates/tables/S59.md",
+    "data": "manuscripts/supplementary/data/TableS59_p10_p90_contrasts.csv",
+    "display_rows": 5,
+    "display_columns": 8,
+    "source": "manuscripts/supplementary/data/TableS59_p10_p90_contrasts.csv"
+  },
+  {
+    "id": "S37",
+    "display_id": "S9",
+    "template": "manuscripts/supplementary/templates/tables/S37.md",
+    "data": "output/revised/supplementary_tables/TableS37_measles_sign_diagnostics.csv",
+    "display_rows": 42,
+    "display_columns": 9,
+    "source": "output/revised/supplementary_tables/TableS37_measles_sign_diagnostics.csv"
+  },
+  {
+    "id": "S5",
+    "display_id": "S10",
+    "template": "manuscripts/supplementary/templates/tables/S5.md",
+    "data": "output/revised/supplementary_tables/TableS5_pooled_model_comparisons.csv",
+    "display_rows": 4,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS5_pooled_model_comparisons.csv"
+  },
+  {
+    "id": "S56",
+    "display_id": "S11",
+    "template": "manuscripts/supplementary/templates/tables/S56.md",
+    "data": "manuscripts/supplementary/data/TableS56_robustness.csv",
+    "display_rows": 4,
+    "display_columns": 5,
+    "source": "manuscripts/supplementary/data/TableS56_robustness.csv"
+  },
+  {
+    "id": "S57",
+    "display_id": "S12",
+    "template": "manuscripts/supplementary/templates/tables/S57.md",
+    "data": "manuscripts/supplementary/data/TableS57_pre_pandemic.csv",
+    "display_rows": 5,
+    "display_columns": 5,
+    "source": "manuscripts/supplementary/data/TableS57_pre_pandemic.csv"
+  },
+  {
+    "id": "S8",
+    "display_id": "S13",
+    "template": "manuscripts/supplementary/templates/tables/S8.md",
+    "data": "output/revised/supplementary_tables/TableS8_dtp_parameter_sensitivity.csv",
+    "display_rows": 18,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS8_dtp_parameter_sensitivity.csv"
+  },
+  {
+    "id": "S9",
+    "display_id": "S14",
+    "template": "manuscripts/supplementary/templates/tables/S9.md",
+    "data": "output/revised/supplementary_tables/TableS9_common_window_sensitivity.csv",
+    "display_rows": 5,
+    "display_columns": 5,
+    "source": "output/revised/supplementary_tables/TableS9_common_window_sensitivity.csv"
+  },
+  {
+    "id": "S10",
+    "display_id": "S15",
+    "template": "manuscripts/supplementary/templates/tables/S10.md",
+    "data": "output/revised/supplementary_tables/TableS10_mumps_duration_sensitivity.csv",
+    "display_rows": 3,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS10_mumps_duration_sensitivity.csv"
+  },
+  {
+    "id": "S6",
+    "display_id": "S16",
+    "template": "manuscripts/supplementary/templates/tables/S6.md",
+    "data": "output/revised/supplementary_tables/TableS6_time_holdout_metrics.csv",
+    "display_rows": 16,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS6_time_holdout_metrics.csv"
+  },
+  {
+    "id": "S7",
+    "display_id": "S17",
+    "template": "manuscripts/supplementary/templates/tables/S7.md",
+    "data": "output/revised/supplementary_tables/TableS7_time_holdout_by_disease.csv",
+    "display_rows": 72,
+    "display_columns": 9,
+    "source": "output/revised/supplementary_tables/TableS7_time_holdout_by_disease.csv"
+  },
+  {
+    "id": "S46",
+    "display_id": "S18",
+    "template": "manuscripts/supplementary/templates/tables/S46.md",
+    "data": "output/revised/supplementary_tables/TableS46_disease_specific_time_holdout.csv",
+    "display_rows": 20,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS46_disease_specific_time_holdout.csv"
+  },
+  {
+    "id": "S62",
+    "display_id": "S19",
+    "template": "manuscripts/supplementary/templates/tables/S62.md",
+    "data": "manuscripts/supplementary/data/TableS62_measles_inclusion_flow.csv",
+    "display_rows": 8,
+    "display_columns": 5,
+    "source": "output/revised/measles_resurgence_full/measles_case_age_panel.csv"
+  },
+  {
+    "id": "S63",
+    "display_id": "S20",
+    "template": "manuscripts/supplementary/templates/tables/S63.md",
+    "data": "manuscripts/supplementary/data/TableS63_measles_age_mapping.csv",
+    "display_rows": 7,
+    "display_columns": 5,
+    "source": "manuscripts/supplementary/data/TableS63_measles_age_mapping.csv"
+  },
+  {
+    "id": "S65",
+    "display_id": "S21",
+    "template": "manuscripts/supplementary/templates/tables/S65.md",
+    "data": "manuscripts/supplementary/data/TableS65_measles_age_alignment.csv",
+    "display_rows": 8,
+    "display_columns": 6,
+    "source": "output/revised/measles_resurgence_full/measles_age_alignment_fe.csv"
+  },
+  {
+    "id": "S64",
+    "display_id": "S22",
+    "template": "manuscripts/supplementary/templates/tables/S64.md",
+    "data": "manuscripts/supplementary/data/TableS64_measles_country_ranking.csv",
+    "display_rows": 9,
+    "display_columns": 4,
+    "source": "output/revised/measles_resurgence_full/measles_coverage_adjusted_gap.csv"
+  },
+  {
+    "id": "S66",
+    "display_id": "S23",
+    "template": "manuscripts/supplementary/templates/tables/S66.md",
+    "data": "manuscripts/supplementary/data/TableS66_measles_screening_coverage.csv",
+    "display_rows": 41,
+    "display_columns": 8,
+    "source": "output/revised/measles_resurgence_full/measles_screening_coverage.csv"
+  },
+  {
+    "id": "S67",
+    "display_id": "S24",
+    "template": "manuscripts/supplementary/templates/tables/S67.md",
+    "data": "manuscripts/supplementary/data/TableS67_measles_monthly_models.csv",
+    "display_rows": 3,
+    "display_columns": 5,
+    "source": "output/revised/measles_resurgence_full/measles_hurdle_model_results.csv"
+  },
+  {
+    "id": "S68",
+    "display_id": "S25",
+    "template": "manuscripts/supplementary/templates/tables/S68.md",
+    "data": "manuscripts/supplementary/data/TableS68_measles_gap_contrasts.csv",
+    "display_rows": 7,
+    "display_columns": 4,
+    "source": "output/revised/measles_resurgence_full/measles_hotspot_gap_contrast.csv"
+  },
+  {
+    "id": "S69",
+    "display_id": "S26",
+    "template": "manuscripts/supplementary/templates/tables/S69.md",
+    "data": "manuscripts/supplementary/data/TableS69_measles_contact_scenario.csv",
+    "display_rows": 4,
+    "display_columns": 3,
+    "source": "output/revised/measles_resurgence_full/measles_transmission_scenarios.csv"
+  },
+  {
+    "id": "S38",
+    "display_id": "S27",
+    "template": "manuscripts/supplementary/templates/tables/S38.md",
+    "data": "manuscripts/supplementary/data/TableS38_country_scenario_comparison.csv",
+    "display_rows": 50,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS38_bayesian_transmission_scenarios.csv"
+  },
+  {
+    "id": "S42",
+    "display_id": "S28",
+    "template": "manuscripts/supplementary/templates/tables/S42.md",
+    "data": "output/revised/supplementary_tables/TableS42_transmission_scope_comparison.csv",
+    "display_rows": 10,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS42_transmission_scope_comparison.csv"
+  },
+  {
+    "id": "S43",
+    "display_id": "S29",
+    "template": "manuscripts/supplementary/templates/tables/S43.md",
+    "data": "output/revised/supplementary_tables/TableS43_history_waning_interaction.csv",
+    "display_rows": 5,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS43_history_waning_interaction.csv"
+  },
+  {
+    "id": "S58",
+    "display_id": "S30",
+    "template": "manuscripts/supplementary/templates/tables/S58.md",
+    "data": "manuscripts/supplementary/data/TableS58_catchup.csv",
+    "display_rows": 5,
+    "display_columns": 6,
+    "source": "manuscripts/supplementary/data/TableS58_catchup.csv"
+  },
+  {
+    "id": "S45",
+    "display_id": "S31",
+    "template": "manuscripts/supplementary/templates/tables/S45.md",
+    "data": "output/revised/supplementary_tables/TableS45_transmission_time_holdout_metrics.csv",
+    "display_rows": 5,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS45_transmission_time_holdout_metrics.csv"
+  },
+  {
+    "id": "S39",
+    "display_id": "S32",
+    "template": "manuscripts/supplementary/templates/tables/S39.md",
+    "data": "output/revised/supplementary_tables/TableS39_bayesian_transmission_diagnostics.csv",
+    "display_rows": 10,
+    "display_columns": 6,
+    "source": "output/revised/supplementary_tables/TableS39_bayesian_transmission_diagnostics.csv"
+  },
+  {
+    "id": "S44",
+    "display_id": "S33",
+    "template": "manuscripts/supplementary/templates/tables/S44.md",
+    "data": "manuscripts/supplementary/data/TableS44_paired_sensitivity_comparison.csv",
+    "display_rows": 41,
+    "display_columns": 9,
+    "source": "output/revised/supplementary_tables/TableS44_transmission_sensitivity.csv"
+  },
+  {
+    "id": "S41",
+    "display_id": "S34",
+    "template": "manuscripts/supplementary/templates/tables/S41.md",
+    "data": "output/revised/supplementary_tables/TableS41_transmission_country_selection.csv",
+    "display_rows": 10,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS41_transmission_country_selection.csv"
+  },
+  {
+    "id": "S12",
+    "display_id": "S35",
+    "template": "manuscripts/supplementary/templates/tables/S12.md",
+    "data": "manuscripts/supplementary/data/TableS12_paired_sensitivity_contrasts.csv",
+    "display_rows": 33,
+    "display_columns": 6,
+    "source": "output/revised/supplementary_tables/TableS12_age_seirv_sensitivity.csv"
+  },
+  {
+    "id": "S60",
+    "display_id": "S36",
+    "template": "manuscripts/supplementary/templates/tables/S60.md",
+    "data": "manuscripts/supplementary/data/TableS60_dominant_mode_age_bands.csv",
+    "display_rows": 3,
+    "display_columns": 4,
+    "source": "manuscripts/supplementary/data/TableS60_dominant_mode_age_bands.csv"
+  },
+  {
+    "id": "S61",
+    "display_id": "S37",
+    "template": "manuscripts/supplementary/templates/tables/S61.md",
+    "data": "manuscripts/supplementary/data/TableS61_profile_fallback_summary.csv",
+    "display_rows": 5,
+    "display_columns": 6,
+    "source": "output/revised/age_seirv/profile_fallback_audit.csv"
+  },
+  {
+    "id": "S11",
+    "display_id": "S38",
+    "template": "manuscripts/supplementary/templates/tables/S11.md",
+    "data": "manuscripts/supplementary/data/TableS11_country_paired_contrasts.csv",
+    "display_rows": 50,
+    "display_columns": 5,
+    "source": "output/revised/supplementary_tables/TableS11_age_seirv_results.csv"
+  },
+  {
+    "id": "S13",
+    "display_id": "S39",
+    "template": "manuscripts/supplementary/templates/tables/S13.md",
+    "data": "output/revised/supplementary_tables/TableS13_age_seirv_disease_summary.csv",
+    "display_rows": 5,
+    "display_columns": 5,
+    "source": "output/revised/supplementary_tables/TableS13_age_seirv_disease_summary.csv"
+  },
+  {
+    "id": "S14",
+    "display_id": "S40",
+    "template": "manuscripts/supplementary/templates/tables/S14.md",
+    "data": "output/revised/supplementary_tables/TableS14_nhanes_validation_metrics.csv",
+    "display_rows": 3,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS14_nhanes_validation_metrics.csv"
+  },
+  {
+    "id": "S15",
+    "display_id": "S41",
+    "template": "manuscripts/supplementary/templates/tables/S15.md",
+    "data": "output/revised/supplementary_tables/TableS15_nhanes_age_validation.csv",
+    "display_rows": 27,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS15_nhanes_age_validation.csv"
+  },
+  {
+    "id": "S25",
+    "display_id": "S42",
+    "template": "manuscripts/supplementary/templates/tables/S25.md",
+    "data": "output/revised/supplementary_tables/TableS25_nhanes_age_band_serology.csv",
+    "display_rows": 12,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS25_nhanes_age_band_serology.csv"
+  },
+  {
+    "id": "S31",
+    "display_id": "S43",
+    "template": "manuscripts/supplementary/templates/tables/S31.md",
+    "data": "output/revised/supplementary_tables/TableS31_aggregate_serology_summary.csv",
+    "display_rows": 15,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS31_aggregate_serology_summary.csv"
+  },
+  {
+    "id": "S30",
+    "display_id": "S44",
+    "template": "manuscripts/supplementary/templates/tables/S30.md",
+    "data": "output/revised/supplementary_tables/TableS30_esen2_mumps_age_bands.csv",
+    "display_rows": 71,
+    "display_columns": 6,
+    "source": "output/revised/supplementary_tables/TableS30_esen2_mumps_age_bands.csv"
+  },
+  {
+    "id": "S33",
+    "display_id": "S45",
+    "template": "manuscripts/supplementary/templates/tables/S33.md",
+    "data": "output/revised/supplementary_tables/TableS33_pienter2_mumps_age_bands.csv",
+    "display_rows": 36,
+    "display_columns": 7,
+    "source": "output/revised/supplementary_tables/TableS33_pienter2_mumps_age_bands.csv"
+  },
+  {
+    "id": "S27",
+    "display_id": "S46",
+    "template": "manuscripts/supplementary/templates/tables/S27.md",
+    "data": "output/revised/supplementary_tables/TableS27_esen2_measles_age_bands.csv",
+    "display_rows": 54,
+    "display_columns": 6,
+    "source": "output/revised/supplementary_tables/TableS27_esen2_measles_age_bands.csv"
+  },
+  {
+    "id": "S28",
+    "display_id": "S47",
+    "template": "manuscripts/supplementary/templates/tables/S28.md",
+    "data": "output/revised/supplementary_tables/TableS28_esen2_rubella_age_bands.csv",
+    "display_rows": 51,
+    "display_columns": 6,
+    "source": "output/revised/supplementary_tables/TableS28_esen2_rubella_age_bands.csv"
+  },
+  {
+    "id": "S29",
+    "display_id": "S48",
+    "template": "manuscripts/supplementary/templates/tables/S29.md",
+    "data": "output/revised/supplementary_tables/TableS29_kiggs_mmr_age_bands.csv",
+    "display_rows": 15,
+    "display_columns": 8,
+    "source": "output/revised/supplementary_tables/TableS29_kiggs_mmr_age_bands.csv"
+  },
+  {
+    "id": "S47",
+    "display_id": "S49",
+    "template": "manuscripts/supplementary/templates/tables/S47.md",
+    "data": "manuscripts/supplementary/data/TableS47_parameters.csv",
+    "display_rows": 14,
+    "display_columns": 7,
+    "source": "output/revised/parameter_audit/TableS47_parameter_review.csv"
+  },
+  {
+    "id": "S48",
+    "display_id": "S50",
+    "template": "manuscripts/supplementary/templates/tables/S48.md",
+    "data": "manuscripts/supplementary/data/TableS48_parameters.csv",
+    "display_rows": 13,
+    "display_columns": 7,
+    "source": "output/revised/parameter_audit/TableS47_parameter_review.csv"
+  },
+  {
+    "id": "S49",
+    "display_id": "S51",
+    "template": "manuscripts/supplementary/templates/tables/S49.md",
+    "data": "manuscripts/supplementary/data/TableS49_parameters.csv",
+    "display_rows": 31,
+    "display_columns": 7,
+    "source": "output/revised/parameter_audit/TableS47_parameter_review.csv"
+  },
+  {
+    "id": "S50",
+    "display_id": "S52",
+    "template": "manuscripts/supplementary/templates/tables/S50.md",
+    "data": "manuscripts/supplementary/data/TableS50_parameters.csv",
+    "display_rows": 21,
+    "display_columns": 7,
+    "source": "output/revised/parameter_audit/TableS47_parameter_review.csv"
+  },
+  {
+    "id": "S51",
+    "display_id": "S53",
+    "template": "manuscripts/supplementary/templates/tables/S51.md",
+    "data": "manuscripts/supplementary/data/TableS51_parameters.csv",
+    "display_rows": 13,
+    "display_columns": 7,
+    "source": "output/revised/parameter_audit/TableS47_parameter_review.csv"
+  },
+  {
+    "id": "S52",
+    "display_id": "S54",
+    "template": "manuscripts/supplementary/templates/tables/S52.md",
+    "data": "manuscripts/supplementary/data/TableS52_parameters.csv",
+    "display_rows": 10,
+    "display_columns": 7,
+    "source": "output/revised/parameter_audit/TableS47_parameter_review.csv"
+  },
+  {
+    "id": "S53",
+    "display_id": "S55",
+    "template": "manuscripts/supplementary/templates/tables/S53.md",
+    "data": "manuscripts/supplementary/data/TableS53_parameter_references.csv",
+    "display_rows": 18,
+    "display_columns": 3,
+    "source": "manuscripts/supplementary/data/TableS53_parameter_references.csv"
+  },
+  {
+    "id": "S54",
+    "display_id": "S56",
+    "template": "manuscripts/supplementary/templates/tables/S54.md",
+    "data": "manuscripts/supplementary/data/TableS54_input_fields.csv",
+    "display_rows": 7,
+    "display_columns": 3,
+    "source": "manuscripts/supplementary/data/TableS54_input_fields.csv"
+  }
+]

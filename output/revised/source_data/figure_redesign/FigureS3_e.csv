@@ -1,0 +1,16 @@
+disease,count_type,n
+Measles,positive,92
+Measles,zero,2
+Measles,missing,6
+Rubella,positive,82
+Rubella,zero,13
+Rubella,missing,5
+Pertussis,positive,92
+Pertussis,zero,4
+Pertussis,missing,4
+Diphtheria,positive,78
+Diphtheria,zero,17
+Diphtheria,missing,5
+Mumps,positive,62
+Mumps,zero,4
+Mumps,missing,34

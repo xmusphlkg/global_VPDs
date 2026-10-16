@@ -1,0 +1,11 @@
+disease,parameter,value,unit,sensitivity,evidence,references,source_rows
+All,serology_measles_cutoff,200,mIU/mL,assay-specific interpretation,D,NHANES,82
+All,serology_rubella_cutoff,10,IU/mL,assay-specific interpretation,D,NHANES,83
+All,serology_mumps_cutoff,46,AU/mL,assay-specific interpretation,D,NHANES,84
+All,serology_diphtheria_cutoff,0.011,IU/mL,minimum / full protection thresholds,A,,85
+All,serology_pertussis_cutoff,62.5,EU/mL,62.5/125 exposure categories,A,,86
+All,survey_weight_epsilon,1e-06,survey weight,numerical near-zero threshold,A,,87
+All,coverage_recovery_low_cutoff,85,coverage percent,80/85/90 descriptive scenarios,A,,99
+All,coverage_recovery_high_cutoff,90,coverage percent,85/90/95 descriptive scenarios,A,,100
+All,coverage_recovery_lookback,3,years,3/5/10,A,,101
+All,current_coverage_matching_bins,exact/2/5,coverage-bin scale,exact dose vector / age-standardized weights,A,,104

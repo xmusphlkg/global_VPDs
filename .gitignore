@@ -1,5 +1,11 @@
 # Keep internal working material out of the public repository.
-manuscripts/
+manuscripts/*
+!manuscripts/attachments/
+!manuscripts/attachments/*.md
+!manuscripts/supplementary/
+!manuscripts/supplementary/data/
+!manuscripts/supplementary/data/*.csv
+manuscripts/attachments/Supplementary_Table_S47_parameter_review*
 tests/
 **/__pycache__/
 .venv*/
@@ -11,7 +17,6 @@ output/revised/parameter_audit/
 output/revised/methods_audit/
 output/revised/measles_diagnostics/
 output/revised/transmission_input_audit/
-output/revised/history_matching/
 data/raw/other_indicators_data.csv
 data/raw/WPP2024_PopulationBySingleAgeSex_Medium_1950-2023.csv.gz
 data/raw/WPP2024_PopulationBySingleAgeSex_Medium_2024-2100.csv.gz

@@ -1,0 +1,7 @@
+disease,model_year,profile_scope,scenario,n_age_groups,mean_model_gap,mean_gap_minus_seronegative,spearman_model_gap_vs_seronegative,interpretation
+Measles,2018,known_only,waning,6,0.10859999999999992,0.08523968900973539,-0.6,descriptive scenario contrast; serology remains an external construct
+Measles,2018,known_only,no_waning,6,0.10859999999999992,0.08523968900973539,-0.6,descriptive scenario contrast; serology remains an external construct
+Mumps,2018,known_only,waning,6,0.31701555046430646,0.2501621292800238,-0.3714285714285715,descriptive scenario contrast; serology remains an external construct
+Mumps,2018,known_only,no_waning,6,0.11311999999999996,0.04626657881571722,0.8280786712108251,descriptive scenario contrast; serology remains an external construct
+Rubella,2018,known_only,waning,9,0.12916666666666668,0.11163291415797809,0.13693063937629152,descriptive scenario contrast; serology remains an external construct
+Rubella,2018,known_only,no_waning,9,0.12916666666666668,0.11163291415797809,0.13693063937629152,descriptive scenario contrast; serology remains an external construct

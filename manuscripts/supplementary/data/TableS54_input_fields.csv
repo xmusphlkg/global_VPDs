@@ -1,0 +1,8 @@
+field_group,definition,source_or_processing
+Coverage,Annual dose-specific percentage,WHO/UNICEF coverage stream in the harmonized panel
+Cases,Reported annual disease count with status,Quality-preserved WHO case input; explicit zero and blank fields retained separately
+Population,Mid-year population denominator,World Population Prospects input
+Dose state,"Zero-dose, one-dose, two-dose, future-due or unresolved","Country, birth year, target age and coverage join"
+Cohort gap,One minus scenario protection,"Dose state, selected efficacy and duration kernel"
+Historical gap,Mean complement of prior disease-specific coverage window (5 years for pertussis; 10 years for other diseases),Calendar-window summary
+Age profile,"Weighted gap in ages 1–4, 5–9 and 10–14",Cohort size weights

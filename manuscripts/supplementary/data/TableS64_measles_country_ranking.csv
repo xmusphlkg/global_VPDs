@@ -1,0 +1,10 @@
+exposure,adjustment,countries,rho
+2023 MCV1 coverage,None,29,−0.30 (−0.59 to 0.08)
+2023 MCV2 coverage,None,29,−0.57 (−0.80 to −0.20)
+"2023 gap, ages 1–4",2023 MCV1 and MCV2,29,0.50 (0.02–0.73)
+"2023 gap, ages 5–9",2023 MCV1 and MCV2,29,0.42 (−0.01 to 0.66)
+"2023 gap, ages 10–14",2023 MCV1 and MCV2,29,0.46 (0.04–0.74)
+"2023 gap, ages 15–19",2023 MCV1 and MCV2,29,0.40 (−0.06 to 0.68)
+"2023 gap, ages 20–29",2023 MCV1 and MCV2,29,0.24 (−0.23 to 0.60)
+"2023 gap, ages 30–39",2023 MCV1 and MCV2,20,0.32 (−0.24 to 0.80)
+2020–2022 MCV1 shortfall relative to 2015–2019,2023 MCV1 and MCV2,29,−0.03 (−0.43 to 0.42)

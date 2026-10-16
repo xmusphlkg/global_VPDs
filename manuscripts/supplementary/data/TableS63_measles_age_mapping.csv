@@ -1,0 +1,8 @@
+band,role,exposure,denominator,note
+<1,Excluded,—,—,Below the MCV1 age; no same-cohort exposure in year t−1
+1–4,Primary,0–3,1–4,Age 0 is the pre-MCV1 state
+5–9,Primary,4–8,5–9,—
+10–14,Primary,9–13,10–14,—
+15–19,Primary,14–18,15–19,—
+20–29,Primary,19–28,20–29,—
+30+,Sensitivity only,29–38,30–39,Open-ended case numerator truncated at 39 years

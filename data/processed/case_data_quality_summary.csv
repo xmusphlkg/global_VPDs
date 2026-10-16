@@ -1,0 +1,16 @@
+period,disease,case_status,size,n_country,year_start,year_end,expected_country_years,observed_rows_all_statuses,source_rows_absent
+analysis_window_study_universe,Diphtheria,reported_positive,395,84,2014,2023,1950,1911,39
+analysis_window_study_universe,Diphtheria,reported_zero,1150,173,2014,2023,1950,1911,39
+analysis_window_study_universe,Diphtheria,unreported,366,99,2014,2023,1950,1911,39
+analysis_window_study_universe,Measles,reported_positive,1201,167,2014,2023,1950,1919,31
+analysis_window_study_universe,Measles,reported_zero,572,120,2014,2023,1950,1919,31
+analysis_window_study_universe,Measles,unreported,146,61,2014,2023,1950,1919,31
+analysis_window_study_universe,Mumps,reported_positive,876,129,2014,2023,1950,1909,41
+analysis_window_study_universe,Mumps,reported_zero,411,101,2014,2023,1950,1909,41
+analysis_window_study_universe,Mumps,unreported,622,119,2014,2023,1950,1909,41
+analysis_window_study_universe,Pertussis,reported_positive,1035,157,2014,2023,1950,1911,39
+analysis_window_study_universe,Pertussis,reported_zero,521,117,2014,2023,1950,1911,39
+analysis_window_study_universe,Pertussis,unreported,355,91,2014,2023,1950,1911,39
+analysis_window_study_universe,Rubella,reported_positive,915,140,2014,2023,1950,1917,33
+analysis_window_study_universe,Rubella,reported_zero,790,133,2014,2023,1950,1917,33
+analysis_window_study_universe,Rubella,unreported,212,84,2014,2023,1950,1917,33

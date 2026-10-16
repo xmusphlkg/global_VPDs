@@ -1,0 +1,7 @@
+disease,n_observed,n_covered,coverage_percent,layer
+Diphtheria,38,38,100,coverage
+Measles,37,32,86.48648648648648,coverage
+Mumps,29,25,86.20689655172413,coverage
+Pertussis,38,38,100,coverage
+Rubella,37,37,100,coverage
+NA,179,170,94.97206703910615,overall

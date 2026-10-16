@@ -1,0 +1,7 @@
+disease,country_years,complete_14_ages,at_least_80pct
+Measles,"1,950",368,876
+Rubella,"1,950","1,177","1,230"
+Pertussis,"1,950","1,932","1,937"
+Diphtheria,"1,950","1,932","1,937"
+"Mumps, strict component","1,950",10,17
+"Mumps, main mapping","1,950",368,876

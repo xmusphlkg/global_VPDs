@@ -1,0 +1,8 @@
+layer,evidence_class,n_parameters
+transmission,C,18
+transmission,A,7
+mapping,LM,5
+mapping,A,5
+mapping,I,5
+structural/statistical/validation,A,38
+structural/statistical/validation,D,5

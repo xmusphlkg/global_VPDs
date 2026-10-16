@@ -1,0 +1,26 @@
+disease,audit,n
+Diphtheria,Joined,1932
+Diphtheria,Current missing,398
+Diphtheria,Lag missing,422
+Diphtheria,Covariate missing,83
+Diphtheria,Model complete,1347
+Measles,Joined,368
+Measles,Current missing,30
+Measles,Lag missing,33
+Measles,Covariate missing,23
+Measles,Model complete,306
+Mumps,Joined,368
+Mumps,Current missing,83
+Mumps,Lag missing,87
+Mumps,Covariate missing,23
+Mumps,Model complete,254
+Pertussis,Joined,1932
+Pertussis,Current missing,388
+Pertussis,Lag missing,406
+Pertussis,Covariate missing,83
+Pertussis,Model complete,1378
+Rubella,Joined,1177
+Rubella,Current missing,154
+Rubella,Lag missing,172
+Rubella,Covariate missing,48
+Rubella,Model complete,920

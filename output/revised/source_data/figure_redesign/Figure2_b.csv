@@ -1,0 +1,23 @@
+disease,comparison,analysis,n,aic_base,aic_extended,delta_aic,lrt_statistic,df,lrt_p_value,layer,aic_gain
+Diphtheria,Coverage history vs current coverage,complete14,1347,3678.469165665544,3671.059174231276,-7.409991434267795,9.409991434267797,1,0.00215806235051643,disease_comparison,7.409991434267795
+Diphtheria,Constant-protection cohort gap vs coverage history,complete14,1347,3671.059174231276,3677.941462819644,6.8822885883673734,NA,NA,NA,disease_comparison,-6.8822885883673734
+Diphtheria,Cohort-time gap vs coverage history,complete14,1347,3671.059174231276,3678.03073829776,6.971564066483552,NA,NA,NA,disease_comparison,-6.971564066483552
+Diphtheria,Cohort-time gap vs constant-protection cohort gap,complete14,1347,3677.941462819644,3678.03073829776,0.08927547811617842,NA,NA,NA,disease_comparison,-0.08927547811617842
+Measles,Coverage history vs current coverage,complete14,306,2811.8276081161525,2810.7332917220474,-1.0943163941051353,3.0943163941051353,1,0.07856614446867233,disease_comparison,1.0943163941051353
+Measles,Constant-protection cohort gap vs coverage history,complete14,306,2810.7332917220474,2809.2435833972418,-1.4897083248056333,NA,NA,NA,disease_comparison,1.4897083248056333
+Measles,Cohort-time gap vs coverage history,complete14,306,2810.7332917220474,2809.2435833972418,-1.4897083248056333,NA,NA,NA,disease_comparison,1.4897083248056333
+Measles,Cohort-time gap vs constant-protection cohort gap,complete14,306,2809.2435833972418,2809.2435833972418,0,NA,NA,NA,disease_comparison,-0
+Mumps,Coverage history vs current coverage,complete14_MCV_proxy,254,2575.804713017869,2574.1990120827745,-1.605700935094319,3.605700935094319,1,0.05758179026057046,disease_comparison,1.605700935094319
+Mumps,Constant-protection cohort gap vs coverage history,complete14_MCV_proxy,254,2574.1990120827745,2575.036406948742,0.837394865967326,NA,NA,NA,disease_comparison,-0.837394865967326
+Mumps,Cohort-time gap vs coverage history,complete14_MCV_proxy,254,2574.1990120827745,2575.8599425177017,1.6609304349271952,NA,NA,NA,disease_comparison,-1.6609304349271952
+Mumps,Cohort-time gap vs constant-protection cohort gap,complete14_MCV_proxy,254,2575.036406948742,2575.8599425177017,0.8235355689598691,NA,NA,NA,disease_comparison,-0.8235355689598691
+Pertussis,Coverage history vs current coverage,complete14,1378,12976.421820562198,12975.860096790411,-0.5617237717870012,2.561723771787001,1,0.10947915360241164,disease_comparison,0.5617237717870012
+Pertussis,Constant-protection cohort gap vs coverage history,complete14,1378,12975.860096790411,12973.562568474648,-2.2975283157629747,NA,NA,NA,disease_comparison,2.2975283157629747
+Pertussis,Cohort-time gap vs coverage history,complete14,1378,12975.860096790411,12966.99141223392,-8.868684556491644,NA,NA,NA,disease_comparison,8.868684556491644
+Pertussis,Cohort-time gap vs constant-protection cohort gap,complete14,1378,12973.562568474648,12966.99141223392,-6.571156240728669,NA,NA,NA,disease_comparison,6.571156240728669
+Rubella,Coverage history vs current coverage,complete14,920,2808.6203873157274,2809.4660609673856,0.8456736516582168,1.1543263483417832,1,0.28264532134331255,disease_comparison,-0.8456736516582168
+Rubella,Constant-protection cohort gap vs coverage history,complete14,920,2809.4660609673856,2810.326605348451,0.8605443810652105,NA,NA,NA,disease_comparison,-0.8605443810652105
+Rubella,Cohort-time gap vs coverage history,complete14,920,2809.4660609673856,2810.326605348451,0.8605443810652105,NA,NA,NA,disease_comparison,-0.8605443810652105
+Rubella,Cohort-time gap vs constant-protection cohort gap,complete14,920,2810.326605348451,2810.326605348451,0,NA,NA,NA,disease_comparison,-0
+All,Disease-by-gap interaction vs cohort-time gap,four_disease_primary,3951,22475.60856038455,22469.336426627568,-6.27213375698193,12.27213375698193,3,0.00650677431818713,pooled_interaction,6.27213375698193
+All,Disease-by-gap interaction vs cohort-time gap,five_disease_proxy,4205,25089.34227906149,25081.28221647774,-8.06006258375055,16.06006258375055,4,0.00293961852595,pooled_interaction,8.06006258375055

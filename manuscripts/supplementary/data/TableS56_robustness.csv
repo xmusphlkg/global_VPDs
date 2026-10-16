@@ -1,0 +1,5 @@
+Disease,Specification,n,RR or joint test,95% CI or P value
+Pertussis,Country fixed effects,"1,378",RR 7.51,2.23–25.28
+Pertussis,2014–2019 pre-pandemic restriction,836,RR 3.96,1.03–15.18
+Pertussis,Three-degree-of-freedom spline versus linear gap,"1,378",LRT 16.2,P=0.00030
+Pertussis,Piecewise median gap,"1,378",high-gap RR 8.12,2.13–30.97

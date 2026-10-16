@@ -1,0 +1,4 @@
+outcome,model,rows,countries,effect
+Outbreak month (≥3 cases),Binomial mixed model,589,29,11.38 (0.37–346.36)
+Two consecutive months with cases,Binomial mixed model,589,29,42.85 (1.08–1699.49)
+Monthly case count (positive months),Negative-binomial mixed model,496,29,1.38 (0.35–5.38)

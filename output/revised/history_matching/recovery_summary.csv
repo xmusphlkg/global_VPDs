@@ -1,0 +1,7 @@
+definition,disease,n_events,mean_gap_difference_pp,mean_gap_difference_pp_low,mean_gap_difference_pp_high,valid_bootstrap,min_gap_difference_pp,max_gap_difference_pp,interpretation
+each_prior_3y_le85,Diphtheria,2,5.016301722584949,2.8542526916701503,6.76290941274687,1694,3.5399131463819566,6.49269029878794,descriptive_event_contrasts; country-bootstrap interval is conditional and non-causal
+each_prior_3y_le85,Pertussis,2,1.1359855687679221,0.5443571864711164,1.88358772786974,1694,0.9013524436063625,1.3706186939294818,descriptive_event_contrasts; country-bootstrap interval is conditional and non-causal
+each_prior_3y_le85,Rubella,1,1.3939665028431358,-0.14175875819170125,3.4773286161043804,1220,1.3939665028431358,1.3939665028431358,descriptive_event_contrasts; country-bootstrap interval is conditional and non-causal
+prior_3y_mean_le85,Diphtheria,6,2.983829387518501,0.9301486289215102,5.156774618150152,1990,-0.35660553198988976,6.49269029878794,descriptive_event_contrasts; country-bootstrap interval is conditional and non-causal
+prior_3y_mean_le85,Pertussis,6,0.7631642021324435,-0.2123984578031591,1.6258789949252985,1990,-1.049686136056116,1.4023926565600586,descriptive_event_contrasts; country-bootstrap interval is conditional and non-causal
+prior_3y_mean_le85,Rubella,3,6.219058512288715,-0.40612399867557203,17.26395954768009,1875,1.0289759387248674,16.234233095298144,descriptive_event_contrasts; country-bootstrap interval is conditional and non-causal

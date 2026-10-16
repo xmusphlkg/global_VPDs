@@ -1,0 +1,72 @@
+country,collection_year,collection_method,mmr1_coverage_group,age_lower,age_upper,age_note,seropositive_pct,n_age_band_reported,source_table,source_url
+Hungary,2003,residual,very_high,1,4,,76.9,406,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Hungary,2003,residual,very_high,5,9,,84.1,503,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Hungary,2003,residual,very_high,10,14,,88.7,503,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Hungary,2003,residual,very_high,15,19,,80.2,501,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovakia,2003,population,very_high,1,4,,80.4,447,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovakia,2003,population,very_high,5,9,,83.3,546,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovakia,2003,population,very_high,10,14,,90.7,529,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovakia,2003,population,very_high,15,19,,93.5,543,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Czech Republic,2001,population,very_high,1,4,,67.0,220,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Czech Republic,2001,population,very_high,5,9,,86.7,471,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Czech Republic,2001,population,very_high,10,14,,82.2,502,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Czech Republic,2001,population,very_high,15,19,,82.7,498,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Latvia,2003,population,very_high,1,4,,44.7,317,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Latvia,2003,population,very_high,5,9,,44.7,420,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Latvia,2003,population,very_high,10,14,,70.8,431,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Latvia,2003,population,very_high,15,19,,79.3,426,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Lithuania,2003,residual,very_high,1,4,,66.6,325,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Lithuania,2003,residual,very_high,5,9,,75.1,457,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Lithuania,2003,residual,very_high,10,14,,74.6,530,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Lithuania,2003,residual,very_high,15,19,,80.3,507,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Finland,1998,residual,very_high,1,4,,70.2,376,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Finland,1998,residual,very_high,5,9,,83.0,437,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Finland,1998,residual,very_high,10,14,,86.9,393,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Finland,1998,residual,very_high,15,19,,90.2,519,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Spain,1996,population,very_high,2,4,age 2-4,70.6,322,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Spain,1996,population,very_high,5,9,,72.9,585,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Spain,1996,population,very_high,10,14,,77.9,484,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Spain,1996,population,very_high,15,19,,84.9,535,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Luxembourg,2000,population,very_high,4,4,age 4 only,81.1,37,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Luxembourg,2000,population,very_high,5,9,,80.7,425,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Luxembourg,2000,population,very_high,10,14,,80.3,532,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Luxembourg,2000,population,very_high,15,19,,79.4,387,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Israel,1998,residual,very_high,1,4,,65.4,365,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Israel,1998,residual,very_high,5,9,,76.7,467,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Israel,1998,residual,very_high,10,14,,67.1,474,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Israel,1998,residual,very_high,15,19,,81.3,540,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovenia,2002,residual,high,1,4,,68.5,400,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovenia,2002,residual,high,5,9,,95.8,500,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovenia,2002,residual,high,10,14,,93.4,500,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Slovenia,2002,residual,high,15,19,,85.8,500,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Bulgaria,2000/2001/2004,residual,high,1,4,,38.4,214,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Bulgaria,2000/2001/2004,residual,high,5,9,,59.6,253,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Bulgaria,2000/2001/2004,residual,high,10,14,,71.5,263,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Bulgaria,2000/2001/2004,residual,high,15,19,,75.1,264,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Belgium,2002,residual,intermediate,1,4,,57.9,377,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Belgium,2002,residual,intermediate,5,9,,56.1,467,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Belgium,2002,residual,intermediate,10,14,,70.2,475,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Belgium,2002,residual,intermediate,15,19,,73.5,644,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Malta,2004,residual,intermediate,1,4,,80.0,162,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Malta,2004,residual,intermediate,5,9,,83.5,255,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Malta,2004,residual,intermediate,10,14,,86.6,211,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Malta,2004,residual,intermediate,15,19,,85.5,196,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Cyprus,2003,residual/population,intermediate,1,4,,52.8,447,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Cyprus,2003,residual/population,intermediate,5,9,,74.4,480,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Cyprus,2003,residual/population,intermediate,10,14,,78.4,501,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Cyprus,2003,residual/population,intermediate,15,19,,75.4,500,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+UK,2000,residual,intermediate,1,4,,54.4,385,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+UK,2000,residual,intermediate,5,9,,73.3,452,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+UK,2000,residual,intermediate,10,14,,60.1,494,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+UK,2000,residual,intermediate,15,19,,53.1,488,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Ireland,2003,residual,intermediate,1,4,,64.5,277,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Ireland,2003,residual,intermediate,5,9,,75.1,323,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Ireland,2003,residual,intermediate,10,14,,78.6,303,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Ireland,2003,residual,intermediate,15,19,,87.3,317,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Romania,2002,residual,unknown,1,4,,27.6,459,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Romania,2002,residual,unknown,5,9,,57.2,578,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Romania,2002,residual,unknown,10,14,,73.3,570,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Romania,2002,residual,unknown,15,19,,82.2,575,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Sweden,1994,population,very_high,1,4,"selected age 2",71.3,94,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Sweden,1994,population,very_high,5,9,"selected age 5",68.8,96,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/
+Sweden,1994,population,very_high,10,14,"selected ages 8-11",66.6,305,Table 4,https://pmc.ncbi.nlm.nih.gov/articles/PMC9152080/

@@ -1,0 +1,6 @@
+disease,median,lo50,hi50,lo,hi,n_draws,estimand,unit,n_countries
+Diphtheria,4031.1211184489675,3290.796472246353,5025.4100505179185,2310.817537035758,8174.360173413721,300,(Observed waning - Observed no waning) - (High waning - High no waning),"Expected reports per country, 2014-2023",10
+Measles,0,0,0,0,0,300,(Observed waning - Observed no waning) - (High waning - High no waning),"Expected reports per country, 2014-2023",10
+Mumps,156745.5914503844,138907.88187363395,188657.1927727342,131986.07687692938,405516.8703050679,300,(Observed waning - Observed no waning) - (High waning - High no waning),"Expected reports per country, 2014-2023",10
+Pertussis,90383.5765835963,74004.80757474451,119965.5799925533,49101.01204043615,225549.64902688842,300,(Observed waning - Observed no waning) - (High waning - High no waning),"Expected reports per country, 2014-2023",10
+Rubella,0,0,0,0,0,300,(Observed waning - Observed no waning) - (High waning - High no waning),"Expected reports per country, 2014-2023",10

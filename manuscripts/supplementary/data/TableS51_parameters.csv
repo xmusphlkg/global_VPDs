@@ -1,0 +1,14 @@
+disease,parameter,value,unit,sensitivity,evidence,references,source_rows
+All,NB_size_prior,25,dimensionless,log SD .8; prior predictive checks,A,,88
+All,R0_log_prior_SD,0.35,log scale,.20/.35/.70,A,,89
+All,MCMC_chains_iterations_burn,4 / 12000 / 2000,counts,extend until diagnostics pass,A,Veh2021,90
+All,MCMC_mode_bounds,"best-mode restricted, explicitly labelled",log R0,alternate-mode audit / dispersed chains,A,Veh2021,91
+All,posterior_scenario_draws,300,draws,increase if Monte Carlo unstable,A,,92
+All,cluster_bootstrap,2000,replicates,whole-country resampling,A,,93
+All,population_anchor_countries,5,countries,coverage-balanced alternative scope,A,,94
+All,extension_countries,5,countries,five versus ten-country scope,A,,95
+All,country_min_case_years,7,years out of 10,threshold sensitivity,A,,96
+All,country_min_positive_years,1,years,include all-zero series sensitivity,A,,97
+All,country_min_profile_fraction,0.95,fraction,complete / .95 / .80,A,,98
+All,random_seeds,20261006,integer,documented chain/scenario offsets,A,,105
+All,population_selection_reference_year,2023,calendar year,alternate population rank years,A,,106

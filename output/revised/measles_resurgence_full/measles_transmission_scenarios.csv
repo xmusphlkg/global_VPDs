@@ -1,0 +1,5 @@
+country,country_name,scenario,relative_Re,relative_reduction
+DEU,DEU,observed,0.21881281624808097,0.0
+DEU,DEU,catchup_10_14,0.21881281624808097,0.0
+DEU,DEU,catchup_15_19,0.21881281624808097,0.0
+DEU,DEU,high_child_history,0.20162223764464138,7.856294205340153
